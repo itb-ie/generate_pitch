@@ -1,0 +1,2382 @@
+Pitch Start of Page
+The fournal of FINANCE
+
+ 
+
+The Journal of THE AMERICAN FINANCE ASSOCIATION
+
+THE JOURNAL OF FINANCE e VOL. LXXII, NO. 4 ¢ AUGUST 2017
+
+Social Capital, Trust, and Firm Performance:
+The Value of Corporate Social Responsibility
+during the Financial Crisis
+
+KARL V. LINS, HENRI SERVAES, and ANE TAMAYO*
+
+ABSTRACT
+
+During the 2008-2009 financial crisis, firms with high social capital, as measured by
+corporate social responsibility (CSR) intensity, had stock returns that were four to
+seven percentage points higher than firms with low social capital. High-CSR firms
+also experienced higher profitability, growth, and sales per employee relative to low-
+CSR firms, and they raised more debt. This evidence suggests that the trust between
+a firm and both its stakeholders and investors, built through investments in social
+capital, pays off when the overall level of trust in corporations and markets suffers a
+negative shock.
+
+“The present financial crisis springs from a catastrophic collapse in confi-
+dence ... Financial markets hinge on trust, and that trust has eroded.”
+—ZJoseph Stiglitz (2008)
+
+“The fundamental problem isn’t lack of capital. It’s lack of trust. And
+without trust, Wall Street might as well fold up its fancy tents.”
+—Former U.S. Labor Secretary Robert Reich (2008)
+
+*Karl V. Lins is at the University of Utah. Henri Servaes is at London Business School, CEPR,
+and ECGI. Ane Tamayo is at the London School of Economics and Political Science (LSE). The
+authors have no conflicts of interest to disclose. We would like to thank Taylor Begley, Colin Clubb,
+Joao Cocco, Mike Cooper, James Dow, Alex Edmans, Christopher Hennessy, Ioannis Ioannou,
+Ralph Koijen, Jean-Marie Meier, Yuval Millo, Michael Roberts (the Editor), Kelly Shue, Rui Silva,
+Hannes Wagner, Yao Zeng, an anonymous Associate Editor, an anonymous referee, and seminar
+participants at City University, Erasmus University, ESSEC, HEC Paris, INSEAD, King’s College,
+London Business School, London School of Economics, Tilburg University, University of Bristol,
+University of Edinburgh, University of Leicester, University of Melbourne, University of New South
+Wales, University of Southampton, University of Sydney, WHU Otto Beisheim, the French Finance
+Association, London Business School Summer Finance Symposium, the International Accounting
+Research Symposium at the Fundacion Ramon Areces, the International Corporate Governance
+Conference at Hong Kong Baptist University, and the University of Cambridge Financial Account-
+ing Symposium for helpful comments and discussions. We would also like to thank the ECGI for
+the 2016 Standard Life Investments Finance Working Paper Prize. Dimas Fazio provided excellent
+research assistance.
+
+DOI: 10.1111/o0fi.12505
+
+1785
+Pitch End Of Page
+Pitch Start of Page
+1786 The Journal of Finance®
+
+“The global financial and economic crisis has done a lot of harm to the
+public trust in the institutions, the principles and the concept itself of the
+market economy.”
+
+—OECD Secretary General Angel Gurria (2009)
+
+“Something important was destroyed in the last few months of 2008. It is
+an asset crucial to production, even if it is not made of bricks and mortar...
+This asset is trust.”
+
+—Paolo Sapienza and Luigi Zingales (2012, p. 123)
+
+The financial crisis highlighted the importance of trust for well-functioning
+markets and financial stability, but discussions on the role of trust and, more
+generally, social capital in economic life are not new. Already in 1972, Arrow
+argued that “virtually every commercial transaction has within itself an ele-
+ment of trust” (p. 357), and suggested that much of the economic backwardness
+in the world might be due to the lack of mutual confidence. In line with this
+view, Putnam (1993) shows that higher social capital societies, in which trust is
+greater, display higher economic development (see also Fukuyama (1995), La
+Porta et al. (1997), and Knack and Keefer (1997)). Focusing on capital markets,
+Guiso, Sapienza, and Zingales (2004, 2008) document that trust derived from
+greater social capital allows for more stock market participation. These studies
+and other related work demonstrate the importance of social capital and trust
+from a macroeconomic perspective. However, the extent to which social capital
+and trust impact firm performance is relatively unexplored in the literature.
+The objective of this paper is to address this question.
+
+Empirical identification of the effect of trust and, more generally, social capi-
+tal on firm performance is challenging. First, social capital is a broadly defined
+concept, often encompassing trust and cooperative norms (e.g., Scrivens and
+Smith (2013)), and hence its measurement is not straightforward. Second, with-
+out exogenous variation in firm-level social capital, it is difficult to attribute
+changes in performance to changes in social capital.
+
+To address the first challenge, we focus on a firm’s Corporate Social Respon-
+sibility (CSR) activities as a measure of its social capital, following recent work
+in economics (Sacconi and Degli Antoni (2011)) suggesting that a firm’s CSR
+activities are a good proxy for its social capital, and also the widespread view
+among practitioners and corporations that a firm’s CSR activities generate
+social capital and trust.!
+
+To address the second challenge, we employ the 2008-2009 financial cri-
+sis, a period during which public trust in corporations, capital markets, and
+institutions declined unexpectedly.” If a firm’s social capital helps build stake-
+holder trust and cooperation (Putnam (1993)), it should pay off when being
+
+1 Following the financial crisis, many corporations have emphasized the importance of a firm’s
+social capital, driven by its CSR investments, in rebuilding stakeholder trust. However, the prac-
+titioner view that CSR helps build trust predates the financial crisis (Fitzgerald (2003)).
+
+2The notion that the crisis led to a decline in public trust in corporations is corroborated by
+surveys such as the 2009 Edelman Trust Barometer, which shows that 62% of respondents from a
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1787
+
+trustworthy is more valuable, such as in an unexpectedly low-trust period.
+From a shareholder perspective, if high social capital firms are perceived as
+more trustworthy, investors may place a valuation premium on these firms
+when overall trust in companies is low (see Guiso, Sapienza, and Zingales
+(2008)), as in the 2008-2009 financial crisis. From a stakeholder perspective,
+the reciprocity concept often discussed in studies of social capital (i.e., the idea
+that “I will be good to you because I believe you will be good to me at some
+point in the future”) suggests that stakeholders (e.g., employees, customers,
+suppliers, and the community at large) are more likely to help high social cap-
+ital firms weather a negative shock, given that such firms displayed greater
+attention to, and cooperation with, stakeholders in the past.
+
+To test whether firm-level social capital pays off during a crisis of trust, we ex-
+amine the performance of 1,673 nonfinancial firms with CSR data available on
+the MSCI ESG Stats database (formerly known as KLD) over the August 2008
+to March 2009 financial crisis period. In regressions that control for a wide vari-
+ety of factors and firm characteristics (including governance and transparency),
+we find that firms that entered the crisis period with high CSR ratings have
+significantly higher (between four and seven percentage points) crisis-period
+stock returns than those that entered it with low CSR ratings. The economic
+importance of social capital in explaining stock returns is at least half as large
+as the effect of cash holdings and leverage, financial variables previously shown
+to affect crisis-period returns (Duchin, Ozbas, and Sensoy (2010) and Almeida
+et al. (2012)). This result highlights the importance of expanding the focus
+beyond financial capital when attempting to understand the determinants of
+firm-level performance during a crisis of trust.
+
+To alleviate concerns that the stock market outperformance we observe is
+due to some factor other than a shock to trust, we conduct three further tests.
+First, we investigate the association between CSR and stock returns during the
+Enron/Worldcom crisis of the early 2000s, a period during which widespread
+revelation of fraud undermined investor confidence in the U.S. stock market.
+We find that high-CSR firms also earned excess returns relative to low-CSR
+firms during this period. Second, we investigate whether our results are driven
+by the decline in the supply of credit that firms faced during the financial crisis,
+rather than by a decline in market-wide trust. Specifically, we test whether CSR
+is related to stock returns in the period July 2007 through July 2008, when
+there was a shock to the credit supply but no shock to the importance of trust.
+We find no significant relation between CSR and stock returns during this
+earlier period of the crisis. Third, we examine whether the relation between
+CSR and crisis-period returns is stronger in high-trust regions, as identified in
+the 2006 General Social Survey. We find that this is indeed the case.
+
+It is possible, of course, that high-CSR firms also outperform low-CSR firms
+during noncrisis periods (e.g., Edmans (2011)). To assess this possibility, we
+examine whether the superior performance of high-CSR firms extends to
+
+survey in 20 countries had lower trust in corporations in the aftermath of the financial crisis (for
+respondents from the United States, this figure is 77%).
+Pitch End Of Page
+Pitch Start of Page
+1788 The Journal of Finance®
+
+periods of economic growth or economic recovery using firm fixed effects models
+that test the relation between CSR and firm performance before, during, and
+after the crisis. These models show that CSR has a positive impact on returns
+only during the crisis period, and that this effect is not due to time-invariant
+unobservable firm characteristics.
+
+We next seek to identify the mechanisms behind the outperformance of high-
+CSR firms by examining firms’ profitability and productivity as well as their
+capital raising during the crisis. We find that high-CSR firms have higher
+profitability and gross margins, and experience higher sales growth, than other
+firms during the crisis. They also have higher sales per employee and are able
+to raise more debt. These results are consistent with stakeholder and investor
+commitment to help firms deemed to be more trustworthy during the crisis.
+
+Collectively, the findings that investors assign a premium to high-CSR firms
+during a crisis of trust and that real effects take place at the firm level during
+this time indicate that greater social capital maps into higher returns at the
+microeconomic level. From a firm’s perspective, our results indicate that the
+benefits that accrue to firms from building social capital through CSR activities
+outweigh the costs of these activities when trust declines unexpectedly. As
+such, investment in social capital can be thought of as an insurance policy
+that pays off when investors and the economy at large face a severe crisis of
+confidence and when the reward for being identifiably trustworthy increases
+markedly. Our results thus highlight an enhanced insurance benefit of CSR
+that goes beyond the notion that CSR acts as insurance against idiosyncratic
+firm-specific legal risk (see, e.g., Godfrey, Merrill, and Hansen (2009), Minor
+(2015), and Hong and Liskovich (2016)).
+
+While our focus is on the impact of social capital on firm performance during
+a shock to trust, our research design allows us to sidestep typical endogeneity
+concerns that make it difficult to identify whether CSR activities impact firm
+value, despite much research on this issue. In our natural experiment, the
+exogenous financial shock disrupts the equilibrium, while levels of CSR remain
+fixed, at least in the short term. This allows us to directly observe how investors
+adjust their valuations of firms with differing attitudes toward CSR. Thus, this
+paper also makes a contribution to the literature investigating whether CSR is
+value-enhancing for shareholders. We recognize, however, that we do not have
+exogenous variation in the levels of CSR, which limits the inferences we can
+draw about the impact of CSR on performance during normal times.
+
+The remainder of the paper is structured as follows. Section I discusses in
+more detail the theoretical motivation behind our proxies and tests. Section II
+discusses our data and summary statistics. In Section III, we analyze whether
+CSR ratings impact stock returns during the crisis and conduct robustness
+
+3 While much of the literature described thus far suggests that shareholders can derive value
+from CSR investments, another strand of the literature argues that CSR investments could stem
+from agency conflicts between managers and shareholders (see, e.g., Cheng, Hong, and Shue
+(2016) for evidence that supports the agency view, and Ferrell, Liang, and Renneboog (2016) and
+Albuquerque, Durnev, and Koskinen (2015) for evidence that does not). Margolis, Elfenbein, and
+Walsh (2009) and Kitzmueller and Shimshack (2012) provide surveys of the CSR literature.
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1789
+
+tests. In Section IV, we investigate several mechanisms that may explain the
+excess performance of high-CSR firms. Section V concludes the paper.
+
+I. Trust, Social Capital, and Corporate Social Responsibility
+A. Trust and Social Capital
+
+Over the last 20 years, the terms “social capital” and “trust” have become
+increasingly popular in the economics and finance literature (Putnam (1998,
+2000), Knack and Keefer (1997), La Porta et al. (1997), Guiso, Sapienza, and
+Zingales (2004, 2008)).* Often used indistinctly, both concepts are somewhat
+abstract, although social capital is arguably the harder one to define due to its
+multidimensional nature.
+
+Trust is often understood as “the expectation that another person (or institu-
+tion) will perform actions that are beneficial, or at least not detrimental, to us
+regardless of our capacity to monitor those actions...so that we will consider
+cooperating with him [the institution]” (Sapienza and Zingales (2012, p. 124),
+based on Gambetta (1988)). This definition highlights the probabilistic nature
+of trust (e.g., Gambetta (1988)), the concept of cooperation (e.g., Fukuyama
+(1995) and La Porta et al. (1997)), and the inability to monitor others’ actions
+ex ante (e.g., Dasgupta (1988)).°
+
+Social capital is a broader concept. For example, Putnam (19938, 2000) views
+social capital as “a propensity of people in a society to cooperate to produce
+socially efficient outcomes” (La Porta et al. (1997, p. 333)) and highlights “the
+norms of reciprocity and trustworthiness” that arise from connections among
+individuals. A recent OECD paper (Scrivens and Smith (2013)) decomposes
+social capital into four dimensions, with the intent of facilitating the devel-
+opment of empirical measures: (i) personal relationships, (ii) social network
+support, (iii) civic engagement, and (iv) trust and cooperative norms.° The no-
+tion of social capital that we explore, like much of the work in economics and
+finance (e.g., Putnam (1993, 2000), Fukuyama (1995), Knack and Keefer (1997),
+La Porta et al. (1997), Guiso, Sapienza, and Zingales (2004, 2008)), is mostly
+related to the last two interpretations of the OECD.
+
+The civic engagement aspect of social capital refers to the activities through
+which agents contribute positively to the community and social life (e.g., vol-
+unteering, political participation, donations; Guiso, Sapienza, and Zingales
+(2011), Scrivens and Smith (2013)). Civic engagement can engender positive
+
+“For recent theoretical work on the origins of trust, see Carlin, Dorobantu, and Viswanathan
+(2009).
+
+> The concept of trust is also related to the concept of integrity put forward in recent work by
+Erhard, Jensen, and Zaffron (2009) and Erhard and Jensen (2015), who argue that trust follows
+from a proactive stance to establish integrity—the process of honoring one’s word on commitments
+made to a variety of constituents consistently.
+
+6 The first two interpretations of social capital are often used in sociology and present social
+capital as a resource for individuals built through networks (e.g., Coleman (1988), Lin (2001)); the
+last two interpretations are often used in politics and economics and emphasize social capital as a
+resource for facilitating cooperation at the group, community, or societal level.
+Pitch End Of Page
+Pitch Start of Page
+1790 The Journal of Finance®
+
+outcomes by, for example, fostering trust and norms of cooperation, such as
+reciprocity.
+
+Trust and cooperative norms comprise factors (social norms, including reci-
+procity, and shared values) that shape the way that agents behave towards
+each other and as members of society. Under this definition, social capital is
+viewed as an enabler of collective action and cooperation, and thereby leading
+to positive outcomes (e.g., economic growth, government performance, and en-
+vironmental stewardship). The channels through which positive outcomes are
+derived include: (i) reductions in transaction costs (by reducing the need for
+formal contracts in the presence of information asymmetry (Knack and Keefer
+(1997)) and (ii) potentially more efficient allocation of resources.
+
+All of the above concepts are, of course, interconnected. For example, civic en-
+gagement can generate trust and cooperation, which in turn can foster further
+civic engagement; likewise, cooperation can build trust and vice versa. Further-
+more, social capital can accrue at different levels, such as societal, institutional,
+and individual levels. Hence, some individuals or institutions, including firms,
+can invest more in social capital than others (see Coleman (1990), Leana and
+Van Buren (1999), and Glaeser, Laibson, and Sacerdote (2002)).
+
+B. Social Capital and Corporate Social Responsibility
+
+To measure social capital at the firm level, we focus on a firm’s CSR activi-
+ties. We motivate this metric by noting that definitions of CSR, which generally
+involve aspects of civic engagement, shared beliefs, and disposition towards co-
+operation between the firm and its stakeholders, tend to map directly into the
+theoretical foundations of social capital. For example, one definition commonly
+used by academics and practitioners, proposed by the World Business Coun-
+cil for Sustainable Development (2000), is that “CSR is the commitment of a
+business to contribute to sustainable economic development, working with em-
+ployees, their families, the local community and society at large to improve the
+quality of life.”
+
+The belief that CSR activities can help build social capital and trust is
+widespread among corporate managers. For example, in two recent CEO sur-
+veys conducted by PricewaterhouseCoopers (20138, 2014), CEOs indicate having
+plans to increase their firms’ engagement in CSR activities to restore stake-
+holder trust after the crisis. In contrast, academic work linking social capital,
+trust, and CSR is scarce but a recent book edited by Sacconi and Degli Antoni
+(2011) presents a series of analytical studies showing that firms can build social
+capital and trust through CSR investments.
+
+Other recent work also supports the claim that CSR builds social capital and
+enhances stakeholder trust in and cooperation with high-CSR firms. Eccles,
+
+7Putnam (1993, p. 172) defines the concept of generalized reciprocity as “a continuing rela-
+tionship of exchange that is at a given time unrequited or imbalanced, but that involves mutual
+expectations that a benefit granted out should be repaid in the future.” For earlier references to
+reciprocity, see Gouldner (1960).
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1791
+
+Ioannou, and Serafeim (2014) show that high-CSR firms implement processes
+that consistently engage with stakeholders over the long term.® Bénabou and
+Tirole (2010) argue that stronger stakeholder engagement via CSR can lessen
+the likelihood of short-term opportunistic behavior by managers, a view sup-
+ported by empirical evidence in Gao, Lisic, and Zhang (2014) that executives of
+high-CSR firms are less likely to engage in insider trading than executives of
+low-CSR firms. In a similar vein, Kim, Park, and Wier (2012) find that socially
+responsible firms are less likely to manage earnings.
+
+While we acknowledge the limitations of CSR as an all-encompassing mea-
+sure of firm-level social capital (see Scrivens and Smith (2013) and Sapienza,
+Toldra-Simats, and Zingales (20138) for a discussion of social capital metrics), we
+note that (i) CSR is measureable, albeit inexactly, (11) CSR can have a nonnega-
+tive payoff (see, e.g., Edmans (2011), Servaes and Tamayo (2013), and Flammer
+(2015)), and (iii) firm-level CSR can change through investment or deprecia-
+tion. Taken together, these three features alleviate Solow’s (1995) reservations
+about social capital.”
+
+C. Social Capital and Firm Valuation
+
+In this paper, we argue that if a firm’s social capital helps build stakeholder
+trust and cooperation, it should pay off more when being trustworthy is more
+valuable, such as during an unexpectedly low-trust period.
+
+From a shareholder perspective, Guiso, Sapienza, and Zingales (2008, p.
+2557) posit that “the decision to invest in stocks requires not only an assessment
+of the risk-return trade-off given the existing data, but also an act of faith (trust)
+that the data in our possession are reliable and that the overall system is fair.”
+During an unexpected decline in the general level of trust, outside shareholders
+are likely to be more concerned that the financial information they previously
+relied upon to guide investment decisions may not be credible. As such, they
+will seek metrics such as social capital ratings that speak to a firm’s values and
+integrity, placing a valuation premium on firms that are deemed to be more
+trustworthy.
+
+From the perspective of other stakeholders (e.g., employees, customers, sup-
+pliers, and the community at large), much of their interaction with the firm
+occurs through implicit or incomplete contracts, which may not be honored by
+either party during a crisis. Social capital could facilitate these interactions
+by fostering trust and cooperation (Putnam (1993)) and by reducing the need
+for formal contracts (Knack and Keefer (1997)). For example, stakeholders
+may perceive that the probability of breaching (implicit) contracts is lower for
+high-social-capital firms due to shared values and cooperative norms. Likewise,
+
+8 The idea of CSR as a competitive advantage is proposed and discussed in detail in Porter and
+Kramer (2006, 2011).
+
+° Solow (1995, p. 38) argues that “if ‘social capital’ is to be more than a buzzword... There
+needs to be an identifiable process of ‘investment’ that adds to the stock, and possibly a process
+of ‘depreciation’ that subtracts from it. The stock of social capital should somehow be measurable,
+even inexactly. Observable changes in it should correspond to investment and depreciation.”
+Pitch End Of Page
+Pitch Start of Page
+1792 The Journal of Finance®
+
+stakeholders are more likely to “do whatever it takes” to help high-social-capital
+firms weather a crisis, given that such firms displayed greater attention to, and
+cooperation with stakeholders in the past.!° This observation is consistent with
+the notion of reciprocity often discussed in studies of social capital and with
+prior work showing that stakeholders tend to cooperate more when they per-
+ceive firms to be trustworthy (e.g., for employees, see Guiso, Sapienza, and
+Zingales (2015); for customers, see Servaes and Tamayo (2013)). The benefits
+of social capital derived from stakeholder cooperation may be present during
+any crisis, but as Sapienza and Zingales (2012) emphasize, cooperation breaks
+down without trust. As such, firm-level social capital becomes even more rele-
+vant when the level of trust in corporations, institutions, and capital markets
+plummets, as occurred during the 2008-2009 financial crisis.
+
+II. Sample and Summary Statistics
+A. Sample Construction
+
+To construct our sample, we gather information on firms’ CSR ratings from
+the MSCI ESG Stats Database, which contains environmental, social, and
+governance ratings of large publicly traded companies.!! This database con-
+tains yearly ratings on roughly the 3,000 largest U.S. companies and has been
+used in numerous studies examining the effect of CSR on firm performance
+(e.g., Hong and Kostovetsky (2012), Deng, Kang, and Low (2013), Servaes and
+Tamayo (2013), Kriiger (2015), and Borisov, Goldman, and Gupta (2016)).'?
+ESG Stats classifies environmental, social, and governance performance into
+13 different categories: community, diversity, employee relations, environment,
+human rights, product, alcohol, gambling, firearms, military, nuclear, tobacco,
+and corporate governance. As in Servaes and Tamayo (2013), we focus on the
+first five of these categories. We do not include the product category in our
+main analyses because it contains a number of elements that we consider to be
+outside the scope of CSR, such as product quality and innovation; our findings
+are unchanged, however, if we include the product category in our measure of
+CSR. Similarly, we do not consider in our tests the ESG Stats categories that
+
+10Rxamples include business contacts continuing solid buying or selling relationships, em-
+ployees working harder (or more cheaply) and more creatively to ensure success, or outside reg-
+ulators/agencies being more sympathetic to these firms’ needs for direct relief or for flexibility
+regarding regulations.
+
+11 The MSCI ESG Stats database was previously known as the KLD Stats database, constructed
+by Boston-based KLD Research and Analytics, Inc. (KLD).
+
+12 The database is constructed as follows. MSCI first defines a number of ESG categories and
+within each category, it specifies a number of criteria that capture good/poor ESG performance.
+Once these criteria are set, MSCI scans public databases covering environmental issues, labor
+issues, and the like to determine the ESG performance of the firm (e.g., has the firm committed
+Environmental Protection Agency violations or had an industrial dispute?). Throughout this pro-
+cess, MSCI assigns analysts to each firm to study the different elements of CSR, and relies on
+sources beyond a firm’s reports or publicity regarding its green activities. See Kriiger (2015) for a
+more detailed description of the process MSCI follows to construct its CSR ratings.
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1793
+
+penalize participation in the six industries that are considered controversial,
+as there is nothing incremental that firms operating in these industries can do
+to change their score except exit those industries (in addition, we control for
+industry in all of our tests). Finally, we do not include the ESG Stats corporate
+governance category in our main tests because governance is generally not part
+of a firm’s CSR remit. However, as the governance category in aggregate, or
+some of the individual governance category components, may be correlated with
+the trustworthiness of a firm, we examine this category in robustness tests.
+
+For each of the five categories we consider, ESG Stats compiles data on
+both strengths and concerns. We are interested in capturing both elements; ac-
+cordingly, we construct a net CSR measure that adds strengths and subtracts
+concerns. As the maximum number of strengths and concerns for any given cat-
+egory varies over time (e.g., the maximum number of strengths for community
+is seven in 2005, but only four in 2010), we scale the strengths (concerns) for
+each category by dividing the number of strengths (concerns) for each firm-year
+by the maximum number of strengths (concerns) possible for that category in
+that year. This procedure yields strength and concern indices that range from
+zero to one for each category-year. Our measure of net CSR involvement in
+each category-year is then obtained by subtracting the concerns index from
+the strengths index. The net CSR index per category therefore ranges from —1
+to +1. Finally, to obtain our primary explanatory variable, a firm’s total net
+CSR index (CSR hereafter), we combine the net CSR indices for the categories
+of community, diversity, employee relations, environment, and human rights.
+This is a net measure across our set of stakeholder-oriented categories, and
+ranges from —5 to +5. There is substantial variation in this measure across
+firms and industries. For example, in 2006, in the Apparel Retail Industry,
+GAP has a score of 0.40 while Limited Brands scores —0.53; in Chemicals, the
+score for Air Products and Chemicals is 0.16, while that for Celanese is —1.36.1°
+
+We obtain stock return data from CRSP and accounting data from Compu-
+stat. We remove financial firms from our sample due to the extensive amount
+of government support given to such firms during the crisis. We also remove
+micro-cap stocks (those with a market capitalization below $250 million as of
+year-end 2007) because these stocks tend to have low liquidity and high bid-ask
+spreads, and are subject to more price pressure effects of trading, all of which
+would likely be more pronounced during the financial crisis.
+
+As in Lins, Volpin, and Wagner (2013), we define the financial crisis as the
+period from August 2008 to March 2009. August of 2008 preceded the Septem-
+ber 2008 Lehman Brothers bankruptcy, while March of 2009 is when the S&P
+500 hit its lowest point of the crisis. This period also corresponds to the time of
+a severe decline in trust as suggested by Sapienza and Zingales (2012) (see also
+
+13 Limited Brands has employee, human rights, and diversity concerns that are only partially
+outweighed by diversity strengths; GAP, in contrast, has strengths in diversity, human rights, and
+community, with some employee concerns. Celanese’s score is due to environmental, employee, and
+diversity concerns; Air Products & Chemicals also has environmental and employee concerns, but
+its strengths in these areas outweigh the concerns.
+Pitch End Of Page
+Pitch Start of Page
+1794 The Journal of Finance®
+
+Tonkiss (2009)). The decline in trust later in 2008 is also corroborated by the
+Trust Barometer developed by Edelman, the world’s largest independent public
+relations firm, which conducts global surveys of trust in business, government,
+NGOs, and the media—they report that trust in business in the United States
+declined from 58% in early 2008 to 38% in early 2009.'4
+
+The main stock return measures for each firm are Raw Crisis-Period Return,
+which is the firm’s raw buy-and-hold return from August 2008 through March
+2009, and Abnormal Crisis-Period Return, which is the raw return minus the
+expected return, based on the market model estimated over the 60-month pe-
+riod ending in July 2008. To avoid problems with outliers, we winsorize these
+returns at the 1st and 99th percentiles. We relate these return measures to our
+CSR measure for the year 2006 to guard against the possibility that by year-
+end 2007 firms may have already changed their CSR policies in anticipation of
+the crisis ahead.'°
+
+After combining nonfinancial firms with sufficient data coverage on the CRSP
+and Compustat databases and firms on the ESG Stats database, we obtain a
+sample of 1,673 nonfinancial firms for which all explanatory variables are
+available for the crisis period.
+
+B. Descriptive Statistics
+
+Table I provides descriptive statistics for our main variables. The first row of
+Panel A shows that our primary variable of interest, CSR, is slightly negative
+with a mean value of —0.165 and a median value of —0.200. Thus, the average
+and median firm has more CSR concerns than strengths, consistent with Deng,
+Kang, and Low (2013), Servaes and Tamayo (2013), and Borisov, Goldman, and
+Gupta (2016). The next row shows that Raw Crisis-Period Return is strongly
+negative, with a mean of —39.1%, a median of —40.3%, and a 25th percentile
+value of —59.5%, indicating that investors and other stakeholders were likely
+quite concerned about the survival prospects of many of the firms they held
+in their portfolios, worked for, or interacted with in business transactions. The
+median abnormal return is close to zero at 1.3%, while the mean is 11.6%. Panel
+A also provides definitions and descriptive statistics for firm characteristics
+that we use as control variables in our models; Panel B presents a correlation
+matrix of all the variables employed in our main analyses.
+
+14The Global Competitiveness Index developed by the World Economic Forum, and based in
+part on survey evidence, also contains a component measuring trust in financial markets. Released
+in September of each year, this trust measure shows a decline from 5.65 in September 2008 to 5.06
+in September 2009. The Financial Trust Index (financialtrustindex.org) developed by Sapienza
+and Zingales is another measure of public trust, but because this index started after the onset of
+the crisis we cannot employ it to corroborate the extent to which trust changed as a result of the
+crisis.
+
+15 We repeated all of our analyses using CSR measured at year-end 2005 in case 2006 CSR data
+partially reflect anticipation of a future crisis. All of our findings continue to hold. These results
+are reported in the Internet Appendix, available in the online version of the article on The Journal
+of Finance website.
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance
+
+AODNH>AAALTD oO .
+: SHB E RSS 2
+
+eB RE YEG S
+MARR SSS SCS
+aEea 8888544 $ OOOTAROALA
+
+&
+<
+
+oo)
+
+So
+ce}
+S
+
+s
+
+s
+Pitch End Of Page
+Pitch Start of Page
+1796
+
+The Journal of Finance®
+
+S64 S454
+
+: 00
+s oS
+S So
+= jl
+~ St OD
+RQ Ss
+: oo
+S |
+Onn
+S San
+= ooo
+~ lL |
+Ww ann rnd
+Ss TESTS
+7 ooco
+AY | | |
+; onto H
+a8 ANOS
+3.5 SoaocgSd
+Oo | | ]
+s
+o eon onkt
+Q maecesece
+Ry Sooaocoo oO
+~ || | |
+MN
+RS
+© HAMMOH ORM
+Q SMmoAtNeoe
+Ry SococooC Sd
+aa lL | | | |
+|
+~
+SN wn ot MOY D
+=a SANNNOCTS
+~ 8 ScococooCoC SO
+sO | | |
+% = Ootrtonnwond
+aS 8 SAONSOCONSE
+ESR SCococcoocooodc So
+ONS i 1 i | l
+.Q = NROOCH COHAN
+a 8 Conon onoor
+Fes Scococoocococoscsd
+Os 8 i 1 rt 7
+HADOKOHDMDANADON
+eyrenesseseeeent
+HAlococacdccocococooOCS
+oO | 1 | |
+S
+ae ir:
+Se 3A A & ss S
+i a lekesaerd
+Ss 8 BBN 3
+SECE SS ES LSE
+ST SeSss esse
+gas bad
+8 2 25% Ss s
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1797
+
+III. Crisis-Period Returns
+A. Baseline Results
+
+We estimate various regression models of stock returns during the crisis
+period as a function of firms’ pre-crisis CSR ratings and a number of control
+variables. Panel A of Table II contains our baseline regression models. The
+dependent variable in columns (1) and (3) is Raw Crisis-Period Return, while
+in columns (2) and (4), it is Abnormal Crisis-Period Return. Our variable of
+interest is the firm’s CSR measured at year-end 2006. In all models, we include
+industry dummies (defined at the two-digit SIC level) because some industries
+may be more likely to invest in CSR than others and may have been differ-
+entially affected by the financial crisis. We also control for the firm’s factor
+loadings based on the Fama-French three-factor model plus the momentum
+factor.'©
+
+Columns (1) and (2) show that firms with higher CSR ratings performed
+significantly better during the crisis. The effect of CSR on returns is economi-
+cally large: a one-standard-deviation increase in CSR (0.381) is associated with
+a 2.25 percentage point increase in raw returns and a 4.15 percentage point
+increase in abnormal returns during the crisis.
+
+One concern with the specifications reported in columns (1) and (2) is that the
+strong performance of high-CSR firms during the crisis may be due to omitted
+variables that happen to be correlated with CSR, rather than due to CSR itself.
+To address this possibility, in columns (3) and (4), we control for a firm’s financial
+health in the year before the crisis and for other firm characteristics that have
+been found to affect stock returns. We employ several proxies to measure a
+firm’s financial health and, thus, its ability to withstand a severe downturn in
+the economy: Cash Holdings (cash and marketable securities divided by assets),
+Short-Term Debt (debt in current liabilities divided by assets), Long-Term Debt
+(long-term debt divided by assets), and Profitability (operating income divided
+by assets). During a crisis, profitable, cash-rich firms with low debt can continue
+investing, while other firms may be forced to cut investment, especially if
+they have short-term debt maturing during the crisis (see Duchin, Ozbas, and
+Sensoy (2010), Almeida et al. (2012), and Harford, Klasa, and Maxwell (2014)
+for empirical evidence consistent with these expectations).
+
+Because additional firm characteristics may also be important for stock re-
+turns (see, e.g., Daniel and Titman (1997)), we also control for Size (the log
+of a firm’s equity market capitalization), Book-to-Market (book value of equity
+divided by market value of equity), and Momentum (the firm’s raw return over
+the period August 2007 to July 2008). We also add a dummy for firms with a
+Negative Book-to-Market ratio, as such firms are likely distressed and hence
+their returns may behave more like those of high book-to-market firms than
+low book-to-market firms (see Fama and French (1992)). Finally, we control
+
+16 We estimate the factor loadings over the 60 months prior to the onset of the crisis, using factor
+returns obtained from Kenneth French’s website. Firms are excluded from the analysis if fewer
+than 12 months of data are available to estimate factor loadings.
+Pitch End Of Page
+Pitch Start of Page
+1798 The Journal of Finance®
+
+Table II
+Crisis-Period Returns and CSR
+
+This table presents regression estimates of crisis-period returns on CSR and control variables.
+Crisis-period returns are measured as both raw buy and hold returns and abnormal returns over
+the period August 2008 to March 2009. In Panel A, we use a linear measure of CSR, CSR, which is
+the net (strengths minus concerns) CSR score computed using five stakeholder-oriented categories,
+measured at the end of 2006. In Panel B, we use dummy variables for CSR quartiles such that
+CSR2 takes the value of one if the firm is in the second CSR quartile and zero otherwise, CSR3
+takes the value of one if the firm is in the third CSR quartile and zero otherwise, and CSR4 takes
+the value of one if the firm is in the fourth CSR quartile and zero otherwise. In Panel C, we employ
+the linear measure of CSR and add measures of corporate governance. ESG Stats Governance
+Index is the net CSR index for the governance category and is computed by taking the number
+of strengths, divided by the possible maximum, and subtracting the number of concerns, divided
+by the possible maximum; this measure thus ranges from —1 to +1. The E-Index is the sum of
+six dummies reflecting the following antitakeover provisions: (i) a staggered board, (ii) limits to
+amend the charter, (iii) limits to amend bylaws, (iv) supermajority voting requirements, (v) golden
+parachutes for executives, and (vi) the ability to adopt a poison pill (see Bebchuk, Cohen, and
+Ferrell (2009)), obtained from MSCI Governance Metrics. Board Independence (fraction of board
+consisting of outside directors), Board Size, a dummy if the CEO Is Not the Chairman, and Board
+Ownership (fraction of outstanding shares owned by board members) are obtained from the MSCI
+Directors database. When the governance metrics are not available on the MSCI databases, we
+set them to zero and code a missing variable dummy that we set to one if that governance item
+is missing. These dummies are included in all models, but their coefficients are not reported. The
+control variables are as defined in Table I. Industry dummies are defined at the two-digit SIC code
+level. Financial firms and micro-cap firms with a market capitalization below $250 million are
+removed from the sample. The control variables and returns are winsorized at the 1st and 99th
+percentiles. Heteroskedasticity-consistent standard errors are presented in parentheses. ***, **,
+and * indicate that the parameter estimate is significantly different from zero at the 1%, 5%, and
+10% level, respectively.
+
+Panel A: Net CSR Score: Raw and Abnormal Returns
+
+Raw return Abnormal return Raw return Abnormal return
+(1) (2) (3) (4)
+CSR 0.059*** 0.109*** 0.048*** 0.087***
+
+(0.018) (0.027) (0.017) (0.032)
+
+Ln(Market Cap) 0.001 —0.015
+(0.005) (0.011)
+
+Long-Term Debt —0.112*** —0.102
+(0.046) (0.086)
+Short-Term Debt —0.323*** —0.384*
+(0.115) (0.219)
+
+Cash Holdings 0.175*** 0.380***
+
+(0.047) (0.091)
+
+Profitability 0.528** 0.732
+(0.261) (0.509)
+
+Book-to-Market —0.116*** —0.045
+(0.030) (0.058)
+
+Negative B/M —0.015 0.049
+(0.061) (0.127)
+
+Momentum —0.030 —0.285
+(0.024) (0.044)
+
+ 
+
+(Continued)
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1799
+
+Table Il—Continued
+
+Panel A: Net CSR Score: Raw and Abnormal Returns
+
+Raw return Abnormal return Raw return Abnormal return
+(1) (2) (3) (4)
+Idiosyncratic Risk —3.155*** —8.870***
+(0.876) (1.719)
+Constant —0.588*** —0.781*** —0.528*** 0.0867***
+(0.260) (0.035) (0.059) (0.032)
+Four-factor loadings Yes Yes Yes Yes
+Industry dummies Yes Yes Yes Yes
+N 1,673 1,673 1,673 1,673
+Adj. R? 0.17 0.33 0.20 0.37
+
+ 
+
+Panel B: Dummies for Quartiles of Net CSR Score: Raw and Abnormal Returns
+
+ 
+
+Raw return Abnormal return Raw return Abnormal return
+(1) (2) (3) (4)
+CSR2 0.0303 0.0560 0.0296 0.0480
+(0.0192) (0.0347) (0.0188) (0.0341)
+CSR3 0.0365* 0.0649* 0.0405** 0.0562
+(0.0197) (0.0373) (0.0192) (0.0361)
+CSR4 0.0552*** 0.0985*** 0.0453** 0.0727**
+(0.0126) (0.0356) (0.0194) (0.0362)
+Ln(Market Cap) 0.002 —0.012
+(0.006) (0.011)
+Long-Term Debt —0.113*** —0.103
+(0.046) (0.087)
+Short-Term Debt —0.328*** —0.386*
+(0.115) (0.219)
+Cash Holdings 0.175*** 0.381***
+(0.047) (0.091)
+Profitability 0.530** 0.734
+(0.260) (0.508)
+Book-to-Market —0.117*** —0.046
+(0.030) (0.057)
+Negative B/M —0.017 0.046
+(0.061) (0.058)
+Momentum —0.031 —0.288
+(0.024) (0.044)
+Idiosyncratic Risk —3.184*** —8.934***
+(0.874) (1.729)
+Four-factor loadings Yes Yes Yes Yes
+Industry dummies Yes Yes Yes Yes
+N 1,673 1,673 1,673 1,673
+Adj. R? 0.16 0.32 0.20 0.36
+
+(Continued)
+Pitch End Of Page
+Pitch Start of Page
+1800 The Journal of Finance®
+
+Table Il—Continued
+Panel C: Controlling for Corporate Governance
+
+Raw return Abnormalreturn Rawreturn Abnormal return
+
+(1) (2) (3) (4)
+CSR 0.048% 0.090*** 0.049%" 0.088%
+
+(0.017) (0.032) (0.017) (0.032)
+ESG Stats Governance Index 0.008 —0.151
+(0.050) (0.092)
+E-Index —0.008* —0.018**
+(0.005) (0.009)
+Board Independence —0.080 —0.085
+(0.072) (0.140)
+Board Size 0.002 —0.000
+(0.004) (0.007)
+CEO Is Not Chair —0.010 —0.015
+(0.015) (0.026)
+Board Ownership —0.039 —0.034
+(0.074) (0.147)
+Four-factor loadings Yes Yes Yes Yes
+Firm characteristics Yes Yes Yes Yes
+Industry dummies Yes Yes Yes Yes
+N 1,673 1,673 1,673 1,673
+Adj. R? 0.20 0.37 0.20 0.37
+
+ 
+
+for a firm’s Idiosyncratic Risk (the residual variance from the market model
+estimated over the five-year period ending in July 2008, using monthly data)
+under the premise that stock price volatility may also affect returns (Goyal
+and Santa-Clara (2003)). We measure financial health and firm characteristics
+at the end of December of 2007, or as close as possible to it for firms that do
+not have a December fiscal year-end, except for momentum and idiosyncratic
+volatility, which are computed over one and five years, respectively, before the
+start of the crisis period.
+
+The results presented in columns (3) and (4) of Panel A of Table IT confirm
+that high-CSR firms had higher stock returns during the crisis. The magni-
+tude of the high-CSR outperformance is somewhat attenuated after we include
+additional control variables, but the effect is still economically important. For
+example, in the model in column (3), a one-standard-deviation increase in CSR
+(0.381) is associated with a 1.83 percentage point increase in raw crisis-period
+returns.
+
+Turning to the control variables, as expected, firms that entered the crisis in
+better financial health (higher cash holdings and profitability and lower debt)
+have higher crisis-period stock returns, while firms with higher idiosyncratic
+risk had lower returns. In terms of economic significance, the effects of leverage,
+cash holdings, and idiosyncratic risk are the largest. Based on the model in
+column (3), a one-standard-deviation increase in long-term debt (0.19), cash
+holdings (0.20), and idiosyncratic risk (0.01) is associated with a change in raw
+crisis-period returns of —2.16, 3.48, and —3.16 percentage points, respectively.
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1801
+
+Thus, the economic impact of CSR ratings on returns during the crisis is more
+than four-fifths of the impact of leverage and more than half of the impact of
+cash holdings and volatility, indicating that social capital is indeed important
+in explaining crisis-period returns.
+
+In Panel B of Table II, we re-estimate our previous models, but instead of
+including our linear measure of CSR as an explanatory variable, we divide
+firms into CSR quartiles and include dummies for quartiles 2—4 (the intercept
+captures the effect of quartile 1). This approach allows us to assess whether the
+effect of a firm’s social capital on returns is more pronounced at very high or
+very low levels of social capital. The results again show that firms with better
+CSR ratings had the largest crisis-period returns. The difference in raw returns
+between firms in the best and worst CSR quartiles, as captured by the coef-
+ficient on CSR4, is 5.52 percentage points when we omit firm characteristics
+and 4.53 percentage points when we include them. For abnormal returns, the
+difference is even greater at 9.85 percentage points and 7.27 percentage points,
+respectively. The impact of CSR on returns is monotonic, but not entirely lin-
+ear. Based on the model in column (4), which features the full set of control
+variables, abnormal returns increase about 4.8 percentage points when moving
+from the lowest to the 2nd lowest quartile of CSR. Only modest improvements
+in returns accrue when moving to the 3rd quartile, while a move from the 3rd
+to the 4th quartile yields a more significant improvement in returns of 1.65
+percentage points. These results indicate that investors were most concerned
+when a firm had a low level of social capital and most reassured when firm
+social capital was high.
+
+We also ensure that our findings persist after we control for measures of
+corporate governance. Recent evidence shows that better governed firms per-
+formed relatively well during the financial crisis (Lins, Volpin, and Wagner
+(2013) and Nguyen, Nguyen, and Yin (2015)). If governance is correlated with
+our CSR measure, then it is possible that CSR is simply proxying for gover-
+nance, resulting in an omitted variable bias. To address this concern, we gather
+data on a variety of governance measures as of year-end 2006. We first use our
+prior method to construct a governance measure from the ESG Stats database:
+for each firm, the number of governance concerns is divided by its possible
+maximum and subtracted from the number of strengths divided by its possible
+maximum, yielding a governance index that ranges from —1 to +1. We also
+measure governance using the firm’s E-Index (the entrenchment index featur-
+ing the six governance provisions!’ identified in Bebchuk, Cohen, and Ferrell
+(2009)), Board Independence (the fraction of the board consisting of outside
+directors), Board Size, a dummy if the CEO Is Not the Chairman, and Board
+Ownership (the fraction of outstanding shares owned by the board members),
+obtained from the MSCI Governance Metrics and Directors databases.
+
+17 The E-index consists of the following six governance provisions that indicate entrenchment:
+a staggered board, limits to amend the charter, limits to amend bylaws, supermajority voting
+requirements, golden parachutes for executives, and the ability to adopt a poison pill (see Bebchuk,
+Cohen, and Ferrell (2009)).
+Pitch End Of Page
+Pitch Start of Page
+1802 The Journal of Finance®
+
+In Panel C of Table II, we repeat the analyses from Panel A, but we now
+add the governance controls. All models include the full set of other control
+variables employed in Panels A and B. Columns (1) and (2) show that the
+ESG Stats Governance Index is not significantly related to raw or abnormal
+crisis-period returns and that the impact of CSR on crisis-period returns is
+virtually identical to that reported previously. This evidence suggests that the
+CSR effect is not picking up a governance component. The models in columns
+(3) and (4) include all other governance measures. We again find that the effect
+of CSR on crisis-period returns persists. The E-Index is significant for both raw
+and abnormal return models, which indicates that firms with more entrenched
+managers performed worse during the crisis. The other governance provisions
+are insignificant.
+
+To get a sense of the costs associated with firms’ CSR activities, we follow
+Di Giuli and Kostovetsky (2014) and estimate a regression model (reported
+in the Internet Appendix) of the log of Selling, General, and Administrative
+(SG&A) expenses measured in 2006 as a function of CSR and a number of
+control variables (log assets, equity book-to-market, cash holdings to assets,
+total interest bearing debt to assets, dividend payments to assets, and income
+before extraordinary items to assets). Increasing CSR from its 1st to its 4th
+quartile is associated with SG&A expenses that are $44.9 million higher for
+the median firm in our sample and $203.5 million for the mean firm. These
+cost estimates are substantial and may help explain why not all firms choose
+to engage in CSR activities.
+
+Overall, the findings reported in Table IT show that more socially responsible
+firms suffered less during the crisis, and that this effect is not due to differences
+in financial strength or corporate governance.!® These results are consistent
+with the view that firm investments in social capital provided investors a
+greater sense of trust in the firm as the crisis unfolded, leading to relative
+stock price outperformance.
+
+B. Excess Returns and CSR during the Enron/ Worldcom Fraud Scandals
+
+The above findings provide evidence of a positive relation between CSR and
+excess returns during the 2008-2009 crisis period, when the overall level of
+trust in corporations suffered a severe shock. As this crisis was arguably
+the most severe crisis of confidence in generations, few other economy-wide
+shocks to trust could have the same effect. Perhaps one “shock” that comes
+
+18 We also examine whether CSR is proxying for reporting transparency or (the lack of) ac-
+counting concerns, using the following ESG Stats measures: CSR transparency strength, CSR
+transparency concern, and accounting concern. We find no evidence that this is the case. We also
+include an indicator variable set to one if the firm is included in the 100 Best Companies to Work For
+list as published by Fortune Magazine in February 2008. Edmans (2011) finds that firms included
+in this list earn excess returns over the subsequent five-year period. This dummy is not significant
+in explaining crisis-period returns and its inclusion does not have any impact on the coefficient on
+our measure of CSR.
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1803
+
+close to a general crisis of trust is the one caused by the ripple effects as-
+sociated with the frauds and subsequent bankruptcies of Enron, Worldcom,
+and several other large firms. Enron filed for bankruptcy in December of
+2001, after admitting to accounting violations in October 2001. Of course,
+fraud committed by one company alone does not necessarily dent trust in
+all firms, but soon after Enron’s accounting violations were revealed other
+cases came into the spotlight. In the last quarter of 2001 and the first half of
+2002 alone, Adelphia, Bristol-Myers Squibb, Global Crossing, Homestore.com,
+ImClone Systems, Kmart, Qwest, Tyco, and Worldcom were all in the news be-
+cause of accounting irregularities and/or outright fraud. Global Crossing, Adel-
+phia, and Worldcom filed for bankruptcy in January, June, and July of 2002,
+respectively.
+
+These bankruptcies and scandals are likely to have caused a general decline
+in trust in corporations. Several newspaper articles published at the time sup-
+port this belief. For example, on July 14, 2002, Associated Press Newswires
+published an article entitled: “How much will the loss of trust in U.S. busi-
+nesses hurt the economy?” and on July 17, The Wall Street Journal reported on
+a warning from Alan Greenspan, the Federal Reserve Chairman at the time,
+that breakdowns in corporate governance could undermine the trust necessary
+for efficient markets. On December 31, 2002, the Financial Times, in discussing
+the accuracy of forecasts made for 2002, stated that: “...even fewer divined
+that a loss of trust in company statements would be the trigger for another
+growl of the bear market.”
+
+To determine whether our findings also hold around the Enron crisis, we
+follow the same procedure as the one employed for the 2008-2009 finan-
+cial crisis. Specifically, we cumulate returns over the period October 2001,
+when the Enron accounting violations were first revealed, to March 2003, the
+month prior to the beginning of the stock market rally that persisted until
+the start of the 2008-2009 crisis. We relate these returns to CSR computed
+as of year-end 2000 and the same control variables as employed previously.
+Small firms (market value below $250 million in 2007 dollars) are again ex-
+cluded, but this time, we include financial firms as they were not uniquely
+supported by the government during this period. Factor loadings are com-
+puted over the five-year period ending in September 2001. Unfortunately, ESG
+Stats coverage for this period is much smaller, yielding a sample of only 412
+companies.
+
+Table III contains the results. We report two specifications each for raw and
+abnormal returns. The models in columns (1) and (2) use our primary measure
+of CSR (the difference between scaled CSR strengths and weaknesses) as the
+key explanatory variable, while the models in columns (3) and (4) contain a
+coarser CSR measure, namely, a dummy variable set to one if CSR is positive
+and zero otherwise. The latter specification may be better suited in this case,
+given the small sample size and the nonlinearities in the CSR-return relation
+reported in Panel B of Table II.
+
+As illustrated in both columns (1) and (2), the coefficient on our linear
+measure of CSR, while positive, is not significantly different from zero. The
+Pitch End Of Page
+Pitch Start of Page
+1804 The Journal of Finance®
+
+Table III
+CSR and Returns during the Enron/Worldcom Fraud Scandals
+
+This table presents regression estimates of raw and abnormal stock returns from October 2001
+to March 2008 as a function of CSR. Abnormal returns are computed based on the market model
+using the CRSP value-weighted index as the market proxy. Market model parameters are estimated
+using monthly data over the five-year period ending in September 2001. CSR ratings are measured
+at the end of 2000. The control variables are the same as those employed in Table II. All financial
+controls are measured at year-end 2000 or as close to it as possible for firms without December fiscal
+year-ends. Fama-French and momentum factor loadings are computed using monthly data over the
+five-year period ending in September 2001. The firm characteristics employed as control variables
+are the same as those in Table IJ, except that they are measured as of year-end 2000. Industry
+dummies are defined at the two-digit SIC code level. Micro-cap firms with a market capitalization
+below $250 million (in 2007 dollars) are removed from the sample. The control variables and returns
+are winsorized at the 1st and 99th percentiles. Heteroskedasticity-consistent standard errors are
+presented in parentheses. ***, **, and * indicate that the parameter estimate is significantly
+different from zero at the 1%, 5%, and 10% level, respectively.
+
+ 
+
+Raw Return Abnormal Return Raw Return Abnormal Return
+
+(1) (2) (3) (4)
+
+ 
+
+Constant 1.058*** 0.977*** 0.116 0.244
+(0.176) (0.208) (0.219) (0.267)
+CSR 0.026 0.060
+(0.044) (0.053)
+CSR > 0 indicator 0.073* 0.095**
+(0.039) (0.044)
+Four-factor loadings Yes Yes Yes Yes
+Firm characteristics Yes Yes Yes Yes
+Industry dummies Yes Yes Yes Yes
+N 412 412 412 412
+Adj. R? 0.16 0.20 0.17 0.21
+
+ 
+
+indicator variable for high-CSR firms, which is employed as an explanatory
+variable in the models in columns (8) and (4), is significant, and indicates that
+firms with positive CSR scores had 7.3 percentage points higher raw returns
+(9.5 percentage points higher abnormal returns) than firms with negative CSR
+scores. This finding suggests that, during the crisis of confidence surround-
+ing the accounting scandals revealed in 2001 and 2002, high-CSR firms again
+earned excess returns relative to low-CSR companies.
+
+We confirm that our findings are robust to different starting and ending
+points of this crisis. Abnormal returns are positively related to the high-CSR
+dummy (at the 10% significance level or better) for any starting month between
+October 2001 (the month of the Enron bankruptcy) and May 2002 (after many
+other firms had revealed accounting irregularities), and for any ending month
+between December 2002 and March 2003 (when the stock market recovery
+started).
+
+These results support our prior findings that social capital created through
+CSR activities matters more when investor confidence in corporations has been
+damaged.
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1805
+
+C. Comparing Returns Inside and Outside of the Crisis Period
+
+Our evidence so far indicates that CSR positively affected stock returns dur-
+ing two periods when overall trust in corporations, institutions, and financial
+markets declined. In this section, we investigate whether this positive relation
+is unique to periods of low trust or is common to most periods, perhaps due to
+some unobservable (omitted) risk factor that is correlated with CSR.
+
+To address this question, we estimate a difference-in-differences model with
+continuous treatment and include firm and time fixed effects. Specifically, we
+construct a panel of monthly returns for all the firms in our sample starting in
+2007, prior to the onset of the crisis, and ending in 2013, several years into the
+economic recovery. For this panel, we estimate the following model:!”
+
+Return; = 6, + b};CSR;.2006 x Crisis; + beCSR;.2006 x Post-Crisis; + 63'X; 4-1
++ Time Dummies + Firm Fixed Effects + e;.1, (1)
+
+where Return;; is the monthly raw or market-model adjusted return, CSR; 2006
+is our proxy for CSR, measured at year-end 2006, Crisis; is a dummy variable
+set to one in the period August 2008 to March 2009, Post-Crisis; is a dummy
+variable set to one in the period April 2009 to December 2013, and X;,;_1 is a vec-
+tor of control variables. The control variables are the firm financial characteris-
+tics and factor loadings employed in Table II, but updated annually (accounting
+variables) or monthly (market-based variables). We measure CSR 20 months
+before the onset of the crisis to eliminate any concern that firms adjusted their
+CSR policies in anticipation of the crisis. To ensure that the accounting data
+are publicly available, we leave a three-month gap after the fiscal year-end
+to update the data. Factor loadings are re-estimated each month based on the
+previous 60 months’ data. Time dummies are specified at the monthly level and
+firm fixed effects control for time-invariant omitted risk factors. The firm’s CSR
+itself is absorbed by the firm fixed effects. All standard errors are clustered at
+the firm level.”° As in Table II, firms with market values below $250 million as
+of year-end 2007 are excluded from the analysis. The coefficient on the inter-
+action between 2006 CSR and the crisis (b;) captures the differential impact
+of CSR on monthly stock returns during the eight-month period from August
+2008 to March 2009, after controlling for the firm’s factor loadings and financial
+characteristics and after removing both the firm’s average return (firm fixed
+effects) over the entire estimation period and any time-series pattern in overall
+returns (time fixed effects).
+
+The results for both raw and market-model adjusted returns are presented
+in Panel A of Table IV. Both specifications indicate that high-CSR firms exhibit
+superior performance during the crisis period; after the crisis, the relation
+between CSR and returns becomes insignificant. In terms of economic signifi-
+cance, the coefficient of 0.0201 on the Crisis x CSR interaction indicates that
+
+19 We are grateful to an anonymous referee for suggesting this test.
+20 Significance levels are virtually identical if we double cluster standard errors by firm and
+time period.
+Pitch End Of Page
+Pitch Start of Page
+1806 The Journal of Finance®
+
+Table IV
+Abnormal Returns Surrounding the Crisis and CSR
+
+This table presents results of estimating the following panel regression model:
+
+Return; =bo+ b1C'S Ri; 2006 x Crisis; + beCSR;.2006 x Post-Crisis; + b3/XKit-1
++ Time Dummies + Firm Fixed Effects + e; +,
+
+where Return; is the monthly raw or market-model adjusted return, CSRi,2006 is our proxy for
+CSR, measured at year-end 2006, Crisis; is a dummy variable set to one in the period August 2008
+to March 2009, Post-Crisis; is a dummy variable set to one in the period April 2009 to December
+2013, and X;,;_1 is a vector of control variables. Panel A reports results using the overall measure
+of CSR. In Panel B, we create an additional interaction between CSR and the period July 2007
+to July 2008, when there was a shock to the supply of credit. In Panel C, we allow the effect of
+CSR on returns to depend on whether the firm is headquartered in a low-trust or high-trust region
+based on the 2006 General Social Survey. In Panel D, CSR is split into two components: Internal
+Stakeholder CSR, which combines the measures for diversity and employee relations, and External
+Stakeholder CSR, which combines the measures for community, environment, and human rights.
+The control variables are the same as those employed in Table II and they include firm financial
+characteristics as well as factor loadings. The financial characteristics based on accounting data
+are updated three months after each fiscal year-end. The characteristics based on market data
+(momentum, size, market-to-book, factor loadings) are updated monthly. Factor loadings are re-
+estimated each month based on the previous 60 months’ data. The regression is estimated over the
+period 2007-2013. Financial firms and micro-cap firms with a market capitalization below $250
+million (in 2007 dollars) are removed from the sample. Except when otherwise indicated, numbers
+in parentheses are heteroskedasticity-consistent standard errors, clustered at the firm level. ***,
+** and * indicate that the parameter estimate is significantly different from zero at the 1%, 5%,
+and 10% level, respectively.
+
+ 
+
+Panel A: Overall CSR
+
+Variable Raw return Abnormal return
+CSR x Crisis 0.0201*** 0.0153***
+(0.0037) (0.0039)
+CSR x Post-Crisis 0.0018 0.0020
+(0.0022) (0.0024)
+Firm characteristics Yes Yes
+Four-factor loadings Yes Yes
+Firm fixed effects Yes Yes
+Time (monthly) fixed effects Yes Yes
+Standard errors clustered by Firm Firm
+CSR x (Crisis — Post-Crisis) 0.0183 0.0124
+p-Value (0.00) (0.00)
+N 121,247 121,247
+Adj. R? 0.29 0.06
+
+ 
+
+Panel B: CSR during the Shock to the Supply of Credit and the Crisis
+
+Variable Raw return Abnormal return
+
+CSR x Shock to Credit 0.0021 0.0001
+(0.0030) (0.0030)
+
+CSR x Crisis 0.0216*** 0.0154***
+(0.0041) (0.0040)
+
+ 
+
+(Continued)
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1807
+
+Table IV—Continued
+
+Panel B: CSR during the Shock to the Supply of Credit and the Crisis
+
+ 
+
+Variable Raw return Abnormal return
+CSR x Post-Crisis 0.0033 0.0021
+(0.0027) (0.0028)
+Firm characteristics Yes Yes
+Four-factor loadings Yes Yes
+Firm fixed effects Yes Yes
+Time (monthly) fixed effects Yes Yes
+Standard errors clustered by Firm Firm
+CSR x (Crisis — Shock to Credit) 0.0195 0.0153
+p-Value (0.00) (0.00)
+CSR x (Post-Crisis — Crisis) —0.0183 —0.0133
+p-Value (0.00) (0.00)
+N 121,247 121,247
+Adj. R? 0.29 0.06
+
+Panel C: Split by High- and Low-Trust Regions
+
+ 
+
+Variable Raw return Abnormal return
+CSR x Crisis x High Trust 0.0275*** 0.0171**
+(0.0073) (0.0074)
+CSR x Crisis x Low Trust 0.0154*** 0.0130***
+(0.0047) (0.0047)
+CSR x Post-Crisis x High Trust —0.0079* —0.0048
+(0.0047) (0.0050)
+CSR x Post-Crisis x Low Trust 0.0037 0.0025
+(0.0024) (0.0027)
+Firm characteristics Yes Yes
+Four-factor loadings Yes Yes
+Firm fixed effects Yes Yes
+Time (monthly) fixed effects Yes Yes
+Standard errors clustered by Firm Firm
+CSR x (Crisis — Post-Crisis) x High Trust 0.0354 0.0219
+p-Value (0.00) (0.00)
+CSR x (Crisis — Post-Crisis) x Low Trust 0.0117 0.0105
+p-Value (0.01) (0.01)
+CSR x Crisis x (High — Low Trust) 0.0121 0.0041
+p-Value (0.16) (0.64)
+N 115,453 115,453
+Adj. R? 0.29 0.07
+
+ 
+
+Panel D: Internal and External Stakeholder CSR
+
+ 
+
+ 
+
+Variable Raw return Abnormal return
+
+Int. Stakeholder CSR x Crisis 0.0225*** 0.0140***
+(0.0048) (0.0049)
+
+Int. Stakeholder CSR x Post-Crisis 0.0002 0.0049**
+(0.0027) (0.0029)
+
+Ext. Stakeholder CSR x Crisis 0.0144** 0.0185***
+(0.0072) (0.0071)
+
+ 
+
+(Continued)
+Pitch End Of Page
+Pitch Start of Page
+1808 The Journal of Finance®
+
+Table IV—Continued
+
+Panel D: Internal and External Stakeholder CSR
+
+ 
+
+Variable Raw return Abnormal return
+Ext. Stakeholder CSR x Post-Crisis 0.0057* —0.0048
+(0.0040) (0.0044)
+Firm characteristics Yes Yes
+Four-factor loadings Yes Yes
+Firm fixed effects Yes Yes
+Time (monthly) fixed effects Yes Yes
+Standard errors clustered by Firm Firm
+Int. Stakeholder CSR x (Crisis — Post-Crisis) 0.0223 0.0091
+p-Value (0.00) (0.04)
+Ext. Stakeholder CSR x (Crisis — Post-Crisis) 0.0087 0.0233
+p-Value (0.20) (0.00)
+N 121,247 121,247
+Adj. R? 0.29 0.06
+
+a one-standard-deviation increase in 2006 CSR (0.381) is associated with a
+77-basis-point higher return during the crisis on a monthly basis.”!:22 These
+results indicate that the excess returns earned by high-CSR firms are limited
+to the crisis period, consistent with our suggestion that social capital created
+through CSR pays off when trust in the economy declines unexpectedly.
+
+The lack of a reversal in abnormal returns for high-CSR firms after the
+crisis may appear surprising. Such a reversal rests on the assumption that
+overall trust in firms and markets has fully recovered. Trust has remained
+relatively low since the crisis, however. For example, according to the Financial
+Trust Index, 11% of respondents trusted the stock market and 12% trusted
+large corporations in December 2009. These figures increased to 13% and 16%,
+respectively, by December 2012, but they are still suggestive of a low level of
+trust following the crisis.2° This would be consistent with the lack of return
+reversals. We also note that high-trust firms should not earn further positive
+
+21 We also estimated this model without the monthly time dummies, but with dummies for the
+crisis period and the post-crisis period. These dummies capture the change in returns during and
+after the crisis for firms with a CSR score of zero. The coefficient on the crisis dummy indicates
+an average monthly decline during the crisis of 7.56 percentage points relative to the pre-crisis
+period. In the post-crisis period, the raw returns are 1.60 percentage points higher per month than
+in the pre-crisis period (see the Internet Appendix).
+
+22 Gormley and Matsa (2014) recommend the inclusion of further fixed effects to control for
+unobserved firm heterogeneity. In particular, they suggest including dummies for quintiles of firm
+characteristics and interacting these quintile dummies with time dummies. We estimate such
+a specification by including dummies for quintiles of size, book-to-market, and momentum, and
+interacting each of these quintile dummies with monthly time dummies. This specification, which
+includes 1,260 time/characteristic quintile interactions, continues to yield significant crisis-period
+returns for high-CSR firms. The coefficient on the CSR/crisis interaction is 0.0185 (p = 0.00) for
+raw returns and 0.0154 (p = 0.00) for abnormal returns (see the Internet Appendix).
+
+23 Similarly, the trust component of the Global Competitiveness Index produced by the World
+Economic Forum was still lower in September 2013 (5.54) than in September 2008 (5.65). The
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1809
+
+abnormal returns either if prices already adjusted to the overall decline in trust
+during the crisis. That is, any benefits of being trustworthy when overall trust
+is low should now be reflected in the share price. Operating performance, on the
+other hand, may well be affected during both the crisis and post-crisis periods.
+In subsequent sections, we provide evidence that this is indeed the case.
+
+In the specifications reported in Panel A of Table IV, we hold CSR constant
+as of year-end 2006 to determine whether CSR measured before the onset of
+the crisis has an effect on returns during and after the crisis. In an alterna-
+tive specification, we also allow CSR to vary over time as new information on
+CSR becomes available. That is, we match 2007 returns with year-end 2006
+CSR, 2008 returns with year-end 2007 CSR, etc. These specifications allow
+us to gauge whether updated CSR affects subsequent returns outside the cri-
+sis period. These models yield similar results to those reported in Panel A of
+Table IV: crisis-period returns increase with CSR, but there is no effect of CSR
+on returns subsequent or prior to the crisis.
+
+Finally, we construct a hedge portfolio that goes long in firms in the highest
+quartile of CSR firms and short in firms in the lowest quartile, updating the
+portfolio composition on an annual basis as new CSR information becomes
+available. This portfolio earns excess returns (adjusted for four-factor loadings)
+of 74 basis points per month during the crisis period, while the excess returns
+are insignificant in the four years prior to and after the crisis (reported in the
+Internet Appendix).
+
+D. Excess Returns and CSR during a Shock to the Supply of Credit
+
+We next investigate whether our results could be due to a shock to the
+supply of credit, rather than a shock to market-wide trust. Starting in July
+of 2007, the weakening solvency of the banking sector led to a substantial
+increase in LIBOR rates, which had a strong negative impact on the ability of
+firms to borrow (see, e.g., Duchin, Ozbas, and Sensoy (2010) and Ivashina and
+Scharfstein (2010)). This shock to the supply of credit persisted until at least
+March 2009, which is the end of the crisis period in our prior tests. If high-
+CSR firms earned excess returns during the crisis because investors believed
+that these firms were better able to weather the credit crunch, our test could
+be picking up this effect instead of the ability to weather a shock to trust. To
+investigate this possibility, we test whether CSR is related to returns in the
+period July 2007 through July 2008, when the shock to credit supply already
+happened but the shock to trust had not yet occurred (the Edelman Trust
+Barometer shows no decline from early 2007 to early 2008; see also Sapienza
+and Zingales (2012)).
+
+For this exercise, we augment the specification of model (1) with an additional
+interaction term between CSR measured at year-end 2006 and a dummy (shock
+to credit) equal to one during the July 2007 to July 2008 period. The results,
+
+Edelman Trust Barometer, in contrast, does show that trust has recovered. It was 58% in the
+survey released in early 2014, which is the same as the figure released in early 2008.
+Pitch End Of Page
+Pitch Start of Page
+1810 The Journal of Finance®
+
+which are reported in Panel B of Table IV, indicate that there is no significant
+relation between CSR and either raw or abnormal returns in this earlier period.
+The coefficients of the CSR/Crisis interactions remain virtually unchanged
+from those in Panel A, and they are always significantly larger than those of
+the CSR/credit shock interactions. Thus, a shock to credit supply is unlikely to
+explain the positive association between social capital and stock returns during
+the crisis documented in Table II and in Panel A of Table IV.
+
+E. Regional Trust and the Relation between CSR and Returns
+
+Our interpretation of the excess crisis-period returns for high-CSR firms is
+that such firms build social capital through their CSR activities, which pays
+off when there is a shock to overall trust. In this section, we provide evidence
+for this interpretation by linking the crisis-period returns earned by high-CSR
+firms to regional variation in trust across the United States.
+
+We obtain data on regional variation in trust from the 2006 General Social
+Survey (GSS) conducted by the National Opinion Research Center (NORC) at
+the University of Chicago (see also Kelly (2015)). This survey asks a random
+sample of Americans a large number of questions related to various aspects
+of society, including: “Generally speaking, would you say that most people
+can be trusted or that you can’t be too careful in dealing with people?” In
+2006, the survey covered 3,929 responses to this question. After removing 192
+respondents who state “Depends,” 34% of the respondents reply that people can
+be trusted while the remainder reply that people cannot be trusted. There is
+substantial variation in trust across the nine regions in which respondents are
+classified. For example, only 26% of the respondents in the West South Central
+region reply that they can trust people compared to 43% in New England and
+the Mountain region.
+
+We exploit this cross-sectional variation to explore whether regional differ-
+ences in trust affect the returns earned by high-CSR firms by matching the
+regional trust averages with the regions in which the firms are headquartered.
+Our primary hypothesis follows the work of Putnam (2000), who argues that
+an agent’s social capital is more valuable in a society where overall social cap-
+ital is higher. Framing this argument in our context, in regions where people
+have a lower propensity to trust, CSR activities are less likely to be viewed
+by investors and other stakeholders as trust-enhancing activities; instead they
+may be perceived as window dressing and less genuine activities. As such,
+they are less likely to pay off. If more stakeholders are based in the region
+where the firm is headquartered, we can use this regional variation in trust to
+directly test whether trust matters more where it should—in more trusting re-
+gions. Employees, customers, and other stakeholders in more trusting regions
+are more likely to reward trustworthy firms, for example, by working harder
+and maintaining strong buying relationships, leading to higher crisis-period
+returns. Additionally, if investors hold local companies (see, e.g., Coval and
+Moskowitz (1999)) and prices are influenced by local investors (see, e.g., Hong,
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1811
+
+Kubik, and Stein (2008)), more trustworthy firms may also be able to raise
+more capital and achieve higher valuations during the crisis.
+
+In Panel C of Table IV, we repeat our prior analyses, but now allow the effect
+of CSR on returns to vary depending on whether the firm is headquartered
+in a high- or low-trust region. The results indicate that crisis-period returns
+are more affected by CSR in high-trust regions compared to low-trust regions.
+For raw returns, increasing CSR by one-standard-deviation is associated with
+monthly excess returns of 1.05% in high-trust regions, but only 59 basis points
+in low-trust regions (if we allow for a differential effect of trust on returns dur-
+ing the crisis and post-crisis periods, these numbers change to 63 basis points
+and 96 basis points, still a considerable difference). For abnormal returns, there
+is also a substantial difference between the two sets of regions although it is of
+a smaller magnitude.
+
+Two caveats are in order. First, an individual’s ability to trust people may
+be different from her ability to trust firms, and, hence, our findings should
+be interpreted with this caution in mind. Second, our test assumes that the
+survey response reflects an individual’s propensity to trust people (and other
+agents) and, as such, her willingness to respond to a firm’s CSR efforts. This
+propensity, if it is an inherent personal characteristic, should not vary (much)
+over time, which is indeed what we find: it has declined very gradually from
+38% in 2000 to 34% in 2014,”4 but did not shift dramatically around the crisis.
+We also find a similar stability in trust when splitting the sample into high-
+and low-trust regions. The fact that prior work shows that regional variation in
+trust impacts economic and financial development also suggests that the level
+of regional trust is indeed a persistent feature (e.g., Knack and Keefer (1997)
+and Guiso, Sapienza, and Zingales (2004)). The stability of this measure over
+time is thus consistent with the above result that a firm’s CSR efforts pay off
+less in low-trust areas. As such, it is at odds with the alternative view that a
+firm’s CSR efforts are particularly valuable in areas where the propensity to
+trust is low and that individuals in these regions can be persuaded to become
+more trusting.
+
+Overall, the evidence in this section indicates that the impact of CSR on
+returns during the crisis period is related to the general level of trust in the
+area where the company is located and is consistent with the view that the link
+between returns and CSR during the crisis operates through the trust channel.
+
+F. Elements of CSR and Returns
+
+Next, we examine whether it is a firm’s social capital in aggregate (CSR) or
+a specific component of CSR that is important for crisis-period returns. At the
+outset of this paper, we argue that a firm can build social capital through a
+variety of activities and that such activities can enhance the trust of all of a
+firm’s stakeholders. For example, customers may reward firms for treating their
+
+24 This gradual decline in trust is consistent with Putnam’s (2000) observation that trust has
+been declining in the United States over the last several decades.
+Pitch End Of Page
+Pitch Start of Page
+1812 The Journal of Finance®
+
+employees better, while employees may work harder because the company cares
+more about its community or the environment. It is possible, however, that some
+aspects of CSR are more important to building trust than others, which could
+affect the strength of their relation with returns. To test this conjecture we
+disaggregate CSR into two components: those that speak mainly to internal
+stakeholders (Employee Relations and Diversity) and those that speak mainly
+to external stakeholders (Community, Human Rights, and Environment).
+
+Our results are reported in Panel D of Table IV using the same firm fixed
+effects specification as before. Both components of CSR are significant in ex-
+plaining crisis-period raw and abnormal stock returns, which indicates that
+investors view a CSR focus on both internal and external stakeholders as valu-
+able during the 2008-2009 financial crisis.”° In terms of economic significance,
+both elements of CSR are of similar importance. An increase in Internal Stake-
+holder CSR of one-standard-deviation (0.310) is associated with a 0.48 percent-
+age point higher monthly abnormal return during the crisis, while an increase
+in External Stakeholder CSR of one-standard-deviation (0.189) is associated
+with a 0.35 percentage point higher abnormal return.
+
+G. Further Robustness Tests
+
+In this section, we report the results of various additional tests conducted to
+determine whether our main findings are robust. We first focus on measuring
+CSR performance at different points in time. In our baseline models reported
+in prior tables, we measure CSR performance at the end of 2006, more than one
+year before the onset of the shock to trust and several months before LIBOR
+rates started rising. It is possible that some corporate managers anticipated
+a potential slowdown given the heady returns for asset prices in general in
+2006, and started adjusting their CSR activities in 2006 accordingly. It is also
+possible that only those firms that were able to cope better with the crisis
+were the ones to adjust their CSR activities upwards. While we control for
+observables that could potentially affect crisis-period returns, if CSR at the
+end of 2006 is correlated with some unobservable measure of the ability to
+withstand a shock to trust, then the results we report may not be due to social
+capital and CSR but rather to some other factor.
+
+To address this concern, we investigate whether firm CSR scores measured
+in 2005 are positively related to crisis-period stock returns since 2005 clearly
+precedes any fears of a financial crisis. In the first two columns of Table V, we
+re-estimate model (1) above using CSR measured in 2005 as the variable of
+interest. The effect is of comparable magnitude to the effect using 2006 CSR.
+We next conduct the same test using 2007 CSR data. As reported in columns
+(3) and (4), our findings continue to hold.
+
+It is also possible that high-CSR firms performed well during the crisis be-
+cause prior CSR activities were actually negative NPV projects, and firms
+
+25 Note that the scores for the Internal and External CSR categories are not highly correlated
+(o=0.12) and thus our results to do not mechanically follow from the aggregate CSR score.
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance
+
+- Orme oy o o
+
+oZASESEES M &
+
+SS@sesegsrr a | 3 *
+
+NNoODvDaeGesage 5 | x
+
+= 3 ON OD B&B oq Pat %
+
+Hoo De gota dG | 2 | & © 19 16
+
+SRT SEZ SRY o,| oa OANND A
+
+Nt & Bok HS o e|g@-|xSoooun &
+
+Oopep een ads ao} ez SoSSS0 SS
+
+SECREEEZE |S) |sssss s
+
+“Bok ERES 3 | 2
+
+oaBae ese AES iq <
+
+Soenekzese 1%
+
+NSoSEregs be} § %
+
+ga gu gees Bl eclS Saas
+
+—~ oo «
+
+Pgs Pesser |sle -|/sssse gs
+
+a6, 53586 5* z E SSSS50 &
+
+Sets Synge ce eoocece S
+
+ee @etseg Se
+
+SoESERBER™, ¢
+
+oa? See mye a yy
+
+o 2 Oo 4 n 0 3
+
+YaAods an PS » *
+
+sesso 7.2888 2 2
+
+aro STs a aSODD
+
+SHoS Sao EE ao OOND A
+
+oS e2segss q a ~|oxSSSS &
+
+5 Ssesae of F |SSsses 8S
+
+~ ep SEAR o o| 6 SSooScS oO
+
+meoOute ys Bs S q =z Zz =
+
+SxSsenayge |a|a
+
+See aetuaaupe| Pl g x
+
+a Sapa gar og 5 %
+
+Pag S gh OES $ SSon°S
+
+Rowe & eG Yo oo
+
+SK 3 .N pPenNH & 10 co 0 NO >
+
+gs TC an oO - Dd oO A me ooor oS
+
+A.2 Vo 2 Eos & 5 eecesc Cc
+
+eS Bogkh svc a s SoCo oO Co
+
+BUS 33.8 ao sf D lala SS Se z=
+
+Ow 8 '5 GB 8 oo 4
+
+nZS8sgsREBea q
+
+“Mao eoegegs 4
+
+Geek sn ze 58 g |x
+
+oO > ¥
+
+OS sete rads a nA|NaO+ YO
+
+oN sh eS, 9H aeYi~SSseas 2
+
+ap .g eggs & SoS6S8S5S5 8
+
+ag og 8 soaavu/n] & D >
+
+THES MTSOHVaAS S o cooooo SJ
+
+S47 SeGUe Set sEsxt lal =
+
+BeSsRH aS ag Wg n
+
+Sot BE Soe s/O] g
+
+oo, gb .& Vas Hy z
+
+So GG oo x
+
+ZSseuSsig Ban 5 x AN =~
+
+Pa oSadg 8 So SAlAwDnnan
+
+2 ,-nu Sd A Sia an) DANN W —~
+
+Bee; gee 2 as > |SS8SSs5 &
+»~ own 7 °
+
+Bag tS ong s % ocoooo So
+
+Deano a Y Bo falar wm wm eS
+
+SX gseZssoe as
+
+ZSyurPBENSUN g
+
+Cn nnn |! HH O
+
+Ere eo eh oOHM SE 2
+
+2ObB,oeSg8S ® eo
+
+oma SruaSss fa a Loam o
+
+aes a3 3gN aon
+
+~oSpas S8r aa|/aewraarne >
+
+GSGn 2H SSR OG a Sooooo Lo
+
+at okegroa’ 10 Bi oooo°o So
+
+o¢,0S3 &E o|oal se SSoOSCSoS oO
+
+er Soo e ae ke] S| sg ~~ ~
+
+SSO ESV g Teo / NN] S
+
+BolSah aguas | |<
+
+FSeStungeelola |,
+
+Bgesgi stags 5 |g
+
+Seana, S$ Csage BAlanantor
+
+So tse SB Sul an Pa/+edQNN A
+
+Sarg opaoSk##s CT laxscooon CS
+
+gam o> age so 3 oSsscao 6S
+
+egBGS gn Te Ss SSoSoSS SC
+
+aS eax es Been
+
+~ pa AF 2 oges
+
+-eSoGtuegevs z
+
+sES3eac2Es eo
+
+SeNZL eS ese 2 QO 22
+
+Sees Stee R 8 -f 1B
+
+B SOA gy w# a 2 3S Noon
+
+YD Bo PID oS ® © Ww
+
+ea fb = HN 95» o oO AY SEO
+
+~o Yu Bae poe = x x xo g
+
+os tage eee 3 3
+
+On qd om & 4 ec ec we oo
+
+2As o a a q,
+
+SECS sag ta e/H NH He
+
+BOSsas&ehhAA a Flo OF DO &
+
+0
+N
+
+1813
+Pitch End Of Page
+Pitch Start of Page
+1814 The Journal of Finance®
+
+were forced to cut these activities during the crisis. If CSR is just one element
+of excess investment, then the level of CSR could also proxy for the extent of
+overinvestment in the firm as whole. Thus, it could be the case that firms that
+engaged more in non-value-maximizing behavior pre-crisis performed better
+during the crisis simply because they had more excesses that could be trimmed.
+To test this conjecture, in models (5) and (6) of Table V, we examine whether
+our results hold when CSR is measured at year-end 2008, when these excesses
+would arguably have already been cut. Our findings persist: high CSR levels
+measured in the depth of the crisis are still associated with higher crisis-period
+returns.
+
+Overall, our results are not sensitive to the time period in which CSR in-
+vestments are measured. The main reason for this lack of sensitivity is that
+CSR levels are relatively persistent over time. For example, the correlation in
+our CSR measure between 2005 and 2006 is 0.90, the correlation between 2006
+and 2007 is 0.89, and the correlation between 2005 and 2007 is 0.82.
+
+As a second robustness test, we assess whether the decision to remove micro-
+cap firms (those with equity market capitalization below $250 million) from
+our sample affects our results. We excluded these firms because they typically
+display very low stock market liquidity, and this factor could outweigh other
+factors during the crisis. In the models presented in columns (7) and (8) of
+Table V, we re-estimate our full model including these firms. Our results hold
+when they are added back to our sample.
+
+As a third robustness test, we verify that our findings are not due to the
+inclusion of March 2009 as part of the crisis period. Stock markets started
+recovering globally during the middle of that month and we want to ensure
+that our results are not due simply to this recovery. We find that the coefficient
+on CSR remains positive and significant in specifications that exclude March
+2009 from the crisis return window (reported in the Internet Appendix).
+
+IV. The Effect of CSR Investments on Operating Performance
+and Capital Raising
+
+In this section, we study the operating performance and capital-raising ac-
+tivities of companies during the crisis and surrounding periods to explore in
+more detail possible sources of the excess returns earned by high-CSR firms
+during the crisis. We estimate a difference-in-differences model with contin-
+uous treatment levels. In particular, using quarterly data, we estimate the
+following regression model over the period 2007-2013 for different measures
+of performance and capital raising:
+
+Performance (or Capital) Measure; ; = 6b + 61CSR;,2006 x Crisis;
++ beC SR; 2006 x Post-Crisis;
++ b3'X; 4-1 + Time Dummies
++ Firm Fixed Effects + e;.:, (2)
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1815
+
+where CSR; 2006 is our measure of year-end 2006 CSR for firm i, Crisis; is a
+dummy variable set to one for the fourth quarter of 2008 and the first quarter
+of 2009,”° Post-Crisis,; is a dummy set to one for the second quarter of 2009 until
+the fourth quarter of 2013, and X; ;_; is a vector of control variables. All models
+include quarter and firm fixed effects. Thus, if a particular firm performed well
+throughout the estimation period because of some unobservable characteristics,
+this effect will be captured by the fixed effect. Similarly, if the performance of
+all firms varies over time (as happened during the crisis) then this will be
+captured by the time dummies. To avoid problems with extreme observations,
+we winsorize all performance and capital-raising variables at the 1st and 99th
+percentiles. Standard errors in all models are clustered at the firm level.
+
+Our findings are reported in Table VI. Our first performance measure is Op-
+erating Return on Assets, computed as operating income divided by assets. The
+interaction between CSR and the crisis-period dummy is positive and highly
+significant, indicating that high-CSR firms exhibit higher profitability relative
+to other companies at the end of 2008 and the beginning of 2009. In terms of
+economic significance, an increase in CSR of one-standard-deviation (0.381) is
+associated with an increase in profitability of 30 basis points during the cri-
+sis period, which is substantial compared to average quarterly profitability of
+3.1% over the estimation period and 2.2% during the crisis. Also note that the
+increase in profitability for high-CSR firms persists in the post-crisis period as
+well, albeit at an attenuated level. As argued previously, given that trust in cor-
+porations has remained low since the end of the crisis, observing some excess
+operating performance for high-CSR firms during this time is not surprising.
+
+Next, we analyze changes in Gross Margin, defined as (sales — cost of goods
+sold)/sales, to see whether high-CSR firms were able to sell their products at a
+higher mark-up during the crisis. Of course, higher mark-ups could be due to
+higher prices or lower costs; the gross margin just captures the net effect. As
+shown in column (2) of Table VI, gross margins of high-CSR firms are higher
+relative to those of low-CSR firms during the crisis. Over the crisis quarters, a
+one-standard-deviation increase in CSR is associated with gross margins that
+are 60 basis points higher. This effect appears small relative to average gross
+margins of 40.1% during the estimation period and 38.3% during the crisis,
+but the results on profitability reported in column (1) suggest that much of
+this increase flows through to the bottom line. Also note that gross margins
+have remained relatively higher for high-CSR firms since the end of the crisis
+and, though the difference in margins is lower than during the crisis, the
+change between the crisis and post-crisis periods is not statistically significant.
+These findings are also consistent with the work of Albuquerque, Durnev, and
+Koskinen (2015), who suggest that high-CSR firms have higher profit margins.
+
+26 For firms whose fiscal quarters do not overlap with the normal division of a calendar year in
+quarters, we consider all quarters ending in October 2008 to March 2009 as crisis quarters. We do
+not include the quarter ending September 2008 as a crisis quarter because most of the performance
+for that quarter precedes the Lehman bankruptcy.
+Pitch End Of Page
+Pitch Start of Page
+1816 The Journal of Finance®
+
+Table VI
+Operating Performance, Employee Growth, Capital Raising, and CSR
+Surrounding the Crisis
+
+Models (1)-(5) and (8) and (9) are regressions of various measures of performance and capital
+raising using the specification
+
+Outcome; + =bo+ bi1C SR; 2006 x Crisis; + beC'SR; 2006 x Post-Crisis; + b3/ Xj 4-1
++ Time Dummies + Firm Fixed Effects + e; +,
+
+where CSRj,2906 is our measure of CSR computed as of year-end 2006, Crisis; is a dummy variable
+set equal to one for quarters ending from October 2008 to March 2009, Post-Crisis; is a dummy
+variable set to one for quarters ending from April 2009 to December 2013, and X;+-1 is a vector of
+control variables. In the models of performance, we control for the log of total assets. In the models
+of security issuance, we control for the log of total assets, the ratio of cash holdings to assets lagged
+one quarter, the ratio of total debt to assets lagged one quarter, and the ratio of operating income to
+assets. The performance measures are: Operating Return on Assets, measured as operating income
+to assets, Gross Margin, measured as (sales — cost of goods sold) / sales, Sales Growth, measured
+as the percentage change in sales from the previous quarter, Accounts Receivable divided by Sales,
+and Sales per Employee. Measures of capital raising are: long-term debt issuance divided by assets
+and equity issuance divided by assets. All data items are from quarterly Compustat, except number
+of employees, which is from the annual Compustat database. Time dummies are specified at the
+quarterly level. All performance and security issuance measures are winsorized at the 1st and
+99th percentiles.Models (6) and (7) contain regressions of the model
+
+Employment Growth; =bot+ b1C SR; 2006 x 2008/2009 + beC SR; 2006 x 2010/2013
++ b3LogAssets + Time Dummies + Firm Fixed Effects + e; 1,
+
+where employment growth is the percentage growth in employees relative to the prior year,
+2008/2009 is a dummy for observations in 2008 and 2009, and 2010/2013 is a dummy for ob-
+servations in 2010-2018. Data are from the annual Compustat database and time dummies are
+specified at the annual level. In model (6), employment growth is winsorized at the 1st and 99th
+percentiles. In both panels, the regression is estimated over the period 2007-2013. Financial firms
+and firms with a market capitalization below $250 million as of year-end 2007 are removed from
+the sample. Standard errors, clustered at the firm level, are in parentheses. ***, **, and * indicate
+that the parameter estimate is significantly different from zero at the 1%, 5%, and 10% level,
+respectively.
+
+ 
+
+ 
+
+Operating Gross Sales Accounts Sales per
+Return on Margin Growth Receivable / Employee
+Assets (in %) (%) (%) Sales (%) (in $000’s)
+Variable (1) (2) (3) (4) (5)
+CSR x Crisis 0.797*** 1.562*** 6.690*** —0.474 38.434***
+(0.185) (0.511) (1.111) (0.962) (10.183)
+CSR x Post-Crisis 0.282** 1.256*** 1.285*** 0.635 19.586**
+(0.117) (0.442) (0.398) (1.815) (10.125)
+p-Value (Crisis — 0.00 0.54 0.00 0.53 0.00
+Post-Crisis)
+Firm fixed effects Yes Yes Yes Yes Yes
+Quarter fixed effects Yes Yes Yes Yes Yes
+Standard errors Firm Firm Firm Firm Firm
+clustered by
+N 43,302 43,319 43,918 43,622 42,923
+Adj. R? 0.636 0.875 0.044 0.770 0.769
+
+ 
+
+(Continued)
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1817
+
+Table VI—Continued
+
+Employee Growth in
+
+ 
+
+ 
+
+Employee Growth —50% and +100% range
+Variable (6) (7)
+CSR x 2008/2009 1.999 2.285*
+(1.978) (1.253)
+CSR x 2010/2013 0.031 0.792
+(1.911) (1.246)
+p-Value (2008/2009 — 2010/2013) 0.09 0.11
+Firm fixed effects Yes Yes
+Year fixed effects Yes Yes
+Standard errors clustered by Firm Firm
+N 10,604 10,439
+Adj. R? 0.142 0.185
+Debt Equity Issuance / Assets
+Issuance / Assets (%) (%)
+Variable (8) (9)
+CSR x Crisis 0.491** —0.058
+(0.236) (0.051)
+CSR x Post-Crisis 0.280 —0.034
+(0.217) (0.034)
+p-Value (Crisis — Post-Crisis) 0.33 0.60
+Firm fixed effects Yes Yes
+Quarter fixed effects Yes Yes
+Standard errors clustered by Firm Firm
+Control variables Yes Yes
+N 38,397 38,719
+Adj. R? 0.33 0.15
+
+ 
+
+One concern is that the higher mark-ups documented in column (2) may
+be associated with lower sales growth. This is what we study in the model
+reported in column (3), where we employ sales growth, computed as the
+percentage growth in sales over the previous quarter, as the dependent vari-
+able. Interestingly, high-CSR firms experience higher sales growth during the
+crisis compared to other firms: a one-standard-deviation increase in CSR is
+associated with 2.55 percentage points greater sales growth. This is a con-
+siderable effect, given mean quarterly sales growth of 3.24% over the sample
+period, and a mean decline in sales of 6.91% during the two crisis quarters.
+Taken together, the findings of columns (2) and (83) indicate that, during the
+crisis, high-CSR firms experienced lower declines in sales than other firms,
+despite charging higher mark-ups. This suggests that the customers of these
+firms were more willing to “stick” with the company during this period. Note
+from column (3) that the higher level of sales growth for high-CSR firms also
+persists after the crisis, although the magnitude of the effect is substantially
+lower than during the crisis.
+
+To examine the customer channel in greater depth, we study changes
+in accounts receivable as a fraction of sales around the crisis. The results
+Pitch End Of Page
+Pitch Start of Page
+1818 The Journal of Finance®
+
+reported in column (4) show no significant effect. Thus, there is no evidence
+that the stronger sales growth of high-CSR firms is due to increased credit
+sales. Customers of high-CSR firms are not paying their invoices any faster
+during the crisis either.
+
+In sum, the operating performance results discussed up to this point suggest
+that one of the channels through which high-CSR firms earn excess returns dur-
+ing the crisis period is the willingness of customers to continue supporting these
+firms, as reflected in higher sales growth and an acceptance of higher mark-ups.
+
+We now turn to the employee channel and study whether high-CSR firms
+achieved higher sales per employee in the crisis period. As illustrated in column
+(5) of Table VI, there is a positive association between CSR and employee pro-
+ductivity during the crisis. The coefficient of 38.434 suggests that an increase
+in CSR of one-standard-deviation is associated with $14,643 higher quarterly
+sales per employee during the crisis. The mean (median) firm over the esti-
+mation period has sales per employee of $131,484 ($75,282), with a standard
+deviation of $323,585, indicating that the impact of CSR on employee produc-
+tivity is considerable. This result suggests an additional channel through which
+CSR affects performance. Note that this effect also persists after the crisis, but
+at half the rate.?’
+
+One shortcoming of our analysis of sales per employee is that the number
+of employees is only available on Compustat at an annual level. Thus, we
+divide quarterly sales by the number of employees at year-end to compute
+sales per employee. For example, sales per employee for the first quarter of
+2009 are computed using the number of employees reported for year-end 2009.
+We also verify that our findings remain unchanged when we lag the number
+of employees by one year. Finally, to verify that higher sales per employee are
+not due to employee layoffs, we compute growth in the number of employees on
+an annual basis and estimate models of employee growth as a function of CSR,
+year dummies, firm fixed effects, the interaction between CSR and a dummy for
+2008/2009, and the interaction between CSR and a dummy for 2010-2013. This
+regression is similar to those estimated for the performance measures, except
+that it is estimated using annual instead of quarterly data. As illustrated in
+column (6) of Table VI, there is no evidence of higher employee layoffs for
+high-CSR firms in 2008 or 2009. In fact, if we remove firms that double their
+employees or lose half their employees in a year, we find some evidence that
+high-CSR firms experience more employee growth in 2008 and 2009 relative to
+low-CSR firms, as illustrated in column (7).
+
+27 We also estimated these models without the time dummies but with dummies for the crisis
+and post-crisis periods. The coefficients on these dummies allow us to determine the effect of the
+crisis on performance for firms with a CSR score of zero. In general, we find evidence of a strong
+decline in performance during the crisis and of a substantial recovery in the post-crisis period.
+For example, during the crisis quarters, firms with a CSR score of zero experienced a decline in
+operating return to assets of 0.91 percentage points, a decline in gross margin of 1.4 percentage
+points, and a decline in sales growth of 9.8 percentage points. In the post-crisis period, profitability
+improved by 0.76 percentage points, gross margins increased by 0.70 percentage points, and sales
+grew by 9.3 percentage points relative to the crisis period.
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1819
+
+Next, we focus on the investor channel and study capital raising during and
+surrounding the crisis. We divide both long-term debt and equity issues by
+total assets and relate these debt or equity issue measures to CSR activities as
+in equation (2) above. We report results of these specifications in columns (8)
+and (9) of Table VI. As illustrated in column (8), high-CSR firms raised more
+debt during the crisis, albeit the economic effect is modest. Increasing CSR
+by one-standard-deviation increases debt issuances relative to assets by 0.19
+percentage points while average debt issuance is 2.61% over the sample period
+and 2.26% during the crisis. Also note that the effect of CSR on debt capital
+raising becomes insignificant in the post-crisis period. Equity issuances, which
+are studied in column (9), are not related to CSR around the crisis period.
+
+In our final set of tests, we relate the measures of operating performance
+presented in Table VI to the stock price performance documented previously.
+To do so, we re-estimate our regression model of returns in Table II, but add the
+actual performance measures achieved during the crisis period as explanatory
+variables. The goal of this exercise is not to predict returns but rather to assess
+the extent to which the cross-sectional variation in crisis-period returns can
+be explained by concurrent operating performance. Actual performance is com-
+puted as average performance over the quarters ending from October 2008 to
+March 2009. We include profitability, gross margin, sales growth, and sales per
+employee as performance measures. These models (see the Internet Appendix)
+show that profitability, gross margin, and sales growth all affect crisis-period
+(abnormal) returns, with the economic effect of profitability being the largest.
+Increasing profitability by one-standard-deviation is associated with incremen-
+tal crisis-period returns of 5.88 percentage points; the economic effect of gross
+margin is somewhat smaller while the effect of sales growth is around half of
+that. In these models, the coefficient on CSR is reduced by about half for raw
+returns and one quarter for abnormal returns. For raw returns, the coefficient
+on CSR is no longer significant, but it is significant at the 5% level for abnor-
+mal returns. This suggests that part of the excess returns earned by high-CSR
+firms during the crisis are due to their superior operating performance (related
+to stakeholder trust). The unexplained variation in returns could be due to
+the direct effect of social capital on shareholder trust (see Guiso, Sapienza, and
+Zingales (2004, 2008)) although we recognize that other performance measures
+may also matter for stock returns, which would attenuate this effect.
+
+Overall, the evidence reported in this section broadly suggests that some
+of the increased returns to high-CSR firms accrue through the customer and
+employee channels. There is modest evidence in support of increased debt
+capital raising. It is worth noting that, even after controlling for these real
+effects, CSR continues to have a persistent, albeit reduced, impact on crisis-
+period returns.
+
+V. Conclusion
+
+This paper provides evidence that firm-specific social capital, built up
+through CSR activities, pays off during a period when the importance of trust
+Pitch End Of Page
+Pitch Start of Page
+1820 The Journal of Finance®
+
+increases unexpectedly, namely the 2008-2009 financial crisis. In particular,
+we find that firms with high CSR ratings outperform firms with low CSR rat-
+ings during the crisis by at least four percentage points, after controlling for a
+variety of firm characteristics and risk factors. We also find that the excess re-
+turns are higher for firms headquartered in regions where individuals are more
+trusting. There is no difference in stock return performance between high- and
+low-CSR firms during the recovery period after the crisis. Collectively, these
+results suggest that increased social capital resulting from CSR activities mat-
+ters predominantly in periods when trust in corporations at large has eroded,
+and that during normal times any benefits of social capital are already imbed-
+ded in a firm’s share price. The lack of a reversal in returns in the post-crisis
+period suggests that being trustworthy has remained important, which is in
+line with survey data that report continuing low levels of trust in corporations
+and the stock market.
+
+We also examine the mechanisms through which higher CSR levels might
+generate excess returns during the crisis and find that high-CSR firms benefit
+through higher profitability, margins, sales growth, and employee productivity
+relative to low-CSR firms. Some of these effects also persist in the post-crisis
+period, but at lower levels of economic and statistical significance, again con-
+sistent with survey evidence suggesting that trust remains relatively low.
+
+Overall, our results suggest that the building of firm-specific social capital
+can be thought of as an insurance policy that pays off when investors and the
+overall economy face a severe crisis of confidence. Our work also indicates that
+social capital, in addition to financial capital, can be an important determinant
+of firm performance, and identifies circumstances under which CSR can be
+beneficial for firm value.
+
+Two caveats are in order. First, as with most empirical work, unobserved
+time-varying firm heterogeneity could explain our findings, but the fact that
+our results survive the inclusion of a large battery of control variables as well as
+firm and time fixed effects, and hold during another period when trust suffered
+a shock, mitigates this concern. Second, in constructing our proxy for social
+capital at the firm level, we rely on prior literature suggesting a link between
+CSR and the formation of social capital. However, there may be other channels
+through which firms can build social capital and increase trust. Examining
+these channels and studying the relative efficacy of the CSR channel compared
+to other channels would be a fruitful avenue for further work.
+
+Initial submission: January 26, 2015; Accepted: September 25, 2016
+Editors: Bruno Biais, Michael R. Roberts, and Kenneth J. Singleton
+
+REFERENCES
+
+Albuquerque, Rui, Art Durnev, and Yrjo Koskinen, 2015, Corporate social responsibility and firm
+risk: Theory and empirical evidence, Working paper, Boston University, University of Iowa,
+and University of Calgary.
+
+Almeida, Heitor, Murillo Campello, Bruno Laranjeira, and Scott Weisbenner, 2012, Corporate debt
+maturity and the real effects of the 2007 credit crisis, Critical Finance Review 1, 3-58.
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1821
+
+Arrow, Kenneth J., 1972, Gifts and exchanges, Philosophy and Public Affairs 1, 348-362.
+
+Bebchuk, Lucian, Alma Cohen, and Allen Ferrell, 2009, What matters in corporate governance?
+Review of Financial Studies 22, 783-827.
+
+Bénabou, Roland, and Jean Tirole, 2010, Individual and corporate social responsibility, Economica
+77, 1-19.
+
+Borisov, Alexander, Eitan Goldman, and Nandini Gupta, 2016, The corporate value of (corrupt)
+lobbying, Review of Financial Studies 29, 1039-1071.
+
+Carlin, Bruce I., Florin Dorobantu, and S. Viswanathan, 2009, Public trust, the law, and financial
+investment, Journal of Financial Economics 92, 321-341.
+
+Cheng, Ing-Haw, Harrison Hong, and Kelly Shue, 2016, Do managers do good with other peoples’
+money? Working paper, Dartmouth College, Princeton University, and University of Chicago.
+
+Coleman, James S., 1988, Social capital in the creation of human capital, American Journal of
+Sociology 94 (Supplement), S95—S120.
+
+Coleman, James S., 1990, Foundations of Social Theory (Harvard University Press, Cambridge,
+MA).
+
+Coval, Joshua D., and Tobias J. Moskowitz, 1999, Home bias at home: Local equity preference in
+domestic portfolios, Journal of Finance 54, 2045-2078.
+
+Daniel, Kent, and Sheridan Titman, 1997, Evidence on the characteristics of cross-sectional vari-
+ation in stock returns, Journal of Finance 52, 1-33.
+
+Dasgupta, Partha, 1988, Trust as a commodity, in Diego Gambetta, ed.: Trust: Making and Break-
+ing Cooperative Relations (Basil Blackwell, Oxford, UK).
+
+Deng, Xin, Jun-Koo Kang, and Buen Sin Low, 2018, Corporate social responsibility and stakeholder
+value maximization: Evidence from mergers, Journal of Financial Economics 110, 87-109.
+
+Di Giuli, Alberta, and Leonard Kostovetsky, 2014, Are red or blue companies more likely to go
+green? Politics and corporate social responsibility, Journal of Financial Economics 111, 158—
+180.
+
+Duchin, Ran, Oguzhan Ozbas, and Berk A. Sensoy, 2010, Costly external finance, corporate invest-
+ment, and the subprime mortgage credit crisis, Journal of Financial Economics 97, 418-4385.
+
+Eccles, Robert G., Ioannis Ioannou, and George Serafeim, 2014, The impact of corporate sustain-
+ability on organizational processes and performance, Management Science 60, 2835-2857.
+
+Edmans, Alex, 2011, Does the stock market fully value intangibles? Employee satisfaction and
+equity prices, Journal of Financial Economics 101, 621-640.
+
+Erhard, Werner, and Michael C. Jensen, 2015, Putting integrity into finance: A purely positive
+approach, Working paper, Harvard Business School.
+
+Erhard, Werner, Michael C. Jensen, and Steve Zaffron, 2009, Integrity: A positive model that in-
+corporates the normative phenomena of morality, ethics, and legality, Working paper, Harvard
+Business School.
+
+Fama, Eugene F., and Kenneth R. French, 1992, The cross-section of expected stock returns,
+Journal of Finance 47, 427-465.
+
+Ferrell, Allen, Hao Liang, and Luc Renneboog, 2016, Socially responsible firms, Journal of Finan-
+cial Economics 122, 585-606.
+
+Fitzgerald, Niall, 2003, CSR: Rebuilding Trust in Business. A Perspective on Corporate Social
+Responsibility in the 21st Century, speech by Unilever’s Chairman, Unilever and London
+Business School, London, UK.
+
+Flammer, Caroline, 2015, Does corporate social responsibility lead to superior financial perfor-
+mance? A regression discontinuity approach, Management Science 61, 2549-2568.
+
+Fukuyama, Francis, 1995, Trust (Free Press, New York, NY).
+
+Gambetta, Diego, 1988, Can we trust trust? in Diego Gambetta, ed.: Trust: Making and Breaking
+Cooperative Relations (Basil Blackwell, Oxford, UK).
+
+Gao, Feng, Ling Lei Lisic, and Ivy Zhang, 2014, Commitment to social good and insider trading,
+Journal of Accounting and Economics 57, 149-175.
+
+Glaeser, Edward L., David Laibson, and Bruce Sacerdote, 2002, An economic approach to social
+capital, Economic Journal 112, F437—F 458.
+Pitch End Of Page
+Pitch Start of Page
+1822 The Journal of Finance®
+
+Godfrey, Paul C., Craig B. Merrill, and Jared M. Hansen, 2009, The relationship between corpo-
+rate social responsibility and shareholder value: An empirical test of the risk management
+hypothesis, Strategic Management Journal 30, 425-445.
+
+Gormley, Todd A., and David A. Matsa, 2014, Common errors: How to (and not to) control for
+unobserved heterogeneity, Review of Financial Studies 27, 617-661.
+
+Gouldner, Alvin W., 1960, The norm or reciprocity: A preliminary statement, American Sociological
+Review 25, 161-178.
+
+Goyal, Amit, and Pedro Santa-Clara, 2003, Idiosyncratic risk matters! Journal of Finance 58,
+975-1008.
+
+Guiso, Luigo, Paola Sapienza, and Luigi Zingales, 2004, The role of social capital in financial
+development, American Economic Review 94, 526-556.
+
+Guiso, Luigo, Paola Sapienza, and Luigi Zingales, 2008, Trusting the stock market, Journal of
+Finance 63, 2557-2600.
+
+Guiso, Luigo, Paola Sapienza, and Luigi Zingales, 2011, Civic capital as the missing link, in Jess
+Benhabib, Alberto Bisin, and Matthew O. Jackson, eds.: Social Economics Handbook (North
+Holland, Amsterdam).
+
+Guiso, Luigo, Paola Sapienza, and Luigi Zingales, 2015, The value of corporate culture, Journal of
+Financial Economics 117, 60—76.
+
+Gurria, Angel, 2009, Keynote Remarks by OECD Secretary-General, Available at http://www.oecd.
+org/newsroom/respondingtotheglobaleconomiccrisisoecdsroleinpromotingopenmarketsandjob
+creation.htm. Accessed April 19, 2017.
+
+Harford, Jarrad, Sandy Klasa, and William Maxwell, 2014, Refinancing risk and cash holdings,
+Journal of Finance 69, 975-1012.
+
+Hong, Harrison G., and Leonard Kostovetsky, 2012, Red and blue investing: Values and finance,
+Journal of Financial Economics 108, 1-19.
+
+Hong, Harrison G., Jeffrey D. Kubik, and Jeremy C. Stein, 2008, The only game in town: Stock-price
+consequences of local bias, Journal of Financial Economics 90, 20-87.
+
+Hong, Harrison G., and Inessa Liskovich, 2016, Crime, punishment and the value of corporate
+social responsibility, Working paper, Princeton University.
+
+Ivashina, Victoria, and David Scharfstein, 2010, Bank lending during the financial crisis of 2008,
+Journal of Financial Economics 97, 319-838.
+
+Kelly, Peter, 2015, Dividends and trust, Working paper, University of Notre Dame.
+
+Kim, Yongtae, Myung Seok Park, and Benson Wier, 2012, Is earnings quality associated with
+corporate social responsibility? The Accounting Review 87, 761-796.
+
+Kitzmueller, Markus, and Jay Shimshack, 2012, Economic perspectives on corporate social respon-
+sibility, Journal of Economic Literature 50, 51-84.
+
+Knack, Stephen, and Philip Keefer, 1997, Does social capital have an economic payoff? A cross-
+country investigation, Quarterly Journal of Economics 112, 1251-1288.
+
+Kriiger, Philipp, 2015, Corporate goodness and shareholder wealth, Journal of Financial Eco-
+nomics 115, 304-329.
+
+La Porta, Rafael, Florencio Lopez-de-Silanes, Andrei Shleifer, and Robert W. Vishny, 1997, Trust
+in large organizations, American Economic Review Papers and Proceedings 87, 333-338.
+Leana, Carrie R., and Harry J. Van Buren, III, 1999, Organizational social capital and employment
+
+practices, Academy of Management Review 24, 538-555.
+
+Lin, Nan, 2001, Social Capital: A Theory of Social Structure and Action (Cambridge University
+Press, Cambridge, UK).
+
+Lins, Karl V., Paolo Volpin, and Hannes Wagner, 2013, Does family control matter? International
+evidence from the 2088-2009 financial crisis, Review of Financial Studies 26, 2583-2619.
+Margolis, Joshua D., Hillary Anger Elfenbein, and James P. Walsh, 2009, Does it pay to be good ...
+and does it matter? A meta-analysis of the relationship between corporate social and financial
+performance, Working paper, Harvard University, Washington University in St. Louis, and
+
+University of Michigan.
+
+Minor, Dylan B., 2015, The value of corporate citizenship: Protection, Working paper, Harvard
+
+Business School.
+Pitch End Of Page
+Pitch Start of Page
+Social Capital, Trust, and Firm Performance 1823
+
+Neuyen, Tu, H.G. (Lily) Nguyen, and Xiangkang Yin, 2015, Corporate governance and corporate
+financing and investment during the 2007-2008 financial crisis, Financial Management 44,
+115-146.
+
+Porter, Michael E., and Mark R. Kramer, 2006, Strategy and society: The link between competitive
+advantage and corporate social responsibility, Harvard Business Review 84, 78-92.
+
+Porter, Michael E., and Mark R. Kramer, 2011, Creating shared value, Harvard Business Review
+89, 1-17.
+
+PricewaterhouseCoopers, 2013, 16th CEO Survey, Available at http://www.pwc.com/gx/
+en/ceo-survey/2013/assets/pwc-16th-global-ceo-survey_jan-2013.pdf. Accessed April 17, 2017.
+
+PricewaterhouseCoopers, 2014, 17th CEO Survey, Available at http://www.pwc.com/gx/
+en/ceo-survey/2014/assets/pwc-17th-annual-global-ceo-survey-jan-2014.pdf. Accessed April
+17, 2017.
+
+Putnam, Robert D., 1993, Making Democracy Work: Civic Traditions in Modern Italy (Princeton
+University Press, Princeton, NJ).
+
+Putnam, Robert D., 2000, Bowling Alone: The Collapse and Revival of American Community (Simon
+and Schuster, New York, NY).
+
+Reich, Robert, Government needs to rebuild trust in the markets, U.S. News and World Re-
+port, September 16, 2008. Available at http://www.usnews.com/opinion/articles/2008/09/16/
+robert-reich-government-needs-to-rebuild-trust-in-the-markets. Accessed April 17, 2017.
+
+Sacconi, Lorenzo, and Giacomo Degli Antoni, 2011, Social Capital, Corporate Responsibility, Eco-
+nomic Behaviour and Performance (Palgrave MacMillan, New York, NY).
+
+Sapienza, Paola, Anna Toldra-Simats, and Luigi Zingales, 2013, Understanding trust, Economic
+Journal 123, 1313-1332.
+
+Sapienza, Paola, and Luigi Zingales, 2012, A trust crisis, International Review of Finance 12,
+123-1381.
+
+Scrivens, Katherine, and Conal Smith, 2013, Four interpretations of social capital: An agenda for
+measurement, OECD Statistics Working paper.
+
+Servaes, Henri, and Ane Tamayo, 2013, The impact of corporate social responsibility on the value
+of the firm: The role of customer awareness, Management Science 59, 1045-1061.
+
+Stiglitz, Joseph E., The fruit of hypocrisy, Economics Opinion, The Guardian, September 16, 2008.
+Available at https:/Awww.theguardian.com/commentisfree/2008/sep/16/economics.wallstreet.
+Accessed April 17, 2017.
+
+Solow, Robert M., 1995, Trust: The social virtues and the creation of prosperity (Book review), The
+New Republic 2138, 36-40.
+
+Tonkiss, Fran, 2009, Trust, confidence and economic crisis, Intereconomics 44, 196-202.
+
+World Business Council for Sustainable Development, 2000, Corporate Social Responsibility: Mak-
+ing Good Business Sense (Geneva, Switzerland).
+
+Supporting Information
+
+Additional Supporting Information may be found in the online version of this
+article at the publisher’s website:
+
+Appendix S1: Internet Appendix.
+Pitch End Of Page
+Pitch Start of Page
+1824 The Journal of Finance®
+Pitch End Of Page

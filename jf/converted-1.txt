@@ -1,0 +1,2597 @@
+Pitch Start of Page
+The fournal of FINANCE
+
+The Journal of THE AMERICAN FINANCE ASSOCIATION
+
+ 
+
+THE JOURNAL OF FINANCE e VOL. LXXIII, NO. 1 e FEBRUARY 2018
+
+Agency, Firm Growth, and Managerial Turnover
+
+RONALD W. ANDERSON, M. CECILIA BUSTAMANTE, STEPHANE GUIBAUD,
+and MIHAIL ZERVOS*
+
+ABSTRACT
+
+We study managerial incentive provision under moral hazard when growth opportu-
+nities arrive stochastically and pursuing them requires a change in management. A
+trade-off arises between the benefit of always having the “right” manager and the
+cost of incentive provision. The prospect of growth-induced turnover limits the firm’s
+ability to rely on deferred pay, resulting in more front-loaded compensation. The opti-
+mal contract may insulate managers from the risk of growth-induced dismissal after
+periods of good performance. The evidence for the United States broadly supports
+the model’s predictions: Firms with better growth prospects experience higher CEO
+turnover and use more front-loaded compensation.
+
+WHEN OWNERSHIP AND CONTROL ARE SEPARATED, firm performance depends cru-
+cially on having the right managers at the helm and incentivizing them prop-
+erly. Over time, changes in business conditions may call for a change in top
+management for the firm to seize new opportunities or overcome challenges.
+But this may complicate the task of incentivizing incumbent managers. For in-
+stance, if managers anticipate that their tenure at the firm will be short, they
+will be reluctant to accept any form of deferred compensation, a standard fea-
+ture of incentive contracts. The firm may therefore face a dilemma: By changing
+management to adapt to evolving business conditions, it may increase the costs
+of incentive provision.
+
+To analyze this tension, this paper introduces the idea of growth-induced
+turnover into a dynamic moral hazard framework. Growth-induced turnover
+refers to the replacement of top management that is motivated by the need to
+
+*Ronald W. Anderson is with the London School of Economics. M. Cecilia Bustamante is with the
+Robert H. Smith School of Business, University of Maryland. Stéphane Guibaud is with SciencesPo.
+Mihail Zervos is with the London School of Economics. We are especially grateful to Bruno Biais (the
+Editor) and two anonymous referees for helping us improve the paper significantly. We also thank
+Catherine Casamatta, Peter DeMarzo, Mike Fishman, Denis Gromb, Zhiguo He, Andrey Malenko,
+Guillaume Plantin, Jean-Marc Robin, Antoinette Schoar, our discussants David Dicks, Oliver Spalt,
+Sergey Stepanov, and John Zhu, seminar participants at Boston University, Ecole Polytechnique,
+London School of Economics, Queen Mary University of London, SciencesPo, Toulouse, and UT
+Austin, and conference participants at the meetings of the CEPR European Summer Symposium
+in Financial Markets, China International Conference in Finance, European Finance Association,
+European Finance Summit, International Moscow Finance Conference, Séminaire Bachelier Paris,
+and Western Finance Association for helpful comments. We have read the Journal of Finance’s
+disclosure policy and have no conflict of interest to disclose.
+
+DOI: 10.1111/o0fi.12583
+
+419
+Pitch End Of Page
+Pitch Start of Page
+420 The Journal of Finance®
+
+have managers who possess the appropriate skill set and experience to lead
+the firm in its current circumstances. This may involve, for instance, adopting
+new production techniques, making acquisitions, launching a new product, or
+expanding into new markets. If the incumbent lacks the vision or skills neces-
+sary to implement such transformations, appointing new management is the
+only way for the firm to successfully pursue its course.! At the same time,
+proper dynamic incentive provision requires a combination of deferred com-
+pensation and a threat of dismissal following poor performance, both of which
+constitute agency costs. By introducing the possibility of managerial turnover
+for the sake of growth as well as for discipline, we show how these costs are
+affected. The main insight of the paper is that the prospect of growth-induced
+dismissal effectively increases managers’ impatience, which increases agency
+costs and generates a tendency to front-load compensation. In fact, the firm
+may actually be better off ex ante by committing to pass up otherwise attrac-
+tive growth opportunities in some circumstances. More generally, our analysis
+delivers empirical predictions on the effects of a firm’s growth prospects on
+managerial turnover and compensation, predictions that we show are broadly
+supported in the data.
+
+Although our analysis is set up in a continuous-time stationary environment,
+we first develop the theory in the context of a two-period model. The simplicity
+of the framework enables us to distill most of the economics of the paper in
+a transparent way. In particular, the trade-off faced by the firm between the
+benefit of having a manager who is able to seize new opportunities and the
+cost of incentive provision appears starkly in this setting. Moreover, the key
+empirical implications of the theory are derived analytically.
+
+In the continuous-time model, a long-lived firm is run by a sequence of risk-
+neutral managers protected by limited liability. A moral hazard problem arises
+because, while they are in charge, managers can divert cash flows for their
+own private benefit. The firm can fire the incumbent manager at any time and
+replace him at a cost. Fleeting growth opportunities arrive stochastically over
+time, and a change in management is needed to seize them. If the firm decides to
+pursue an opportunity, it pays the costs associated with replacing the manager
+and its size (or profitability) increases. A long-term incentive contract is signed
+between the firm and its successive managers at the time they are hired.
+
+As in previous dynamic contracting studies, we show that optimal com-
+pensation and turnover policies in this environment can be described in
+terms of a state variable that coincides with the agent’s expected discounted
+compensation, referred to as his contractual promise. The manager receives
+
+1Tn some circumstances, a change in management may be required to avoid decay, rather than
+to pursue growth—for example, when by sticking with the status quo, the firm would fail to face
+up to a disruptive competitive threat. For instance, in his narrative of the battle waged in Canada
+around 1820 between the long-established Hudson Bay Company (HB) and its upstart rival North
+West Company (NW), Roberts (2004, p. 5) recounts that “HB did respond to the threat, essentially
+by copying NW’s new approach. It did so, however, only after the leaders of the firm had been
+replaced by new ones who understood the nature of the threat and were not tied to the old ways that
+had worked so well for so long.” (emphasis added)
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 421
+
+cash compensation only when his promise reaches an endogenous bonus thresh-
+old. When the manager’s promise lies below this threshold, cash compensation
+is deferred, and the promise is increased at a contractually specified rate plus
+a positive or negative adjustment based on the firm’s current performance. If
+the firm suffers a sustained period of poor performance, the manager’s promise
+can be lowered sufficiently to reach zero, the firing threshold, at which point
+the incumbent is replaced by a new manager who receives an initial promise
+that is no less than his exogenous reservation value.
+
+In contrast with other studies, the manager’s contract in our framework is
+also contingent on the presence or not of a growth opportunity. If no growth
+opportunity becomes available, the manager continues his tenure so long as his
+promise stays above the firing threshold, and he is compensated with bonuses
+and performance-related changes in his promise as described above. If a growth
+opportunity arises and the firm takes it, the manager is replaced. However, not
+all growth opportunities are seized by all firms—even though they would be
+under first-best. Specifically, we show that, depending on the characteristics of
+the firm and its environment, the optimal growth policy can be one of two types.
+For some firms, it is optimal to pursue all growth opportunities as they come.
+For other firms, it is optimal to forgo opportunities that arise after periods of
+good performance, that is, when the incumbent manager’s promise is above a
+certain growth threshold. We refer to these two types of firms as high-growth
+firms and low-growth firms, respectively. In effect, optimal incentive provision
+in low-growth firms calls for some degree of job protection against the risk of
+growth-induced termination. Intuitively, the reason job protection is granted
+after a spell of good cash flows is that losses due to agency problems are re-
+duced after good performance, thus increasing the value of continuing with the
+incumbent manager net of the forgone benefit of growth. In high-growth firms,
+the benefit of growth always dominates.
+
+Under the optimal contract, managerial compensation is affected by the pos-
+sibility of growth-induced turnover through the drift of the manager’s promise
+during his tenure. In the absence of growth opportunities, this drift would sim-
+ply be equal to the manager’s discount rate. The key novelty in our setup is
+that, whenever the firm stands ready to seize an opportunity that might become
+available, the drift rate needs to be augmented to compensate the manager for
+the risk of growth-induced termination, with the drift modification depending
+on the arrival intensity of growth opportunities. This upward adjustment of the
+drift when the firm stands ready to pursue a growth opportunity explains why
+firms with better growth prospects tend to have more front-loaded compensa-
+tion. It also sheds light on why low-growth firms grant job protection when past
+performance has been good but not if it has been bad. A higher drift is indeed
+less costly to the firm after poor performance, when the manager’s promise
+is close to the firing threshold, as it reduces the likelihood of a subsequent
+inefficient disciplinary turnover.
+
+Our analysis explicitly allows for the possibility of lump-sum payments, and
+we show that severance pay is suboptimal in our setting even in the case of
+growth-induced turnover. Indeed, it is always better for the firm to increase the
+Pitch End Of Page
+Pitch Start of Page
+422 The Journal of Finance®
+
+incumbent’s future promise conditional on him being retained, thereby making
+inefficient termination less likely in the future, than to give cash to a departing
+manager. However, we establish that an incoming manager may be given a
+“signing bonus” when his reservation value is sufficiently high.
+
+To derive these results for the second-best incentive contract, our approach
+roughly follows the same logic as in previous continuous-time analyses of dy-
+namic moral hazard. First, we establish a state-space representation of long-
+term incentive contracts, where the state process coincides with the manager’s
+promise as described above. Similar to other studies, no stealing is incentive
+compatible under a dynamic contract if the sensitivity of the manager’s promise
+to reported cash flows is large enough. We next formulate the firm’s contracting
+problem recursively to characterize the optimal incentive-compatible dynamic
+contract in the presence of stochastic growth opportunities. We show that the
+firm’s size-adjusted value function can be characterized as the solution to a
+Hamilton-Jacobi-Bellman (HJB) equation that incorporates the possibility of
+growth-induced turnover in an intuitive way. This crucial step in the analysis
+is established through a verification theorem from which the main properties
+of optimal compensation and turnover policies follow. Based on the HJB, we
+also provide a characterization of the determinants of a firm’s growth type. In
+particular, we show that low-growth firms tend to be those plagued with more
+severe agency problems. This finding suggests that better governance can work
+as an effective tool to promote economic growth.
+
+Having characterized the optimal contract, we take full advantage of the dy-
+namic nature of our model and provide a suggestive analysis of its quantitative
+implications for the distribution of tenure length and for the timing of man-
+agerial compensation over tenure. In the model, these are partly determined
+by the firm’s type as well as the compensation and growth thresholds, all of
+which are endogenous. We discuss the impact of a firm’s growth prospects on
+turnover and compensation under the optimal contract through a numerical
+example. The simulation outcome illustrates the fact that firms with better
+growth prospects, in particular, those with more attractive opportunities (i.e.,
+holding their arrival intensity fixed), tend to have shorter tenure length and
+more front-loaded compensation.
+
+Finally, we examine the data in light of the theory. Merging data from
+CRSP, Compustat, and ExecuComp for U.S. public companies over the pe-
+riod 1992 to 2014, we investigate empirically the links between firms’ growth
+prospects, CEO turnover, and CEO compensation. Following an extensive liter-
+ature in empirical corporate finance, we use average Q to capture firms’ growth
+prospects. Specifically, we proxy for the ex ante growth prospects of a firm at
+the time a new CEO is appointed by the value of the firm’s Q in the year before
+the CEO’s appointment. We first sort CEO episodes along this proxy and com-
+pare the distributions of tenure length and compensation duration across the
+highest and lowest quantiles of growth prospects. In line with the model predic-
+tions, we find that the CEOs of firms with better prospects tend to have shorter
+tenure and more front-loaded compensation. We confirm these findings using
+regression analysis. In a probit model, our proxy for firms’ growth prospects is
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 423
+
+positively related to the likelihood of turnover, controlling for past performance.
+An increase in initial Q of one standard deviation leads to an increase in the
+probability of turnover of 85 basis points. Since the unconditional frequency
+of CEO turnover in our sample is 8.4%, the effect is economically significant.
+We also find that the arrival of an opportunity, proxied by an increase in the
+firm’s average Q since the beginning of a CEO’s tenure, increases the probabil-
+ity of a turnover event, consistent with the notion of growth-induced turnover.
+Furthermore, the likelihood of turnover is less sensitive to the arrival of an
+opportunity when ex ante growth prospects were poor, in line with the predic-
+tion that firms with more modest growth prospects are more likely to insulate
+their managers from the risk of growth-induced turnover. Finally, we find that
+managerial pay tends to be lower in firms with worse growth prospects, and
+that the slope of the compensation profile over tenure years tends to be higher
+in such firms, which can be viewed as a manifestation of their greater reliance
+on compensation back-loading.
+
+The idea that the pursuit of valuable growth opportunities may rely on a
+change in management can be found in early contributions to the management
+literature, going back to Penrose (1959). More recently, Roberts (2004) studies
+a number of business cases in which managerial limitations to firm growth play
+a prominent role and a change in management is instrumental in unlocking
+the growth potential of a firm.” Bertrand and Schoar (2003) provide compelling
+evidence that managers do indeed matter for firm performance and that they
+differ in their management styles. Bennedsen, Pérez-Gonzalez, and Wolfenson
+(2012) further report that CEO effects are particularly important in rapidly
+growing environments. Building on the idea that firm productivity is deter-
+mined by the quality of the match between the skill set of the manager and
+the current circumstances of the firm, Eisfeldt and Kuhnen (2013) analyze a
+competitive assignment model of CEO turnover where the skills demanded by
+the firm are subject to random shocks. In a similar vein, Jenter and Lewellen
+(2014) extend the standard Bayesian learning model of CEO turnover (e.g.,
+Harris and Holmstrom (1982)) by allowing the quality of the firm-CEO match
+to vary over time. In contrast with our work, these papers abstract from agency
+issues and incentive considerations, which occupy center stage in our analysis.
+
+Our paper relates to a large body of work that applies the tools of dynamic
+contracting to the study of the firm in the presence of agency conflicts.* In
+particular, Quadrini (2004), Clementi and Hopenhayn (2006), DeMarzo and
+
+2 See in particular his discussion of the British Petroleum (BP) and General Motors (GM) cases.
+Both firms achieved major increases in value by undertaking discrete changes in organizational
+structure implemented by new CEOs with a different vision (John Browne at BP and “Jack” Smith
+at GM) and only after a sustained period of poor performance. This can be viewed as evidence of
+the type of behavior that characterizes low-growth firms in our analysis. Cheng and Hambrick
+(2012) document that, in turnaround situations, companies substantially improve performance
+when they replace incumbent CEOs who are poorly suited to the conditions at hand with new ones
+who are well matched to those conditions.
+
+3 For seminal contributions to the literature on dynamic moral hazard, see Rogerson (1985)
+and Spear and Srivastava (1987) in discrete time, as well as Holmstrém and Milgrom (1987)
+and Sannikov (2008) in continuous time. Recent applications to the study of CEO turnover and
+Pitch End Of Page
+Pitch Start of Page
+424 The Journal of Finance®
+
+Fishman (2007a), Philippon and Sannikov (2007), He (2008), Biais et al. (2010),
+and DeMarzo et al. (2012) investigate the link between moral hazard and firm
+growth when the firm can grow with the incumbent. Our main theoretical con-
+tribution is to focus instead on growth-induced turnover and its interactions
+with incentive provision. To the extent that the optimal contract in our set-
+ting is contingent on the realization of observable shocks, our work also bears
+some similarity to Piskorski and Tchistyi (2010) and Li (2015). More specif-
+ically, our continuous-time framework builds on the cash diversion model of
+DeMarzo and Sannikov (2006),* which we extend to incorporate the stochastic
+arrival of growth opportunities. From a technical point of view, our contribu-
+tions are as follows. First, we introduce an additional source of uncertainty
+beyond the Brownian cash flow shocks. Consequently, our analysis borrows
+techniques from the credit risk literature to derive the state-space representa-
+tion of the contract and develop the proof of the verification theorem. Second,
+we consider a stationary environment where the firm’s continuation value at
+the time a manager is fired is fully endogenous. Third, we endogenize the ini-
+tial promise that the firm offers to each manager. In particular, we derive a
+necessary and sufficient condition for the managers’ participation constraint
+to be binding in high-growth firms. Fourth, we explicitly allow for jumps in
+the cumulative compensation process, which allows us to assess the optimal-
+ity of severance pay. Finally, our extensive analysis of the HJB equation and
+associated free-boundary problems allows us to derive explicit existence and
+uniqueness results, as well as comparative statics that are new to our setting.
+
+The implications of our model and the evidence we provide are connected to
+a vast empirical literature on the determinants of turnover and compensation
+for top management.” The literature on CEO turnover has mostly focused on
+the link between turnover and performance. Empirical studies in this vein in-
+clude the work of Coughlan and Schmidt (1985), Warner, Watts, and Wruck
+(1988), Weisbach (1988), Kim (1996), and Denis, Denis, and Sarin (1997), as
+well as more recent contributions by Jenter and Lewellen (2014) and Jenter
+and Kanaan (2015). We find that, controlling for performance, firms’ growth
+prospects also help explain the likelihood of CEO turnover. In terms of man-
+agerial compensation, the model predictions are in line with Murphy (1999),
+who points out that pay packages often include a bonus system based on the
+firm’s reported earnings in excess of a performance target. They also echo Ka-
+plan and Minton (2012), who discuss the coincidence of shorter CEO tenures
+and higher CEO pay in the time series. The degree of reliance on deferred
+compensation has received relatively little attention in the literature so far. An
+exception is the analysis by Clementi and Cooley (2010), who exploit informa-
+tion on CEOs’ holdings of stocks and stock options to construct a measure of
+
+compensation include, among others, Spear and Wang (2005), Hoffman and Pfeil (2010), He (2012),
+Edmans et al. (2012), and Garret and Pavan (2012, 2015).
+
+4 See DeMarzo and Fishman (2007b) for a discrete-time version, and Biais et al. (2007) for an
+analysis of convergence from discrete to continuous time.
+
+® For surveys of the literature on CEO compensation and on managerial incentive packages
+more generally, see, for instance, Murphy (1999, 2013).
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 425
+
+deferred compensation. Gopalan et al. (2014) focus on the duration of a CEO’s
+total compensation award in a given year based on information about the vest-
+ing periods of separate components in the package. Instead, we measure the
+duration of compensation received over the entire tenure of a CEO, and we
+document that this measure varies negatively with the firm’s growth prospects
+at the time the CEO is hired. More broadly, we add to existing empirical studies
+on CEO compensation by investigating how the profile of CEO pay over tenure
+relates to firms’ growth prospects.
+
+The rest of the paper proceeds as follows. Section I develops the theory in
+a simple two-period framework and analytically derives its empirical impli-
+cations for managerial turnover and compensation. Section II describes the
+continuous-time modeling setup and derives the state-space representation of
+long-term incentive contracts. Section III characterizes the optimal dynamic
+contract for high-growth and low-growth firms, as well as the determinants of
+firm type, and illustrates the model’s implications through simulations. Sec-
+tion IV presents the empirical evidence. Section V concludes.
+
+I. A Two-Period Model
+
+We consider a firm that hires a manager at time ¢t = 0 to run its operations
+for at most two periods. The firm and its manager(s) are risk-neutral and have
+discount rates r and g, respectively, with 0 > r.° The random cash flows gener-
+ated by the firm’s operations at t = 1 and ¢ = 2 are independently distributed.
+The first-period cash flow Y, is equal to either y > 0 with probability p € (0, 1)
+or zero with probability 1 — p. At the end of the first period, a growth oppor-
+tunity may arrive with probability g € (0, 1), independently of Y;. The arrival
+of a growth opportunity is publicly observable. Crucially, we assume that, in
+order to pursue an available opportunity, the firm must dismiss the incumbent
+manager and appoint a new one. If a growth opportunity arises and the firm
+hires a new manager to seize this opportunity, the second-period cash flow Y2 is
+either (1 + y)y with probability p, where y > 0, or zero with probability 1 — p.
+If no growth opportunity arises or if the firm forgoes an available opportunity,
+the firm may either continue with the incumbent manager or dismiss him and
+hire a new one, in which case the distribution of Yo is the same as that of Y,.
+
+The assumption that the firm cannot grow without a change in management
+occupies center stage in our analysis. This assumption captures circumstances
+in which value creation requires specific managerial skills to carry out radical
+transformations of the firm and the incumbent does not have the ability to
+realize the firm’s growth potential. We let « > 0 denote the exogenous cost of
+managerial replacement at t = 1, which may include search fees as well as
+
+6 The assumption that the agent is more impatient than the principal is standard in the dynamic
+contracting literature and allows us to derive sharper predictions on managerial compensation (see
+also footnote 20).
+Pitch End Of Page
+Pitch Start of Page
+426 The Journal of Finance®
+
+indirect costs such as the disruption of ongoing business, and we assume that
+the net present value of taking a growth opportunity is positive, that is,
+
+—k>0. (1)
+
+ 
+
+Our analysis focuses on a second-best environment in which cash flows are
+not observable by the firm. In the case of a high cash flow realization, the
+manager can underreport, steal the entire cash flow, and get private benefit A
+per unit of stealing, where 0 < 4 < 1 captures the severity of the moral hazard
+problem. We let Y; < Y; denote the level of reported cash flow in period t, where
+Y; has the same support as the actual cash flow Y;. Managers are protected
+by limited liability and have zero reservation value.’ Thus, if the firm hires
+a new manager at ¢ = 1, it offers him a one-period incentive contract with
+compensation AY, att = 2. This is the optimal one-period contract that supports
+no stealing (see Lemma IA1 in Internet Appendix Section I).°
+
+Att = 0, the firm offers a two-period incentive contract to the initial manager.
+Such a contract specifies the firm’s dismissal policy along with a compensation
+policy, and both parties fully commit to the terms of the contract. Specifically,
+we let G(Y,) € [0, 1] denote the probability of taking a growth opportunity if one
+arises, thereby replacing management, conditional on first-period reported cash
+flow. We let F(Y;) € [0, 1] denote the probability of the manager being dismissed
+at the end of the first period if no growth opportunity arises, conditional on first-
+period reported cash flow. Hence, G and F determine the occurrence of growth-
+induced dismissal and disciplinary dismissal, respectively. Furthermore, we
+let C\(Y,) and C2(Y1, Y2) denote the compensation received by the manager
+in the first and second period, respectively, contingent on reported cash flows,
+and we denote by C,(¥1) the amount of severance pay upon growth-induced
+turnover. Limited liability requires
+
+CY) >0, CA¥1)>0, and C2(¥1,¥2)> 0. (2)
+
+After the adoption of a two-period contract at t = 0, the timing is as follows.
+At t = 1, the first-period cash flow realizes. The manager reports Y; and re-
+ceives C,(Y;). The uncertainty about the availability of a growth opportunity is
+resolved. The manager is either retained or dismissed—with dismissal proba-
+bility G(Y,) or F(Y;) depending on whether a growth opportunity is available or
+not. In the case of a growth-induced dismissal, the departing manager receives
+C,(Y1) upon leaving office. For simplicity, we assume that the continuation
+
+value of a dismissed manager is zero. At t = 2, the second-period cash flow re-
+alizes and the initial or newly hired manager reports Y>. If the initial manager
+is still in office, he receives Co(Y1, Yo). Otherwise, the newly hired manager
+receives AY9.
+
+7 With zero reservation value, limited liability ensures that the manager’s participation con-
+straint is satisfied. We allow for a positive reservation value in the continuous-time model that we
+study in Sections IT and III.
+
+8 The Internet Appendix may be found in the online version of this article.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 427
+
+A. The Optimal Two-Period Contract
+
+We look for a two-period contract that maximizes the firm’s expected dis-
+counted profit while inducing truthful reporting by the manager. Under such
+a contract, reported cash flows Y; coincide with actual cash flows Y;, hence we
+dispense with the notational distinction.
+
+In the second period, when the realized cash flow is high (Y2 = y), the man-
+ager has the choice between truthfully reporting good performance or reporting
+poor performance and stealing the cash flow. The incentive compatibility (IC)
+condition requires that the manager prefer to report truthfully. This will be the
+case provided that the difference in compensation upon good and bad reported
+performance, C2(Y1, y) — C2(Y1, 0), is sufficiently large, that is,
+
+Co(V1, y) = Ay + CoV, 0). (3)
+
+Likewise, in the first period, the manager needs to be incentivized to report
+truthfully when the realized cash flow is high (Y; = y). At this early stage,
+incentives are determined by the total expected discounted payoff that the
+manager receives upon reports of either good or bad performance. For a given
+report Y;, his intertemporal payoff includes first-period compensation, C,(Y;) +
+qG(Y1)C,(Y1), and expected second-period pay. The latter depends on both the
+probability of being retained, 1 — [gG(Y1) + (1 — q)F(Y1)], and the expected pay
+received at t = 2 conditional on being retained, pC2(Y1, y) + (1 — p)C2(¥4, 0).
+The first-period IC constraint thus requires that
+
+pCo(y, y) + 1 — p)Ca(y, 0)
+
+Ci) + gG(NCg(y) + 1 — IgG) + A - MF) ite
+
+> hy + C1(0) + qG(0)C (0)
+
+pC2(0, y) + (1 — p)C2(0, 0)
+
++(1 — [qG(0) + (1 — q)F(0)]) lt+o
+
+, (4)
+that is, the difference in the manager’s intertemporal payoffs upon good and bad
+performance needs to be sufficiently large. Importantly, (4) captures the fact
+that first-period incentives are shaped by both the compensation scheme and
+the firm’s dismissal policy. In particular, proper incentive provision requires
+that good reported performance at t = 1 be associated with higher contem-
+poraneous levels of pay, higher future levels of pay, or a lower likelihood of
+dismissal.
+
+Our first lemma characterizes the optimal compensation scheme. The proof
+of this result, along with the proofs of all results derived in this section, can be
+found in Internet Appendix Section I.
+
+LEMMA 1: The compensation policy that maximizes the firm’s expected dis-
+counted profit while respecting the limited liability constraint (2) and the IC
+constraints (3) and (4) is such that
+
+C1(0) = C,(0) = C2(0, 0) = Caly, 0) = 0, (5)
+Pitch End Of Page
+Pitch Start of Page
+428 The Journal of Finance®
+
+C2(0, y) = Coly, y) = dy, (6)
+Cily) +aGW)Cg(y) = Ay — TgG(0) + (1 — q)F(0)]
+
+~[qGy) +1 -g Fore. (7)
++0
+
+Equation (5) shows that, under the optimal contract, the manager receives
+zero compensation in any given period upon a report of poor performance
+in that period. Limited liability precludes a tougher penalty, that is, neg-
+ative compensation. Equation (6) establishes that second-period compensa-
+tion conditional on good reported cash flow at t = 2 is equal to the agency
+rent Ay, independent of first-period performance.’ Indeed, it is optimal to
+set C2(0, y) to the minimum level that satisfies the second-period IC con-
+straint (3) after poor performance, so as to relax the first-period IC con-
+straint (4). On the other hand, the second-period IC constraint after good
+performance is also binding because, when @ > 71, deferring compensation is
+costly for the firm. Hence, the optimal two-period contract involves the mini-
+mum amount of deferred compensation that is compatible with proper incentive
+provision.
+
+Equation (7), which follows directly from the binding first-period IC con-
+straint (4), determines the level of first-period compensation upon good per-
+formance, Ci(y) + gG(y)C,(y), and establishes a crucial link between the com-
+pensation and dismissal policies. While the first term on the right-hand side
+of the equation, Ay, is the rent that the manager would be given to report
+performance truthfully at t = 1 under a one-period contract, the second term
+is a distinct feature of the two-period contract. To interpret this term, recall
+that if continued into the second period, the manager receives an agency rent
+Ay at t = 2 conditional on good second-period performance, independent of his
+report in the first period. That is, a manager who is retained at t = 1 con-
+templates an expected discounted payoff equal to pAy/(1+ 0), regardless of
+whether reported performance in the first period was good or not. Hence, a key
+determinant of first-period incentives is the wedge between dismissal probabil-
+ities after poor performance, qgG(0) + (1 — q)F(0), and after good performance,
+gG(y) + (1 —q)F(y). As (7) reveals, a larger wedge incentivizes the manager
+not to steal and reduces the need to use first-period compensation upon good
+performance to do so—especially when the expected discounted value of second-
+period compensation is large.
+
+It is worth noting that zero severance pay upon growth-induced turnover,
+C,(y) = C,(0) = 0, is weakly optimal in this setup. In particular, the firm
+is indifferent between granting positive severance pay C,(y) upon growth-
+induced dismissal after good performance or instead increasing regular com-
+pensation C;(y) by the amount qG(y)C,(y), taking into account the effective
+
+° Note that (5) and (6) imply that Co(Y1, Y2) = AYe, that is, the compensation scheme in the
+second period does not depend on whether the firm is run by the initial manager or by a new
+manager.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 429
+
+probability gG(y) of growth-induced turnover conditional on good first-period
+performance. !°
+
+Our next result characterizes the optimal turnover and growth policies.
+These are captured by F(Y,) and G(Y1), which determine the conditional prob-
+abilities of disciplinary dismissal and growth-induced dismissal, respectively.
+
+LEMMA 2: The optimal contract is such that F(y) = 0. Furthermore, the follow-
+ing statements hold true:
+
+1. Setting F(O) = 1 is optimal if and only if
+
+ 
+
+Dp phy P
+—— ——_ IK . (8)
+KST pl+to F(0)
+il. Setting G(0) = 1 is optimal if and only if
+pl —A)yy p pay _.,
+< =: . 9
+S "T4r '1-pl+o 9)
+
+il. Setting G(y) = 1 is optimal if and only if
+
+pUl—-A)yy — pay
+kK < —————_ -
+
+——— =: Kqy). 10
+a Lap 7 Kao (10)
+
+If any of the inequalities in (8), (9), or (10) is violated, it is optimal to set the
+corresponding dismissal probability equal to zero.
+
+The first part of Lemma 2 characterizes the firm’s optimal dismissal policy
+in the absence of a growth opportunity, F(Y,). When no growth opportunity
+is available, resorting to dismissal after good performance (i.e., F(y) > 0) is
+clearly suboptimal. Indeed, this would bring no benefit and would be costly
+because of the replacement cost « > 0 and because of a deterioration in incen-
+tives in the first period, which would have to be compensated by an increase in
+first-period compensation upon good performance—as per (7). By contrast, the
+optimal choice of F(0) involves a trade-off between incurring the replacement
+cost « and improving first-period incentives by increasing the wedge in dis-
+missal probabilities. Equation (8) shows that disciplinary dismissal after poor
+performance is optimal when x is low enough or when the impact of the wedge
+on the firm’s net profit is sufficiently large (i.e., high 4, high p, or low @). Fur-
+thermore, a higher probability of first-period success makes it less likely that
+the replacement cost « will have to be paid while increasing the expected gain
+that the firm obtains from a reduction in Cy(y) + qG(y)C,(y), which explains
+why the ratio p/(1 — p) appears in the expression for the cutoff value «p,0).
+
+10Tn Section III, we show that zero severance pay is strictly optimal in the continuous-time
+version of our model (Property 3). The reason only a weak version of this “no-severance” result
+holds in the two-period setup considered in this section is that the firm’s continuation value at the
+end of the first period is linear in the manager’s continuation payoff.
+Pitch End Of Page
+Pitch Start of Page
+430 The Journal of Finance®
+
+Statements (ii) and (iii) in Lemma 2 characterize the firm’s optimal growth
+policy, G(Y,). The direct gain from taking an available growth opportunity is
+to improve the distribution of the second-period cash flow. The benefit for the
+firm, captured by the term p(1 — A)yy/(1 +7) in (9) and (10), is increasing in p
+and y and is decreasing in 4 and r. The firm’s growth policy also affects profit
+indirectly via its impact on the dismissal wedge and first-period incentives.
+On the one hand, systematically taking growth opportunities after poor perfor-
+mance facilitates incentive provision. Thus, as revealed by (9), only very high
+values of the replacement cost « would make it optimal for the firm to forgo
+an available growth opportunity after poor performance. On the other hand,
+replacing management to take a growth opportunity after good performance
+is detrimental to incentive provision and is therefore less attractive, that is,
+Ray) < Rao."
+
+In the remainder of this section, we assume that
+
+pP_ 1te
+
+—— 11
+l1-p~1+r” ay
+
+ 
+
+Combined with (1), this restriction implies that « < «go, and therefore ensures
+that the firm systematically pursues growth opportunities after poor perfor-
+mance.!? However, it may or may not be optimal for the firm to also pursue an
+available growth opportunity after good performance, as our next result shows.
+In what follows, we distinguish between two types of configurations: we refer
+to the case G(y) = 1 as the high-growth regime and to the case G(y) = 0 as the
+low-growth regime. In the former configuration the firm pursues any growth
+opportunity that arises, while in the latter it pursues an available growth
+opportunity only upon poor performance.
+
+LEMMA 3: High-growth and low-growth regimes can both arise.
+
+The main insight delivered by Lemma 3 is that some firms—namely, low-
+growth firms—may find it preferable to forgo a growth opportunity following
+good performance even though they would undertake any such opportunity un-
+der first-best, as implied by (1). Indeed, under second-best, it can be optimal for
+a firm to commit ex ante to forgo growth opportunities after good performance
+to reduce the cost of incentive provision.
+
+The following lemma characterizes the determinants of a firm’s growth
+regime, thus shedding light on the circumstances under which it is optimal
+for the firm to grant partial job protection to the initial manager.
+
+"Note that &qo) > &F(0), 80 if the firm stands ready to fire the manager after poor performance
+absent a growth opportunity, then a fortiori it will fire him after poor performance for the sake
+of growth. If growing the firm involved a specific cost x > 0, then &gy) and kgo) would both be
+translated to the left by x, making it less likely that growth opportunities are undertaken, but
+none of the results below would be affected.
+
+12 This assumption, which effectively rules out the possibility that the firm never grows, only
+serves to simplify the exposition and shorten some of the proofs. All of the empirical implications
+stated in Propositions 1 and 2 remain true if condition (11) is relaxed.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 431
+
+LEMMA 4: An increase in y, y, 0, or pora drop in i, r, or kK can induce a switch
+from a low-growth to a high-growth regime. A change in q has no impact on the
+optimal growth policy.
+
+Lemma 4 establishes that firms with better opportunities (i.e., high y) tend
+to fully expose their managers to the risk of growth-induced turnover. Firms
+with smaller discount rates (i.e., low r) tend to do the same as they give more
+weight to the future benefit from growth relative to the compensating increase
+in first-period compensation. By contrast, firms facing larger turnover costs
+(i.e., high «) have a natural tendency to grant partial job protection to their
+managers, thus forgoing growth opportunities after good performance. Low-
+growth firms also tend to be plagued by severe agency issues (i.e., high A).
+Indeed, as reflected in the expression for the threshold «q,) in (10), a high
+dismissal probability G(y) is less appealing when moral hazard is more severe,
+because both the fraction of enhanced second-period cash flows accruing to the
+firm (1 — A) is small and the second-period agency rent is large—implying that
+any increase in the risk of growth-induced dismissal needs to be matched by a
+larger increase in C\(y) + gG(y)C,(y) to keep the agent incentivized.
+
+B. Empirical Implications
+
+In this section, we derive some of the empirical implications that arise in this
+simple two-period framework combining growth-induced turnover and moral
+hazard. The following two propositions summarize the theoretical predictions
+for managerial turnover and managerial compensation, respectively.
+
+PROPOSITION 1: The following statements hold true:
+
+i. The likelihood of turnover is decreasing in performance, that is,
+qGl(y) +1 — Fy) < gqG(O) + (1 — q)F (0).
+
+it. The likelihood of turnover, qG(Y;)+(1—q)F(Y1), is increasing in the
+quality of growth opportunities, y, and in their arrival probability, q.
+
+iit. The probability of turnover is higher when a growth opportunity arises,
+that is,
+
+G(Y,) => F(Y)).
+
+Moreover, the impact of the arrival of a growth opportunity on the probability
+of turnover is stronger in firms with better opportunities, that is, G(Y;) — F(Y,)
+is increasing in y.
+
+The results derived in Proposition 1 follow immediately from Lemmas 2 and
+4, Statement (i) establishes a negative relationship between firm performance
+and turnover. This is a standard prediction of dynamic moral hazard models. In
+particular, the result would hold equally true under second-best in the absence
+of growth-induced turnover (i.e., in the limit as g goes to zero), when dismissal
+upon poor performance is used purely as an incentive device. The prediction
+Pitch End Of Page
+Pitch Start of Page
+432 The Journal of Finance®
+
+carries over to our setup because growth-induced dismissal is also less likely to
+occur after good performance. Statements (ii) and (iii) characterize the impact
+of ex ante growth prospects and the effect of a growth opportunity realization on
+the likelihood of turnover, respectively. These predictions are driven primarily
+by the possibility of growth-induced dismissal introduced in our setup.!°
+
+The second set of empirical implications emphasizes important features of
+the compensation scheme under the optimal two-period contract. In particular,
+when thinking about taking the model predictions to the data, it is useful
+to consider the average compensation profile (Ci, C2), where C; denotes the
+expected level of compensation that the initial manager receives at time ¢
+conditional on running operations in period f:
+
+Ci = pICi(y) + qG(y)Ce(y)|_ and = Cz = pry.
+PROPOSITION 2: The following statements hold true:
+
+1. Compensation is increasing in performance, that is,
+Cily) +qGW)Cg(y) > C10) + qG(O)C (0) and = C2(¥1, y) > Co(¥4, 0).
+
+ii. The average compensation profile is increasing over tenure, that is, C, <
+Co.
+
+iii. Average first-period compensation C is increasing in the quality of growth
+opportunities, y. Hence, the slope of the compensation profile, Cz — C4, is
+decreasing in y.
+
+The first statement in Proposition 2 establishes a positive relationship be-
+tween firm performance and managerial compensation, which immediately
+follows from Lemma 1.‘ The other two results in the proposition characterize
+the shape of the average compensation profile (C;, C2). While statement (ii)
+shows that the compensation profile is back-loaded, statement (iii) empha-
+sizes that the extent of compensation back-loading depends on the firm’s ex
+ante growth prospects.!° Specifically, the model predicts that firms with bet-
+ter growth prospects tend to have more front-loaded pay. Indeed, as Lemma 4
+shows, an improvement in the quality of growth opportunities makes it more
+likely that the firm finds it optimal to fully expose the initial manager to
+the risk of growth-induced turnover, setting G(y) = 1. In turn, the associated
+decrease in the dismissal wedge needs to be compensated by an increase in
+Ci(y) + qG(y)C,(y) to satisfy the first-period IC constraint (see equation (7)),
+
+13 Tt is worth noting, however, that, under the assumption that growth is efficient (see condi-
+tion (1)), the comparative statics with respect to y in statements (ii) and (iii) would not hold true
+under first-best.
+
+14 Compensation increases with recent performance, not with the entire history of performance.
+Indeed, Co(Y1, Y2) is independent of Y;, that is, second-period pay does not depend on first-period
+performance.
+
+15 The inequality in statement (ii), like that in Proposition 1(i), is strict unless F(0) = 0 and
+G(y) = 1. Necessary and sufficient conditions for this case to arise are provided in the proof of
+Proposition 2 in the Internet Appendix.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 433
+
+which translates into an increase in the average first-period compensation level
+C,. It is worth noting that, whereas statements (i) and (ii) are driven by moral
+hazard and would also hold true under second-best in the absence of growth-
+induced dismissal, the last prediction is specific to our setup and is driven by
+the interaction between moral hazard and the possibility of growth-induced
+turnover.
+
+II. The Continuous-Time Model
+
+Having previewed the basic economics of growth-induced managerial
+turnover and its interaction with moral hazard, we now turn to the main
+focus of our analysis and consider the continuous-time stationary version of
+the environment introduced in Section I. This modeling setup is better able
+to fully capture the dynamic nature of the agency relationship between a firm
+and any of its successive managers.
+
+We consider a firm run by a sequence of managers protected by limited
+liability. The firm and its managers are risk-neutral, with discount rates r and
+o, respectively. The firm’s operations generate a stream of instantaneous cash
+flows ®; dY;, where ©; denotes the size of the firm at time ¢, and the cumulative
+size-adjusted cash flow process Y = {Y;} follows
+
+dY, = udt+odZ,, p,o > 0,
+
+where Z = {Z,} denotes a standard one-dimensional Brownian motion. The
+firm starts with unit size (®) = 1) and can later expand. At any point in time,
+two conditions must be met for the firm to expand: (i) it must have a growth
+opportunity, and (ii) it must hire a new manager to take up the opportunity.
+Growth opportunities arrive sequentially, independent of cash flow shocks,
+and the waiting time for the arrival of the next opportunity is exponentially
+distributed with parameter q. If not taken immediately, an opportunity is lost
+and no further growth is possible until a new one arrives.
+
+As in the context of the two-period framework studied in the previous section,
+the assumption that value creation entails a change in management is central
+to our analysis. For convenience, we model value enhancement as a discrete
+change in firm size that scales up the distribution of cash flows. We assume that,
+when the firm expands, the size of the firm increases by a factor 1+ y > 1. Firm
+growth, when it occurs, is the result of bringing in a new manager able to take
+advantage of newly available opportunities—thereby achieving a permanent
+increase in expected cash flows.!°
+
+The second main feature of the model is a standard agency problem arising
+from the fact that, while running the firm’s operations, managers can divert
+cash flows. The residual cash flow received by the firm is ®; (dY; — dA;), where
+
+16 This may or may not involve an increase in the fixed assets of the firm. If it does, future scaled
+cash flows should be thought of as net of the financing cost of capital investments.
+Pitch End Of Page
+Pitch Start of Page
+434 The Journal of Finance®
+
+A= {A;} denotes the cumulative size-adjusted amount of “stealing.”!” Man-
+agers enjoy a private benefit A € (0, 1] for each unit of diverted cash flow, so
+that X measures the severity of moral hazard.
+
+The firm has deep pockets and can cover negative cash flows as well as the
+costs associated with managerial compensation and turnover. As a result, the
+firm’s decisions are not driven by financing constraints. A manager hired to
+run the firm at size ®; has reservation value w®,, and the cost of replacing him
+is k®,, where w,x > 0 are given constants. While it is natural to assume that
+the manager’s reservation value (which can be interpreted as a nonpecuniary
+cost of running the firm) and the cost of managerial replacement (which may
+include disruption costs) are increasing in firm size; the stronger assumption of
+proportionality is made to ensure size homogeneity and preserve tractability.'°
+The continuation value of a departing manager is equal to zero.'?
+
+We further assume that
+
+oO >r, (12)
+r>qy, (13)
+= >k+(1+y)w, (14)
+
+and we refer to parameter values that satisfy these conditions, along with those
+previously imposed in this section, as permissible. Condition (12) implies that
+managers are more impatient than the firm.”? Condition (13) implies that the
+average growth rate when the firm takes all growth opportunities is smaller
+than the firm’s discount rate, which ensures finite valuation. Finally, together
+with (13), condition (14) implies that, in the absence of moral hazard, it would
+be optimal for the firm to take all growth opportunities—as we next establish.
+
+A. First-Best Policy
+
+The first-best policy can be characterized as follows. First, the optimal com-
+pensation policy involves giving to a manager a size-adjusted transfer w at the
+
+17 The stealing strategy A chosen by the manager is adapted to the Brownian filtration and
+has continuous sample paths. Given that Y is continuous, any jump in A would be immediately
+detected by the firm.
+
+18 Empirically, executive pay is positively correlated with firm size both over time and across
+firms, as documented by Kostiuk (1990), Murphy (1999), and Gabaix and Landier (2008). On the
+other hand, estimates of the various costs associated with CEO transitions for mid-cap companies
+are roughly twice as large as those borne by small-cap companies, and less than half the costs
+borne by large-cap companies (Nat Stoddard and Claire Wyckoff, “The Costs of CEO Failure,”
+Chief Executive Magazine, Nov/Dec, 2008). Biais et al. (2010) and DeMarzo et al. (2012) make
+proportionality assumptions similar to ours.
+
+19 Allowing for a nonzero continuation value would alter the details of our analysis to the extent
+that this would affect the dynamics of the manager’s promise (20) as well as the HJB equation (28).
+
+20 This assumption is standard in the dynamic contracting literature (e.g., DeMarzo and San-
+nikov (2006), Biais et al. (2007), Biais et al. (2010), and DeMarzo et al. (2012)). The wedge in
+discount rates rules out indefinitely postponing payments to managers.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 435
+
+outset of his tenure. Indeed, since managers are more impatient than the firm,
+deferring compensation would affect firm value negatively. Second, to reduce
+replacement and hiring costs, managerial turnover only occurs for the sake of
+pursuing a growth opportunity. Third, the optimal growth policy involves either
+pursuing all growth opportunities or never pursuing any. If the firm pursues
+all opportunities, its expected discounted profit V* satisfies
+
+V*=-w+E | e'dY,+e "(1 +y)V*— ‘| ,
+0
+where t is the random arrival time of the first growth opportunity. Solving for
+V* under the assumption that t is exponentially distributed with parameter q
+yields
+
+yeah Ftd a
+
+r—qy r—qy
+
+ 
+
+ 
+
+If instead the firm forgoes all opportunities, its expected discounted profit is
+given by
+
+—W + E | e"dY,| = —w + a
+0 r
+
+It is straightforward to see that conditions (13) and (14) are sufficient for the
+inequality
+
+Vt> max | —i + ~ o|
+
+to hold. Therefore, our assumptions ensure that it would be optimal for the
+firm to pursue all growth opportunities under first-best.
+
+B. Long-Term Incentive Contract
+
+We now turn to the case in which managers can divert cash flows and stealing
+is not observable by the firm. The firm enters into a long-term contract with
+each manager at the time he is hired, and both parties fully commit to the terms
+of the contract. A contract specifies circumstances under which the manager
+will be dismissed, including when the firm pursues a growth opportunity, as
+well as the manager’s pay over the course of his tenure based on the information
+that becomes available to the firm over time. The arrival of a growth oppor-
+tunity is assumed to be perfectly observable and contractible. To fix ideas and
+simplify the exposition, we initially restrict our attention to the contract with
+the first manager. Readers interested in the technical aspects of the sequential
+contracting environment are referred to Internet Appendix Section II.
+
+First, we discuss how dismissal and compensation are determined for a given
+stealing strategy A. The information available to the firm comes from observing
+the cumulative reported cash flows Y = Y — A, as well as the arrival of growth
+opportunities. We denote by 7; the information gathered by the firm up to time f,
+Pitch End Of Page
+Pitch Start of Page
+436 The Journal of Finance®
+
+which includes information about the occurrence of growth opportunities. We
+denote by f; C Ff; the information that comes only from the history of reported
+cash flows up to time t.
+
+The manager can be dismissed for two distinct reasons in our setting. First,
+the manager can be sacked for poor reported performance. By committing ex
+ante to fire the incumbent after a history of poor reported cash flows, the
+firm can incentivize the manager not to steal. Second, the firm can replace
+the manager to pursue a growth opportunity that becomes available. Hence,
+turnover is governed in part by the firm’s growth policy, which determines the
+firm’s response to the potential arrival of a growth opportunity. This policy
+is modeled by an (F;)-progressively measurable process G = {G;} that takes
+values in {0, 1}, with G; = 1 indicating that the firm stands ready to pursue
+a growth opportunity at time ¢t and G; = 0 indicating that it does not.?! By
+controlling G, the firm effectively determines the instantaneous intensity of
+growth-induced dismissal, which is equal to qG; at time t.
+
+Using the notation x A y (respectively, x v y) to denote the minimum (max-
+imum) of x and y, the random time t at which the manager is fired can be
+represented as
+
+T =Td A Tg,
+
+where ty denotes an (f;)-stopping time and the random time Tg satisfies?”
+
+t
+P(t, > t| F,) = exp (- | qG, ds) . (15)
+0
+In the event that t = ty, the manager is replaced for the sake of incentive
+provision, which we refer to as disciplinary turnover. When instead t = Tg, the
+manager is dismissed for the sake of growth, which we refer to as growth-
+induced turnover.
+
+Compensation to the manager over the course of his tenure is captured by
+an (F;)-adapted cumulative compensation process C = {C;}. Limited liability
+implies that C is increasing. A positive jump AC; represents a lump-sum pay-
+ment at time ¢.”° In particular, ACp and AC,, denote a signing bonus and
+severance pay upon disciplinary dismissal, respectively. To capture severance
+pay upon growth-induced turnover, we introduce a separate (F;)-progressively
+
+21 In the Internet Appendix, we allow G to take values in [0, 1] and show that randomization of
+the growth decision is suboptimal.
+
+22 The left-hand side of (15) denotes the probability that the manager has not been dismissed
+for the sake of growth by time ¢, conditional on the history of reported cash flows up to time ¢. The
+right-hand side captures the fact that the instantaneous intensity of growth-induced dismissal at
+time s <¢ is gG,. When the firm stands ready to pursue all growth opportunities, in which case
+G = 1, the probability that the manager survives the threat of growth-induced termination up to
+time ¢ is given by exp(—qt), reflecting the fact that the arrival of opportunities is exponentially
+distributed with parameter q.
+
+23 We assume that C is right continuous with left limits and Co_ = 0, and hence AC; = C; — C;—
+and ACp = Co. Further details on the modeling of long-term incentive contracts are given in
+Internet Appendix Section IT.A.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 437
+
+measurable process S = {S;}. The amount of severance received by a manager
+dismissed for the sake of growth is given by S,,.
+
+Now consider the set A of all possible stealing strategies. A contract can be
+viewed as a function mapping each stealing strategy A <€ A to a collection
+
+C=C(A) S=S(A), G=G(A), and ty =17,(A),
+
+as just described. Such mapping should be consistent across stealing strategies
+in the sense that any given history of reported cash flows should result in the
+same compensation and termination outcomes, independent of the underlying
+combination of true cash flows and stealing that gave rise to that observed
+history. The contract space G identifies with the set of all functionals T : Ate
+(C(A), S(A), G(A), ta(A)) on A that satisfy this requirement.
+
+C. The Firm’s Problem
+
+Given a contract I and a stealing strategy A, the manager’s expected dis-
+counted payoff at the time he is hired is given by
+
+Mr, A)=E | e (dC, + r’dA;) +e 8 (AC, 1 =r) + S.Ajas)|
+[0,7[
+
+For a given contract I’, a stealing strategy Ais said to be incentive compatible if
+it maximizes the manager’s payoff. We refer to a contract as admissible if it is
+such that (i) no stealing is incentive compatible and (ii) the manager’s expected
+discounted payoff under no stealing is greater than or equal to his reservation
+value w. Formally, the subset G, of admissible contracts includes all contracts
+I € G such that
+
+M(r,0)=sup M(r,A) and  M(r,0)>H.
+AeA
+
+Given an admissible contract I, the firm’s expected discounted profit at t = 0
+is
+
+F(r) = | e-" (wdt — dC, +e7'([Va — AC, — Kleen)
+[0,7]
+
++ [V,, —_ S,, ~~ ctc-n)} (16)
+
+where Vz and V, denote the firm’s continuation values after dismissal of the
+first manager (for disciplinary reasons or to pursue a growth opportunity, re-
+spectively), which we endogenize below in Section III.?* The firm’s problem is
+
+24 In Internet Appendix Section II.B, we provide an expression for the firm’s value at t = 0 for
+a given sequence of admissible contracts. In particular, when the same admissible contract I is
+offered to all managers, we show that the firm’s size-adjusted expected discounted profit F(T)
+satisfies (16) with Vg = F(T) and Vz = (1+ y)F(T). We restrict our attention to contracts that
+Pitch End Of Page
+Pitch Start of Page
+438 The Journal of Finance®
+
+to find an admissible contract that maximizes its expected discounted profit.
+Formally, the firm’s objective is to find [’* such that
+
+F(*)=sup F(L).
+
+TeGa
+
+D. Admissible Dynamic Contracts
+
+As in previous work on dynamic moral hazard, the challenge in analyzing
+this type of environment comes from the complexity of the contract space and
+from the difficulty one faces in evaluating agents’ incentives in a tractable way.
+In this section, we build on the approach of DeMarzo and Sannikov (2006),
+Sannikov (2008), Biais et al. (2007), and Biais et al. (2010) and consider a
+state-space representation of incentive contracts. Under no stealing, the state
+variable in this representation should coincide with the manager’s expected
+payoff. As a preliminary step, we characterize the dynamics of
+
+M,=E | e 8 -Odc, te O(AC,, 1 or + S_1(r=1,}) | Fi] , t€<T,
+al
+
+which represents the manager’s expected future payoff at time ¢ < t when he
+refrains from stealing.”°
+
+LEMMA 5: For any given contract I ¢€ G, there exists a process B = {f;} such that
+
+dM, = loM,; + gG.(M; _— S;)|dt _— dC; + o By dZ;, for t{<T. (17)
+
+PRooF: See Internet Appendix Section ITI.A. O
+
+The presence of the diffusion term in the dynamics of the agent’s expected
+payoff is natural. Since compensation and dismissal policies are contingent
+on the history of reported cash flows, the evolution of the manager’s expected
+future payoff under a long-term incentive contract is sensitive to currently
+reported cash flows. The process £ can be interpreted as the sensitivity induced
+by a long-term contract. Since reported cash flows coincide with true cash
+flows when the manager refrains from stealing, the stochastic evolution of the
+manager’s expected payoff under no stealing M,; is driven directly by the true
+cash flow shocks dZ;.
+
+implement no stealing, which is standard in the literature when moral hazard is modeled as a
+cash diversion problem (e.g., see DeMarzo and Sannikov (2006)).
+
+25 It is worth noting that, in our model, uncertainty is driven not only by the Brownian cash
+flow shock but also by the stochastic arrival of growth opportunities. As a result, the derivation of
+(17) does not rely simply on the martingale representation theorem, as in the standard martingale
+approach developed by Sannikov (2008), but rather also on a “change in filtration” formula and
+other techniques borrowed from the credit risk literature.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 439
+
+In light of Lemma 5, we consider dynamic contracts whose implementation
+is driven by a state process W = {W;} that evolves according to
+
+dW, = [oW, + gG,(W; — S;)] dt — dC; + p; (dY;, — pdt). (18)
+
+Along with compensation and growth policies, a dynamic contract specifies the
+sensitivity B of the state variable W to the reported cash flows. Importantly,
+since the dynamics of the state variable are driven by processes that are either
+observed or controlled by the firm, its evolution over time can be tracked by
+the firm. While growth-induced turnover is jointly determined by the growth
+policy and the random arrival of opportunities, disciplinary dismissal occurs
+when the state process W hits zero, that is,
+
+Tq = inf{t > 0: W,; = 0}. (19)
+
+Noting that dY; — wdt = —dA; + 0 dZ,, it is straightforward to see that, when
+the manager refrains from stealing, the dynamics of the state process become
+
+dw, = loW; + gG,(W; _— S:)] dt — dC; + o By dZ; (20)
+
+and hence mirror (17). Indeed, when the manager refrains from stealing, the
+value taken by the state variable at any time during his tenure coincides with
+his expected future compensation under the contract, as stated in the following
+lemma.
+
+LEMMA 6: Consider a dynamic contract with termination occurring at time
+T =Tg Ata, where tg satisfies (15), tg is defined by (19), and W follows (18)
+for some initial condition Wo_ = winit > 0. Then the manager’s expected future
+payoff at time t < t if he refrains from stealing is equal to W,, that is,
+
+W,=E | e 8S YdC, te 8 (ACL Aan) + S,1(c=1,) | F| ; (21)
+lé,cl
+
+on the event {t < t}. Moreover, if B > i, it is optimal for the manager not to steal.
+PROoF: See Internet Appendix Section ITI.C. O
+
+Equation (21) confirms that the state process W under a dynamic contract
+can be interpreted as the manager’s expected future payoff if he refrains from
+stealing, which we refer to as the manager’s promise. Lemma 6 also establishes
+an incentive compatibility condition, extending the one derived by DeMarzo
+and Sannikov (2006) to our environment with growth-induced turnover. This
+condition is intuitive: Since the manager enjoys a private benefit A per unit of
+diverted cash, incentivizing the manager not to steal requires that his promise
+increases by at least 4 for each extra unit of reported cash flow, that is, B >
+A. A dynamic contract is admissible if it satisfies this condition as well as
+the initial promise condition Wo_ > w. Since 6 > 4 > 0 under an admissible
+dynamic contract, (18) and (19) imply that inefficient disciplinary turnover
+occurs as a result of poor reported cash flows.
+Pitch End Of Page
+Pitch Start of Page
+440 The Journal of Finance®
+
+Before proceeding further, it is important to observe that, relative to the
+environment considered in DeMarzo and Sannikov (2006), the introduction
+of growth-induced turnover affects the dynamics of the agent’s promise in a
+substantial way. The key difference lies in the drift of the promise, which in
+our setup is equal to oW; + qG;(W; — S;) instead of simply oW;. The reason
+for this difference is that, whenever the manager is at risk of being fired for
+the sake of growth (i.e., whenever G; = 1), he needs to be “compensated” for
+the loss that he would incur if a growth opportunity arises. The potential loss
+corresponds to the difference (W; — S;) between the manager’s current promise
+and the severance pay he would receive if replaced for the sake of growth,
+while the chances of incurring such a loss are determined by the instantaneous
+intensity of growth-induced dismissal gG;. Compensation for the risk of growth-
+induced termination comes in the form of an augmented drift, which translates
+into a faster increase in the manager’s promise in states of the world in which
+no growth opportunity materializes. In other words, in our setup the law of
+motion for the agent’s promise is modified in such a way that the promise-
+keeping condition remains satisfied.
+
+III. Optimal Dynamic Contract
+
+Having characterized the set of admissible dynamic contracts, we reformu-
+late the firm’s optimization problem as a stochastic control problem. We denote
+by V(¢, w) the firm’s value function, which gives the firm’s expected discounted
+profit at a given current size ¢ and for a given size-adjusted promise w to the
+incumbent manager. The firm’s value function satisfies the recursive dynamic
+programming equation
+
+Vig, w) = sup E + | ee” (udt — dC;) — ge "* (AC, Arar) + S_1(r=7,})
+C,S,G,B [0,c[
+
++e "'(—Kod + Val (r=) + Veliu (22)
+
+where
+tT=wWAts Va=V (9. wh) , and V,=V (a + yo, wy?) (23)
+
+subject to the incentive compatibility constraint B > A and subject to (15), (19),
+and (20) with initial condition Wo_ = w. In this formulation, C and S denote the
+manager’s size-adjusted cumulative compensation and size-adjusted severance
+upon growth, respectively, and the continuation values Vz and V, involve hiring
+promises
+
+wi =wvargmaxV(¢,w) and = wv argmaxV((1+ y)d, w),
+
+w>0 w>
+
+(1+y)¢
+Wh
+
+(24)
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 441
+
+respectively. Expression (24) captures the possibility that a new manager’s
+participation constraint may not be binding, as it may be optimal for the firm
+to give him a rent in excess of his reservation value. Since cash flows, turnover
+costs, and reservation values are all proportional to firm size, it follows that
+firm value itself is homogeneous in size, that is,
+
+Vi¢, w) = oV(1, w) =: dow). (25)
+
+In particular, stationarity and size homogeneity imply that the firm offers the
+same dynamic contract to all successive managers. Using (22) to (25), the size-
+adjusted value function v(w) is determined along with the optimal contract
+by
+
+v(w) = sup | e"(udt — dC;) —e"* (ACr Atrix) + S21 r=x,))
+C,S,G,p [0,7]
+
++e (—K + vw, Arar) + A + ytedti-nd (26)
+
+subject to the same constraints as above, where the size-adjusted hiring
+promise wy, satisfies
+
+Wp, = w V arg max v(w). (27)
+
+w>0
+
+The following proposition is central to our characterization of the optimal dy-
+namic contract.
+
+PROPOSITION 3: Let u: R, — R be a concave C? function that satisfies the HJB
+equation
+
+a7}?
+max a ew) + owu (w) —ru(w) + uw
+
++ g[1+y)u(wp) —« + wu'w)—uw)]",-w(w)-1F=0 (28)
+
+with boundary condition
+u(0) = u(wn) — k, (29)
+
+where w, = WV argmax,,_ju(w). Also, suppose that lim,,\0 |u'(w)| < co and
+u'(w) = —1 for some w < oo. Then the function u identifies with the value func-
+tion v defined by (26), that is, v(w) = u(w) for all w > 0. Moreover, the optimal
+dynamic contract satisfies Properties 1 to 5 below.
+
+PROOF: See Internet Appendix Section IV. O
+
+We rely on Proposition 3 to construct the firm’s value function and solve for
+the optimal dynamic contract. As observed in previous work on dynamic moral
+Pitch End Of Page
+Pitch Start of Page
+442 The Journal of Finance®
+
+hazard, the concavity of the value function is related to the fact that a change in
+w affects firm value not only directly by increasing the amount of compensation
+owed to the manager, but also via its impact on the likelihood of disciplinary
+turnover. Indeed, by reducing the prospect of costly disciplinary turnover, a
+one-dollar increase in the agent’s promise effectively costs the firm less than
+one dollar. Moreover, since the probability of disciplinary turnover is higher
+after poor performance, the reduction in agency costs induced by a marginal
+increase in the agent’s promise is larger for low values of w. This is what gives
+rise to concavity.
+
+A. Optimality Properties
+
+We now turn to the properties satisfied by the optimal dynamic contract,
+as implied by Proposition 3. These properties impose restrictions on the cash
+flow sensitivity, the compensation policy, and the growth policy. The first two
+properties also hold in the absence of growth opportunities and are derived in
+that context by DeMarzo and Sannikov (2006) and Biais et al. (2007).7°
+
+PROPERTY 1: The optimal contract has sensitivity to reported cash flows B = i.
+
+The fact that the incentive compatibility constraint should hold as an equality
+(6B = A) is related to the concavity of the value function. Intuitively, reducing
+the volatility of the manager’s promise as much as possible while satisfying
+incentive compatibility is optimal for the firm because it lowers the probability
+that the promise hits zero, which would result in ex post inefficient disciplinary
+turnover.
+
+PROPERTY 2: The optimal compensation policy is such that the manager receives
+transfers only if his current promise w is at least w.. The compensation threshold
+
+Ww, satisfies
+v (we) = —1.
+
+This property can be explained heuristically by observing that, at any in-
+stant, the firm has the option to make an immediate transfer to the manager
+and continue optimally. Hence, the inequality v(w) > —e + v(w — «) holds for
+any transfer e, which implies v’/(w) > —1. When the manager’s current promise
+w is such that v’(w) > —1, deferring compensation is optimal. By concavity
+of the value function, this happens when w is below the point w, that satis-
+fies v'(w,) = —1. In this case, the manager receives no compensation until his
+promise reaches the compensation threshold. If w > w,, the manager receives
+a signing bonus ACp = w — w, when appointed, and his promise later remains
+in the interval [0, w-].2”
+
+26 From a broader perspective, the smooth pasting condition in Property 2 is a standard feature
+of the solution to singular stochastic control problems such as that given by (26). See Benes, Shepp,
+and Witsenhausen (1980) and Karatzas (1983) for early references.
+
+27 Technically, the agent’s promise W is reflected at w, by the cumulative compensation process.
+A rigorous construction of this process is provided in Internet Appendix Section IV (see Theorem
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 443
+
+PROPERTY 3: The optimal compensation policy involves no severance payment,
+that is, AC,, = 0 and S = 0.
+
+Property 3 establishes that severance pay is strictly suboptimal in the
+continuous-time setting, even in the case of growth-induced termination. The
+reason is that, rather than give cash to a departing manager, the firm is al-
+ways better off increasing the promise of the incumbent conditional on him
+being retained, which has the benefit of reducing the likelihood of inefficient
+turnover later. This result is in contrast to the indifference result that holds
+in the two-period model where disciplinary dismissal can occur only at the end
+of the first period (see the discussion following Lemma 1 and footnote 10). It is
+also worth noting that the no-severance result upon growth-induced dismissal
+relies crucially on the assumption that the arrival of a growth opportunity is
+contractible.”
+
+PROPERTY 4: It is optimal for the firm to stand ready to pursue a growth oppor-
+tunity if and only if the manager’s current promise w is such that
+
+(1+ y)v(w,) — « + wo'(w) = vw). (30)
+
+Condition (30), which we refer to as the growth optimality condition, deter-
+mines the circumstances under which growth-induced turnover can occur. The
+inequality implies that the optimal growth policy relies not only on a compari-
+son between the status quo continuation value v(w) and the continuation value
+upon growth (1+ y)v(w;) — «x. Rather, the extra term wv’(w) accounts for the
+fact that putting the manager at risk of being fired if a growth opportunity
+arrives requires that he be compensated in the form of an augmented drift,
+as discussed in Section II.D. When the firm’s value function is decreasing at
+the current value of the agent’s promise (i.e., v'(w) < 0), this higher drift con-
+stitutes a cost. If this cost is high relative to the potential gains from growth,
+so that (1 + y)v(wy) — k + wv'(w) — v(w) < 0, it is optimal for the firm to insu-
+late the incumbent manager from the risk of being replaced and thus forgo
+growth opportunities when they become available. We refer to this possibility
+as contractual job protection.
+
+ITA2). One way in which the introduction of stochastic growth opportunities and growth-induced
+turnover modifies the firm’s compensation policy is by affecting the value of the optimal threshold
+We.
+
+28 By the same logic, severance pay would be suboptimal in a simpler setting with exogenous
+random exit of the manager. We are grateful to an anonymous referee for making this observation.
+
+29 Positive severance upon growth-induced dismissal would arise as part of the optimal contract
+if the availability of a growth opportunity were privately observed by the incumbent manager (see
+Anderson, Bustamante, and Guibaud (2012)). This result is reminiscent of Eisfeldt and Rampini
+(2008) and Inderst and Mueller (2010), although severance pay serves to incentivize the incubent
+to reveal bad news in their setups. Severance pay upon disciplinary dismissal arises in the model
+analyzed by He (2012) with a risk-averse agent and private savings.
+Pitch End Of Page
+Pitch Start of Page
+444 The Journal of Finance®
+
+PROPERTY 5: If partial job protection arises as part of the optimal contract, the
+firm forgoes growth opportunities if the manager’s promise w is above wg, where
+the growth threshold wg satisfies
+
+Wg = sup{w > 0: (1+ y)v(wp) —«k + ww) — v(w) = O} < we.
+
+This property indicates that if some degree of job protection arises as part of
+the optimal incentive contract, managers are shielded from the risk of growth-
+induced turnover after good performance. Intuitively, the benefit of retaining
+the incumbent, net of the forgone gains from growth, is increasing in w be-
+cause losses due to moral hazard under the incumbent are lower after good
+performance.°*”
+
+B. Two Types of Firms
+
+In light of our discussion of Properties 4 and 5, two configurations can arise—
+echoing the two growth regimes encountered in the analysis of the two-period
+model. In the first configuration, the growth optimality condition (30) holds
+for all values of the manager’s promise w € [0, w,]. We refer to firms falling
+into this configuration as high-growth firms. In such firms, managers are fully
+exposed to the risk of being fired for the sake of growth, and the instantaneous
+rate of growth-induced turnover is always equal to g. Over the course of the
+manager’s tenure, the firm keeps track of the evolution of
+
+dW, = (0 + q)W, dt — dC, + A(dY; — dt), Wo. = wn,
+
+where transfers dC reflect the manager’s promise W at the endogenous com-
+pensation threshold w,. Transfers to the manager can be interpreted as bonuses
+indexed on reported earnings in excess of a performance target, as documented
+in Murphy (1999). The manager is dismissed when a growth opportunity arises
+or when W hits zero, whichever comes first.
+
+By contrast, in the second possible configuration, the growth optimality con-
+dition does not hold everywhere on the interval [0, w,], and some degree of job
+protection is part of the optimal contract. We refer to firms falling into the latter
+configuration as low-growth firms. The contract offered by a low-growth firm
+specifies, along with a compensation threshold w,, a growth threshold wg < we.
+Over the course of the manager’s tenure, the firm keeps track of
+
+dW, = [o + q10,w,)\(Wi)] W, dt — dC; + 4(dY; — wdt), Wo = wna,
+
+where bonus transfers dC reflect W at w.. The manager is dismissed if a
+growth opportunity arises when W; < wz or when W hits zero, whichever comes
+first. Consistent with our discussion of Property 5, the optimal contract in
+low-growth firms requires that, whenever the manager’s promise is above the
+
+30 In other words, the net benefit of exposing a manager to the risk of growth-induced termination
+is decreasing in the manager’s promise, as revealed by the fact that (1 + y)v(wyz) — « + wo'(w) — v(w)
+is decreasing in w. This is in line with the observation that ¢qy) < Kq@) in the two-period model.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 445
+
+growth threshold wz, the firm forgoes any growth opportunity that becomes
+available.*!
+
+The insights obtained from our analysis of the two-period model in Section I
+are useful to understanding why the low-growth configuration may sometimes
+be optimal even though condition (14) guarantees that forgoing growth op-
+portunities is inefficient under first-best. The reason is that exposing man-
+agers to early termination risk increases the cost of incentivizing them. In the
+continuous-time model, this is manifested by the fact that putting a manager
+at risk of being replaced for the sake of growth effectively makes him more im-
+patient, as revealed by the augmentation of the drift of the contractual promise
+(which reflects the manager’s “effective” discount rate) from @ to 9 + q. In the
+presence of moral hazard, a firm thus faces an ex ante trade-off: A policy of
+always standing ready to pursue growth by appointing a new, more suitable
+manager has the advantage of producing higher expected cash flows, but it
+also entails increased early termination risk for incumbent managers and a
+higher cost of incentive provision during their tenure. In low-growth firms, the
+resolution of the trade-off between efficient turnover and the cost of incentive
+provision gives rise to an interior solution whereby the optimal contract allows
+for job protection after good performance.*”
+
+C. High-Growth Firms
+
+In this section, we further characterize the optimal contract offered by a high-
+growth firm. To this end, we consider the free-boundary problem that consists
+of finding a free-boundary point w, and a function u that satisfies the ordinary
+differential equation (ODE)
+
+242
+
+ 
+
+u'(w)+(o+q)wu(w)—(r+quw)+ut+ql1 + y)u(wa) —«)] =0 (31)
+
+in the interval (0, w,), is given by
+
+uw) = uw.) —(w—w,), if w > we, (32)
+
+and satisfies the boundary conditions
+
+u(0) = ulw,)-—K, u(w.)=—-1, and w'(w.) =0, (33)
+
+31 The manager being partially shielded from the risk of growth-induced turnover might be
+described as an endogenous form of “entrenchment.” We do not use this terminology because it
+more commonly refers to actions taken by a manager to make his replacement costly. A number
+of recent papers explore frameworks very different from ours where they establish conditions
+under which managers are protected from termination (see, for example, Atkeson and Cole (2008),
+Casamatta and Guembel (2010), and Garrett and Pavan (2012)).
+
+382 A third possible configuration involves fully isolating managers from the risk of growth-
+induced termination, which corresponds to (30) being violated for all values of w € [0, w-]. However,
+we show in Internet Appendix Section VI.E that this no-growth policy can be optimal only if
+v(wp) < 0, so that the firm would rather not operate. We do not expand on this case further in the
+remainder of our analysis.
+Pitch End Of Page
+Pitch Start of Page
+446 The Journal of Finance®
+
+where
+
+wp, = w V arg maxu(w). (34)
+
+w>0
+
+PROPOSITION 4: Given any permissible values of (r, 0, ,0,g, Y, 4, K, W) in R,
+there exists a unique solution (u, w,) to the free-boundary problem defined by
+(31) to (34). The function u is C? and concave, and satisfies the HJB equation
+
+252
+max {evn +(0+q)wu'(w)—-(r+quw)+ut+ql[1 + y)ulw,) — «],
+
+—u'(w) — 7 = 0.
+
+Furthermore, the following statements hold:
+
+1. The set of permissible parameter values over which u satisfies (30) for all
+w € [0, w,], and therefore the HJB equation (28), has nonempty interior
+in R®.
+
+ii. There exists a unique point w; = w (25, ae k«) such that
+
+W, = argmax,.pu(w)>w & Ww < w; and wo=W S&S W=U;.
+
+ 
+
++ r+ -
+os 5,«) > w; such that
+
+lit. There exists a unique point w; = w;(
+We > Wh > WK Wi and We = WA=W & WH Ui.
+
+iv. If w = w;, u satisfies (30) for all w € [0, w.] and the HJB equation (28) if
+and only if
+
+ye>rket+(r+yo)w. (35)
+
+PROOF: See Internet Appendix Section VI.B. O
+
+In view of Proposition 3 and the general properties of the solution to the
+free-boundary problem established in Proposition 4, statement (i) implies that,
+for a large set of permissible parameter values, the firm is of the high-growth
+type. For such parameter values, the firm’s size-adjusted value function and
+the optimal compensation threshold are given, along with the hiring promise,
+by the solution to the free-boundary problem in (31) to (34). Figure 1 illustrates
+the firm’s value function and the optimal compensation threshold in the high-
+growth configuration for particular parameter values.
+
+Statement (ii) establishes the condition under which it is optimal for a high-
+growth firm to grant a new manager a compensation rent in excess of his
+reservation value. The hiring promise wy, is optimally set above the manager’s
+reservation promise w when the latter is sufficiently low, that is, w < w;. In
+this case, the initial promise wy, is equal to the level w, > w that maximizes the
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 447
+
+ 
+
+28.2
+
+ZS 28
+
+S 27.87
+
+3 276
+
+5 27.4+
+
+A 27.24
+
+ 
+
+I
+1We
+1
+
+0 0.2 0.4 0.6 0.8 1 1.2 1.4 1.6 1.8 2
+Promise w
+
+ 
+
+27
+
+Figure 1. Value function, high-growth firm. The figure depicts the firm’s value function and
+the optimal compensation threshold w, for parameter values r= 7%, 0 = 16%, w=1, o = 1,
+gq = 0.2, y = 0.25, 1 = 0.4, « = 0.8, and w = 1. The firm’s value function and the compensation
+threshold are determined by solving the free-boundary problem defined by (31) to (34). The growth
+optimality condition (30) holds for all values of the manager’s promise. (Color figure can be viewed
+at wileyonlinelibrary.com)
+
+firm’s value. Otherwise, the manager’s participation constraint is binding so
+that the hiring promise coincides with his reservation value (1.e., w, = Ww > w.).
+
+Statement (iii) sheds light on the optimal compensation policy at the start
+of a manager’s tenure. Depending on the value of the reservation promise
+w, three scenarios can arise. When the reservation value is relatively low, in
+the sense that w < w;, the compensation threshold is optimally set above the
+hiring promise (w, > wy). In this case, a newly hired manager does not receive
+any pay until the effect of the positive drift 0 +q, possibly combined with
+good cash flow realizations, finally raises his promise up to the compensation
+threshold w,. In contrast, if the reservation promise is high enough (w > w),
+a manager receives a signing bonus ACy = w — w, > 0 when appointed. In the
+case in which w = w;, the hiring promise and compensation threshold are such
+that w. = wz, = w, and the manager starts receiving compensation immediately
+after taking office.
+
+Statement (iv) provides an explicit condition on exogenous parameter val-
+ues for the firm to be a high-growth firm. Condition (35) suggests that high-
+growth firms tend to be the ones that are more productive (high jz) or have
+better opportunities (high 7). Our next proposition gives further insight into
+the characteristics of high-growth firms.
+Pitch End Of Page
+Pitch Start of Page
+448 The Journal of Finance®
+
+PROPOSITION 5: Consider any permissible values of (r, 0, ,0,q, 7,4, K, W) in R?
+such that w = W; and condition (35) holds with equality. A marginal increase
+in »4, 0, or Kk, or a marginal decrease in y, q, or 1, leads condition (35) to fail.
+
+PROOF: See Internet Appendix Section VI.C. O
+
+In view of statement (iv), the above proposition suggests that high-growth
+firms also tend to be characterized by not-too-severe moral hazard and low
+turnover costs (low A and x). These results confirm the insights derived in
+the two-period framework (see Lemma 4).°° Proposition 5 further suggests
+that frequent growth opportunities (high gq) and not-too-volatile cash flows
+(low o) are other attributes of high-growth firms. In particular, because of the
+cumulative nature of growth in our stationary environment, more frequent
+growth opportunities makes it more valuable to pursue any such opportunity.
+
+Finally, we characterize the determinants of the compensation threshold in
+high-growth firms with the following proposition. At this point, it is worth
+noting that, holding the dynamics of the manager’s promise constant, a lower
+(higher) compensation threshold results in more front-loaded (back-loaded)
+compensation.
+
+PROPOSITION 6: Consider (r, 0, U,0,q, Y,A,K, W) in the interior of the set of per-
+missible parameter values over which the firm is a high-growth firm.
+
+1. The optimal compensation threshold w, is increasing in x and is indepen-
+dent of wand y.
+
+it. If the parameter values are initially such that w = wW;, then a marginal
+increase in i or o leads to an increase in w,, whereas a marginal increase
+in q leads to a reduction in w-.
+
+PROOF: See Internet Appendix Section VI.D. O
+
+As the severity of moral hazard, the volatility of cash flows, or the cost of
+managerial replacement increases, the compensation threshold is raised to
+reduce the likelihood of inefficient turnover. On the other hand, an increase in
+the arrival rate of growth opportunities, by increasing the manager’s effective
+discount rate, results in a lower compensation threshold. Furthermore, the
+quality of growth opportunities, y, has no impact on the optimal compensation
+scheme conditional on the firm being of the high-growth type, although it may
+affect the shape of the compensation profile to the extent that it alters the firm’s
+growth regime (as in the two-period model).** We illustrate the implications of
+our model for the timing of compensation in Section IJI.E.
+
+33 The assumption @ = w;, under which Propositions 5 and 6(ii) are derived, implies the iden-
+tities w. = wp = W, which facilitate the proofs of our results. Establishing such results globally is
+beyond the scope of this paper.
+
+34 The result that the threshold w, is unaffected by the mean size-adjusted cash flow j. differs
+from the result derived in DeMarzo and Sannikov (2006), where we is increasing in jp. This is
+because the firm’s continuation value upon termination is exogenously given in their setup, whereas
+it is endogenously determined in ours.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 449
+
+D. Low-Growth Firms
+
+We now turn to the low-growth configuration. In light of Proposition 3 and
+Property 5, we consider the free-boundary problem that consists of finding two
+free-boundary points w, and wg < w, and a function u that satisfies the ODE
+
+252
+A u(w)+(o+q)wu'w)—-(r+quw)+ut+ql1 + y)uw,) — «] = 0 (36)
+
+ 
+
+in the interval (0, wz), satisfies the ODE
+
+on?
+ae Ww) +owu(w)—ru(w)+ uw =0 (37)
+
+in the interval (wz, w,), is given by
+uw) =u(we) -—(w— we), ifw> we, (38)
+
+satisfies the boundary conditions given by (33), and satisfies the requirement
+that
+
+u(Wg) — Wgl’(wg) = (14+ y)u(wy) — k, (39)
+
+where wy is defined as in (34). The analysis of this problem allows us to establish
+that, despite the assumption that forgoing growth opportunities is suboptimal
+under first-best, the low-growth configuration can arise, as stated in the fol-
+lowing proposition.
+
+PROPOSITION 7: The set of permissible parameter values over which the solution
+u to the free-boundary problem defined by (33)-(34) and (36)-(39) is C? and
+concave, and satisfies the HJB equation (28), has nonempty interior in R®. For
+such parameter values, the firm is a low-growth firm.
+
+PROOF: See Internet Appendix Section VII.C. O
+
+In low-growth firms, the optimal contract is as described in Section III.B,
+with growth and compensation thresholds given by the free-boundary points
+Wg, We Of the free-boundary problem defined above and with the hiring promise
+w, endogenously determined as part of the problem.*° Figure 2 depicts the
+firm’s value function along with the optimal thresholds in the low-growth con-
+figuration for particular parameter values. The figure also represents what the
+value of the firm would be if it were constrained to systematically pursue all
+growth opportunities as they come. The distance between the two curves in
+the figure illustrates the benefit that a low-growth firm derives from offering
+partial job protection to its managers, which can ultimately be traced back to
+a reduction in agency costs.
+
+35 In Internet Appendix Section VII.A, we derive five possible systems of highly nonlinear equa-
+tions that should be solved to determine the points wg, w,, and wp; see in particular Problem IA4.
+Given the complexity of this problem, providing a complete characterization of its solution to derive
+a suitable solution to the HJB equation (28) with boundary condition (29) is beyond the scope of
+this paper.
+Pitch End Of Page
+Pitch Start of Page
+450 The Journal of Finance®
+
+ 
+
+ 
+
+10.6 + wy Me |
+
+! ! I ) 4 I 1 Lis L
+
+0 0.2 0.4 0.6 0.8 1 1.2 1.4 1.6 1.8 2 2.2
+Promise w
+
+ 
+
+Figure 2. Value function, low-growth firm. The figure depicts the firm’s value function (solid
+line), along with the optimal growth and compensation thresholds (wg, w,), for parameter valuesr =
+7%, 0 = 16%, w=1,0 =1,¢ =0.2, y = 0.1,1 = 0.4, « = 0.8, and w = 1. The firm’s value function
+and the thresholds are determined by solving the free-boundary problem defined by (36) to (39)
+along with (33) and (34). The growth optimality condition (30) holds on [0, wg] but is violated for w >
+wg. The figure also plots what firm value would be if the firm were constrained to pursue all growth
+opportunities (dashed line), with the compensation threshold optimally determined by the solution
+to the high-growth free-boundary problem. (Color figure can be viewed at wileyonlinelibrary.com)
+
+It is worth noting that, our finding that, in some firms, growth may occur
+only after poor performance contrasts with the result obtained in setups where
+the firm can grow through investment with the incumbent (see, e.g., DeMarzo
+and Fishman (2007a)). In such settings, growth is positively related to past
+performance because the return on investment is higher after good cash flows,
+due to a reduction in agency costs. The opposite prediction arises in our setup
+because the net benefit of exposing a manager to the risk of growth-induced
+termination is lower after good performance, also due to a reduction in agency
+costs. In practice, the relevance of these two mechanisms should depend on
+the extent to which growth is of a “transformative” nature, that is, on whether
+pursuing a growth opportunity requires a change in management.*©
+
+36 The investment-—cash flow sensitivity literature points to a positive relationship between
+investment and past performance. However, these studies do not shed light on the empirical
+validity of the mechanism at play in our model because they do not account for the fact that firms
+may grow as a result of marginal changes or of radical transformations requiring a change in top
+management, nor do they account for the possibility that the firm’s value may increase without
+capital investment.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 451
+
+E. A Numerical Example
+
+We now use numerical simulations to illustrate how a firm’s growth prospects
+may affect managerial turnover and compensation in our setup. The numerical
+example also provides a sense of the quantitative properties of the continuous-
+time model.
+
+Frequency of Managerial Turnover. In our setting, the probability of an in-
+cumbent manager being dismissed depends on the past performance of the firm
+under his tenure, as well as on the availability of a growth opportunity and on
+the ex ante firm characteristics that affect its turnover policy. First, the like-
+lihood of dismissal increases with poor performance—both because a string of
+bad cash flows can result in disciplinary turnover and because, in some firms,
+growth-induced turnover occurs only after poor performance. Second, holding
+performance and firm characteristics constant, the probability of dismissal
+also increases (at least weakly) upon arrival of a growth opportunity. Finally,
+the probability of turnover depends on firm characteristics, to the extent that
+they affect the contract specification and the degree of protection granted to
+the manager. In particular, firms with better growth prospects should have a
+higher turnover rate.
+
+To see this last point, consider two firms that are identical in every dimension
+except for the size (y) of the growth opportunities they might receive. For the
+sake of illustration, we take as common parameter values across the two firms
+r=7%, 0 = 16%, 4uw=1,0 =1,¢q =0.2,A =0.4, ck = 0.3, and w = 1. In the firm
+with better growth prospects, we set y = 0.25; we set y = 0.10 in the other
+firm.®’ The difference in the quality of growth opportunities faced by the two
+firms makes the former a high-growth firm (i.e., a manager in this firm is
+never immune to the risk of growth-induced termination), and the latter a
+low-growth firm (i.e., managers are protected from growth-induced turnover
+after good performance). The average annualized turnover rate in these two
+firms is 21.4% and 5.5%, respectively. Changes in growth prospects driven by
+the arrival rate (q) of growth opportunities have similar effects. To see this,
+consider variations in g around the high-growth and low-growth baselines.
+For the high-growth firm, an increase in the frequency of growth opportunities
+from gq = 0.20 tog = 0.22 causes the average turnover rate to increase to 23.2%,
+while a decrease to g = 0.18 causes the turnover rate to drop to 19.4%. For the
+low-growth firm, the same variations in g cause the average turnover rate to
+rise to 5.7% or to drop to 5.3%, respectively.
+
+37 These parameter values are permissible. In particular, the firms’ growth prospects are suf-
+ficiently attractive as to make pursuing all growth opportunities optimal in the absence of moral
+hazard. Discount rates r and g, and intensity rate g, are expressed on an annual basis. Given the
+normalization « = 1, parameters o,«, and w are effectively expressed in terms of annual mean cash
+flow. For given parameter values, we first determine the firm’s type and the optimal contractual
+threshold(s) by solving numerically the free-boundary problems associated with the HJB equation
+(28) with boundary condition (29). The average turnover rate is then obtained by simulating the
+dynamics of the promise W under the optimal contract until dismissal for a very large number of
+managers.
+Pitch End Of Page
+Pitch Start of Page
+452 The Journal of Finance®
+
+ 
+
+ 
+
+ 
+
+, : : —_— High-Growth
+
+iY : : : = = = Low-Growth
+
+0 i 1 1
+0) 5 10 15 20 25 30 35
+Number of years
+
+ 
+
+Figure 3. Distribution of tenure length: high-growth vs. low-growth firms. The figure
+depicts model-implied cumulative distribution functions obtained from simulations for parameter
+values r = 7%, 0 = 16%, w=1, 0 = 1, gq = 0.2, y = 0.25 (high-growth) or y = 0.10 (low-growth),
+A = 0.4, « = 0.3, and w = 1. Optimal contractual thresholds are w, = 1.24 in the high-growth case,
+and wg = 0.92 and w, = 1.36 in the low-growth case. In both cases, the hiring promise wy coincides
+with the reservation promise w. (Color figure can be viewed at wileyonlinelibrary.com)
+
+Figure 3 depicts the cumulative distribution of tenure length in the two
+baseline examples. The probability distribution of tenure length for the low-
+growth firm first-order stochastically dominates the one for the high-growth
+firm, that is, the probability of a manager reaching any given number of tenure
+years is higher in the low-growth firm. The median tenure length of a manager
+is 3.3 years in the firm with better growth prospects (vy = 0.25), whereas it is
+12.6 years in the firm with poorer growth prospects (vy = 0.10). Changes in the
+quality of growth prospects driven by the arrival rate of growth opportunities
+q affect tenure length in a similar way: increasing the frequency of growth
+opportunities from g = 0.20 to g = 0.22 causes the median time in office to
+drop to 3.0 years and 12.1 years, respectively, whereas a decrease to g = 0.18
+causes the median time in office to rise to 3.6 years and 13.1 years, respectively.
+
+Extent of Compensation Back-Loading. Deferred compensation constitutes
+an essential feature of the optimal dynamic contract under moral hazard. It is
+well understood that the degree of compensation back-loading should depend on
+the severity of moral hazard (A), cash flow volatility (c), and the wedge between
+the manager’s and the firm’s discount rates (9 — r). In our setup, the extent of
+back-loading also depends on the likelihood of growth-induced turnover. Firms’
+growth prospects may affect the timing of compensation both through the drift
+of the manager’s promise and the level of the compensation threshold.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 453
+
+ 
+
+0.8 -
+
+0.6 +
+
+0.4 +
+
+0.2 +
+
+ 
+
+ 
+
+- Co oe oe a . High=Growth
+o7 = = = Low-Growth
+
+-
+oo i i i i i i i
+
+0
+0 1 2 3 4 5 6 7 8 9
+Number of years
+
+ 
+
+ 
+
+Figure 4. Distribution of realized compensation duration: high-growth vs. low-growth
+firms. The figure depicts model-implied cumulative distribution functions obtained from simu-
+lations for parameter values r = 7%, 0 = 16%, w=1, o =1, q = 0.2, y = 0.25 (high-growth) or
+y = 0.10 (ow-growth), 4 = 0.4, « = 0.8, and w = 1. Optimal contractual thresholds are w, = 1.24
+in the high-growth case, and wg = 0.92 and w, = 1.36 in the low-growth case. In both cases, the
+hiring promise wa coincides with the reservation promise w. (Color figure can be viewed at wiley-
+onlinelibrary.com)
+
+To illustrate this aspect of our model, we simulate managerial pay under
+the optimal contract and characterize the degree of compensation back-loading
+using the notion of compensation duration. In particular, for a given sequence
+of bonuses received by a manager over his tenure, we compute the weighted
+average of the points in time when compensation is received—with weights
+equal to the fraction of the total discounted pay (using the agent’s discount rate
+oe) received at each point in time.*® Figure 4 depicts the cumulative distribution
+of realized compensation duration in the two baseline configurations introduced
+earlier in this section. The relative position of the two distributions reflects the
+fact that, holding the level of expected discounted pay w constant across firms,
+compensation is more front-loaded in firms with better growth prospects. On
+average, compensation duration is 2.2 years in the high-growth firm, versus
+4.8 years in the low-growth firm. Similarly, we find that an increase in the
+arrival rate of growth opportunities (q) also results in lower compensation
+duration.
+
+38 Compensation duration is formally defined as (/5 e~& dC)" fj te~% dC;, in line with the no-
+tion of bond duration used in interest rate risk management. In simulations, we use the discretized
+version of this expression.
+Pitch End Of Page
+Pitch Start of Page
+454 The Journal of Finance®
+
+IV. Empirical Evidence
+
+In this section, we present evidence consistent with the notion of growth-
+induced turnover and the empirical implications derived in the context of the
+two-period framework in Section I.B and illustrated for the continuous-time
+model in Section III.E. We first investigate the empirical determinants of CEO
+turnover in light of the theory. We then explore the relation between the timing
+of CEO compensation and firms’ growth prospects.
+
+A. Data
+
+Our empirical analysis relies on information on CEO tenure episodes in U.S.
+public firms as reported in Standard & Poor’s ExecuComp database for the
+period 1992 to 2014.°” After merging the ExecuComp sample with accounting
+information from Compustat and stock return data from CRSP, our sample
+comprises 4,514 CEO episodes. Of these, 2,510 episodes cover the full tenure of
+the CEO from beginning to end. The total number of CEO-year observations in
+our sample is 27,992.4° The minimum number of firms covered in a given year
+is 760 in 1992 and the maximum is 1,416 in 2005.
+
+Using information from ExecuComp, we identify the beginning and end years
+of each completed CEO episode. The variable TotTenure is defined as the total
+number of years the CEO runs the firm. Within an episode, Turnover is a
+dummy variable that equals one in the last year of the CEO’s tenure and
+zero otherwise. We also use Execucomp to construct TotPay, which is the total
+compensation awarded to a CEO in a given year. Table I reports summary
+statistics for our sample. The average and median CEO tenure lengths are 6.5
+years and 5 years, respectively, while the average annual turnover rate is 8.4%.
+
+Our analysis centers on CEO turnover and the timing of CEO compensation
+in relation to the quality of a firm’s growth prospects. Our empirical proxy for
+a firm’s growth prospects during a given CEO episode is based on the “average
+Q” of the firm. The use of average Q to proxy for a firm’s growth opportunities
+is standard in the empirical corporate finance literature.*! We construct the
+average Q for each firm-year in our sample and denote it simply by Q. As
+a proxy for the quality of growth prospects during a given episode, we use
+
+39 The ExecuComp database covers all firms included in the S&P 500, MidCap, and SmallCap
+indexes. It would be interesting to extend the analysis to smaller public firms and private firms.
+Kaplan, Sensoy, and Stromberg (2008) document high turnover in the management teams of VC-
+backed private companies before going public.
+
+40 All CEO-year observations are from 1992 onwards. While the ExecuComp data set starts in
+1992, it covers episodes in which the CEO was appointed earlier. Our sample includes observations
+pertaining to such episodes when the required information (e.g., the firm’s average Q at the time
+the CEO was appointed) is available.
+
+41 The handbook by Eckbo (2001) surveys multiple studies in which average Q is used as a
+proxy for growth opportunities. This practice stems from Hayashi (1982), who derives sufficient
+conditions such that a firm’s average Q coincides with its marginal product of capital. See Caballero
+(1997) and Bond and Van Reenen (2007) for surveys of the empirical literature assessing the links
+between average Q, marginal q, and investment.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 455
+
+Table I
+Summary Statistics
+
+The table reports summary sample statistics for the merged ExecuComp/Compustat/CRSP data
+set, which covers CEO episodes reported in ExecuComp over the period 1992 to 2014. TotTenure is
+the total number of tenure years for CEO episodes that are completed within the sample period.
+Turnover is a dummy variable that equals one in the last year of a CEO’s tenure and zero otherwise.
+LnTotPay is the logarithm of total CEO compensation awarded in a given calendar year. Q/nit is
+the average Q of the firm in the year before the CEO was appointed; the same value is repeated
+throughout each CEO episode. RatioQ is the ratio of the lagged average Q of a firm in a given year
+divided by Q/nit. CAR is the two-year cumulative abnormal return of the firm (annualized). ROA
+is return on assets. LnAssets is the logarithm of the book value of total assets. Variable definitions
+are provided in the main text and in Internet Appendix Section VIII.
+
+Variable Mean SD p25 p50 p75 N
+
+ 
+
+TotTenure 6.492 5.001 3.000 5.000 9.000 2,510
+Turnover 0.084 0.278 0.000 0.000 0.000 27,992
+InTotPay 7.915 1.053 7.172 7.927 8.663 27,958
+QInit 1.788 1.212 1.099 1.371 1.981 27,992
+RatioQ 1.069 0.420 0.876 1.000 1.164 27,992
+CAR —0.001 0.244 —0.147 —0.005 0.129 27,992
+ROA 0.038 0.078 0.013 0.040 0.075 27,992
+LnAssets 7.700 1.699 6.452 7.602 8.887 27,992
+
+ 
+
+the value of @ in the year before the CEO is appointed, which we denote by
+QInit. We interpret a higher value of Q/nit as capturing better ex ante growth
+prospects at the time a new CEO is hired.
+
+Managerial turnover in our setup is also affected by the availability of growth
+opportunities. Capturing the arrival of a growth opportunity in any given year
+during a CEO episode is challenging empirically. As a proxy, we construct
+RatioQ as the ratio of the lagged value of a firm’s Q in any given year to
+QInit. A higher value of RatioQ is more likely when the firm has new growth
+opportunities available.
+
+To control for past performance in any given year within a CEO episode, we
+use the cumulative abnormal return of the firm measured over the previous
+two years, which we denote by CAR.*? We also consider lagged return on assets
+(ROA) as an additional control for performance. Finally, we use the logarithm
+of lagged total assets (LnAssets) to control for firm size.
+
+B. Determinants of CEO Turnover
+
+We first examine the relation between turnover and the quality of growth
+prospects. As a first pass, Figure 5 depicts the cumulative distribution of CEO
+tenure length conditional on ex ante growth prospects as proxied by QJnit.
+The solid line plots the kernel estimate of the distribution for the upper 20% of
+
+42 Our qualitative results are unaffected when we use one-year or three-year cumulative abnor-
+mal returns as a measure of past performance, or when we remove the initial years of a CEO’s
+tenure from the sample. Our results are also robust to the use of industry-level measures of Q in
+the construction of Q/nit and RatioQ.
+Pitch End Of Page
+Pitch Start of Page
+456 The Journal of Finance®
+
+ 
+
+w 04F-
+
+0.2+
+
+ 
+
+ 
+
+ 
+
+High Qinit
+
+, Low Qlnit
+
+ 
+
+| | |
+0) 5 10 15 20 25 30
+Total Number of Years as a CEO
+
+ 
+
+Figure 5. Distribution of CEO tenure length conditional on initial growth prospects.
+The figure depicts kernel estimates of the empirical cumulative distribution of CEO tenure length
+(TotTenure) for two subsamples. The first subsample (“Low QIJnit”) consists of the bottom quintile
+of CEO episodes sorted by initial Q; the corresponding distribution is plotted as a dashed line. The
+second subsample (“High QJnit”) consists of the top quintile of episodes sorted by initial Q; the
+corresponding distribution is plotted as a solid line. Variable definitions are provided in the main
+text and in Internet Appendix Section VIII. (Color figure can be viewed at wileyonlinelibrary.com)
+
+CEO episodes ranked by Q/nit, whereas the dashed line corresponds to the bot-
+tom 20%. The two-sample Wilcoxon-Mann-Whitney test and the Kolmogorov-
+Smirnov test both confirm the visual impression that the two samples are
+drawn from different distributions. The cumulative distribution for the upper
+QInit subsample lies significantly above that for the bottom QJnit subsample.
+That is, the likelihood that a CEO will not “survive” beyond any number of
+years is higher for CEOs entering firms with good growth prospects than for
+CEOs entering firms with poor growth prospects, consistent with the notion of
+growth-induced turnover. Figure 5 constitutes the empirical counterpart to the
+simulation results depicted in Figure 3.
+
+Next, we assess the implications of our model for managerial turnover by
+running a probit regression. The probit specification is
+
+Prob(Turnover ;,, = 1) = ®lyo + WiQInit ; + WeRatioQ ; .-1 + WsCAR; 1-1
++ aX; 1],
+
+where © is the standard normal cumulative distribution function, j denotes
+a CEO episode, t denotes the calendar year, and X denotes a vector of control
+variables. We control for the return on assets and the size of the firm, both
+lagged one year. Calendar year fixed effects are also included. We do not include
+firm or industry fixed effects in the probit to avoid the incidental parameters
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 457
+
+Table II
+Determinants of CEO Turnover
+
+The table reports evidence on the probability of CEO turnover from the probit regression estimated
+over the merged ExecuComp/Compustat/CRSP data set from 1992 to 2014. The dependent variable
+is the Turnover indicator variable. QInit is the average Q of the firm in the year before the CEO
+was appointed; the same value is repeated throughout each CEO episode. Ratio@ is the ratio of
+the lagged average Q of the firm in a given year divided by Q/nit. CAR is the two-year cumulative
+abnormal return of the firm (annualized) over the previous two years. ROA is return on assets,
+lagged one year. LnAssets is the logarithm of the lagged book value of total assets. Calendar year
+fixed effects are included in the regression. Robust standard errors (clustered at the firm level) are
+shown in parentheses. *** denotes statistical significance at the 1% level.
+
+ 
+
+(1) (2) (3)
+
+ 
+
+Coefficients Marginal Coefficients of Variation (in
+b/SE Effects b/SE Percentage Points)
+
+QInit 0.047*** 0.007*** 0.848
+(0.009) (0.001)
+
+RatioQ 0.089*** 0.014*** 0.588
+(0.030) (0.005)
+
+CAR —0.595*** —0.090*** —2.196
+(0.053) (0.008)
+
+ROA —0.806*** —0.122*** —0.952
+(0.131) (0.020)
+
+LnAssets 0.040*** 0.006*** 1.019
+(0.006) (0.001)
+
+N 27,992 27,992 27,992
+
+Year fixed effects Yes Yes Yes
+
+ 
+
+problem that arises in the context of nonlinear panel models.** In view of the
+comparative static results derived in Proposition 1, we hypothesize that the
+coefficients on QJnit and RatioQ should be positive, while the coefficients on
+CAR and ROA should be negative.
+
+Table II summarizes the results of the probit regression. Column (1) reports
+the estimated coefficients of the probit model and their standard errors. All
+explanatory variables have the expected signs and are highly statistically sig-
+nificant. The coefficient on QJnit is positive, in line with our model’s prediction
+that turnover is more frequent in firms with better ex ante growth prospects.
+The coefficient on Ratio is also positive, in line with the idea that turnover is
+sometimes triggered by the arrival of growth opportunities. Finally, the coef-
+ficients on CAR and ROA are negative, in line with the theoretical prediction
+that turnover is more likely after poor performance.
+
+Column (2) reports the implied marginal effects, which give the impact on the
+probability of turnover of a one-unit increase in an explanatory variable when
+all variables are evaluated at the sample means. In Column (3), the marginal
+
+43 See Woolridge (2002) for a textbook treatment. Earlier studies of CEO turnover by Kaplan
+and Minton (2012) and Jenter and Lewellen (2014) employ probit specifications similar to ours. In
+practice, when controlling for firm- or industry-level fixed effects, our qualitative conclusions are
+unaffected.
+Pitch End Of Page
+Pitch Start of Page
+458 The Journal of Finance®
+
+Table III
+Initial Growth Prospects and Growth-Induced Turnover
+
+The table reports the marginal effect of RatioQ on the likelihood of turnover for different lev-
+els of initial average Q, as implied by the probit model estimated over the merged Execu-
+Comp/Compustat/CRSP data set from 1992 to 2014. QInit is the average Q of the firm in the
+year before the CEO was appointed. RatioQ is the ratio of lagged Q in a given year divided by
+QInit. The marginal effect of RatioQ is evaluated at different quantiles of the distribution of QInit.
+Low, Median, and High quantiles correspond to the 20, 50, and 80' percentiles of the distri-
+bution of QJnit, respectively. Robust standard errors (clustered at the firm level) are shown in
+parentheses. *** denotes statistical significance at the 1% level.
+
+ 
+
+Marginal Effect of RatioQ
+
+ 
+
+b/SE
+
+Low QInit 0.0124***
+(0.0040)
+
+Median QInit 0.0126***
+(0.0041)
+
+High QInit 0.0133***
+(0.0044)
+N 27,992
+
+ 
+
+effects are multiplied by the sample standard deviation of the corresponding
+explanatory variables. A one-standard-deviation increase in Q/nit is associated
+with an increase in the probability of turnover of 85 basis points. Similarly, a
+one-standard-deviation increase in RatioQ leads to a 59 basis point increase in
+the probability of turnover. Since the unconditional frequency of CEO turnover
+in our sample is 8.4%, these results support the view that the growth-related
+drivers of managerial turnover emphasized in this paper are economically sig-
+nificant. Of course, this is in addition to the disciplinary role of turnover, which
+we also find to be important. In our sample, a one-standard-deviation increase
+in past abnormal returns is associated with a decrease in the probability of
+turnover of 2.2 percentage points.
+
+An additional implication of our model is a tendency for firms with relatively
+poor ex ante growth prospects to grant partial job protection to their CEOs. That
+is, our theory predicts that in such firms, a CEO is less likely to be dismissed
+for the sake of growth when an opportunity arises calling for his replacement.
+We explore the empirical validity of this prediction by evaluating the marginal
+effect of RatioQ on the probability of CEO turnover at different levels of QJnit.
+According to Proposition 1(iii), the impact of RatioQ on turnover should be
+greater for firms with relatively better ex ante growth prospects, that is, for
+higher values of QJnit. Table III reports these differential marginal effects. The
+marginal effect of RatioQ is strictly positive at all levels of QInit and is indeed
+increasing in Q/nit.
+
+C. Growth Prospects and CEO Compensation
+
+A key insight from our theory is that the managers of firms with better
+and more frequent growth opportunities should have more front-loaded
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 459
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.8 F
+Cc
+2
+©
+A 0.6 -
+>
+©
+oO
+‘6
+ui OA4P
+Q
+oO
+0.25
+----- Low Qlnit High QInit
+OF, 1 1 l
+0 2 4 6 8 10
+
+CEO Compensation Duration
+
+Figure 6. Distribution of CEO pay duration conditional on initial growth prospects. The
+figure depicts kernel estimates of the empirical cumulative distribution of realized compensation
+duration (PayDuration) for the bottom and top quintiles of CEO episodes sorted by initial Q (QInit),
+denoted by “Low QInit” and “High QJnit,” respectively. Variable definitions are provided in the main
+text and in Internet Appendix Section VIII. (Color figure can be viewed at wileyonlinelibrary.com)
+
+compensation. In this subsection, we provide evidence on the empirical
+relation between CEO compensation and firms’ growth prospects. We explore
+the data in two ways.
+
+As a first pass, we compute a measure of realized compensation duration for
+each CEO episode and investigate how it varies across episodes that differ in
+terms of the firm’s growth prospects at the time the CEO was appointed. For a
+given CEO episode j lasting N; years, our measure of compensation duration,
+PayDuration, is obtained as
+
+Nj
+Pay Duration; = > oN
+n=l dhol Disc Pay ; ;
+
+DiscPay ;
+Vimy (40)
+
+where Disc Pay ; , = TotPay; ,/(1 + @)” corresponds to the present value of the
+
+compensation received by the CEO in his n“ tenure year. Setting the discount
+rate g to 10%, we find that, in the subsample of episodes over which this
+measure is computed, average CEO compensation duration is 3.7 years, while
+the median is 3.2 years.
+
+Figure 6 provides an empirical counterpart to Figure 4, depicting kernel
+estimates of the cumulative distribution of PayDuration conditional on ex ante
+growth prospects proxied by QJnit. The solid line pertains to the upper 20%
+of QJnit in our sample, while the dashed line pertains to the bottom 20%. The
+cumulative distribution for the upper QJnit subsample lies above that for the
+Pitch End Of Page
+Pitch Start of Page
+460 The Journal of Finance®
+
+Table IV
+Determinants of CEO Compensation
+
+This table reports evidence on the profile of CEO compensation over tenure. LnTotPay is the
+logarithm of total CEO pay awarded in a given year as reported in ExecuComp. TJenureYear is
+the number of years in tenure of the CEO in a given calendar year. QJnit is the average Q of the
+firm in the year before the CEO was appointed. CAR is the two-year cumulative abnormal return
+of the firm (annualized) over the previous two years. ROA is return on assets, lagged one year.
+LnAssets is the logarithm of the lagged book value of total assets. The regression is estimated over
+all episode-year observations in our sample, some of which pertain to CEO episodes that have not
+finished by the end of the sample period. Robust standard errors (clustered at the firm level) are
+shown in parentheses. *, **, and *** denote statistical significance at the 10%, 5%, and 1% level,
+respectively.
+
+(1) (2)
+
+ 
+
+LnTotPay LnTotPay
+Tenure Year 0.017*** 0.008*
+(0.004) (0.003)
+QInit 0.073*** 0.054***
+(0.011) (0.014)
+QInit x Tenure Year —0.008*** —0.005**
+(0.002) (0.002)
+CAR 0.556*** 0.435***
+(0.026) (0.026)
+LnAssets 0.430*** 0.199***
+(0.007) (0.019)
+Firm Fixed Effects No Yes
+Industry Fixed Effects Yes No
+Year Fixed Effects Yes Yes
+R? 0.5382 0.663
+N 27,615 27,615
+
+ 
+
+bottom Q/nit subsample, which is consistent with our model’s insight that firms
+with better growth prospects should have more front-loaded compensation.**
+
+To further investigate how profiles of CEO pay over tenure vary with firms’
+growth prospects, we consider the regression
+
+Ln(TotPay ; .) = Wo + W1 Tenure Year ; 4 + v2 QInit; +
++ W3 QInit; x Tenure Year ; ; + o'XKj 4-1 + €;.2,
+
+where j denotes a CEO episode, ¢ denotes the calendar year, TenureYear ;
+(TotPay ; ,) denotes the tenure of the CEO in year ¢ (the total compensation
+received by the CEO in that year), and X denotes a vector of control variables.
+We control for past performance and firm size, as well as for calendar year
+
+44The results from the two-sample Wilcoxon-Mann-Whitney test and from the Kolmogorov-
+Smirnov test both confirm that the difference between the two empirical distributions is statisti-
+cally significant. Furthermore, controlling for year fixed effects, PayDuration and QInit are signif-
+icantly negatively correlated across CEO episodes. When also controlling for firm fixed effects, the
+correlation remains negative but becomes insignificant due to the small number of observations.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 461
+
+fixed effects and industry or firm fixed effects. Our theory predicts (see Propo-
+sition 2(iii)) that firms with better ex ante growth prospects are characterized
+by a higher initial level of pay per period (i.e., 2 positive) and slower growth in
+compensation over tenure (i.e., 3 negative). Table IV summarizes our empiri-
+cal findings for two alternative specifications that control for industry and firm
+fixed effects, respectively. The coefficients of interest are significant with the
+expected signs, and the results are very similar across both specifications. We
+also note that the coefficient on past abnormal returns is positive and signifi-
+cant, in line with the theoretical prediction that CEO pay is positively related
+to past performance.
+
+V. Conclusion
+
+This paper introduces growth-induced turnover in a dynamic moral haz-
+ard framework and analyzes the interaction between this type of turnover
+and managerial incentive provision. In our model, growth opportunities arrive
+stochastically over time and the firm must appoint a new manager to be able
+to seize them. Our analysis highlights the trade-off that a firm faces between
+the benefit of always having a manager who is the right man for the job at
+hand and the cost of incentive provision. The key new insight is that exposing
+incumbent managers to the risk of growth-induced dismissal effectively in-
+creases their discount rate and thus the cost of incentive provision. As a result,
+some firms find it optimal to provide managers some degree of job protection,
+at the cost of forgoing growth opportunities. Across firms, a higher likelihood
+of growth-induced turnover translates into a greater tendency to front-load
+compensation. Our empirical findings are consistent with these predictions of
+the model.
+
+An essential feature of our model is that nondisciplinary managerial turnover
+can be triggered by the firm contingent on the arrival of exogenous contractible
+shocks. In our setup, shocks correspond to the arrival of growth opportuni-
+ties, and it is first-best efficient for the firm to replace the incumbent manager
+upon arrival of a growth opportunity. Our analysis could be applied to alterna-
+tive forms of exogenous contractible shocks. First, transformative managerial
+change may also be important for firms in decline. For instance, a change in
+management may be required for a firm to respond to increased product market
+competition or to the threat of a disruptive new technology. Second, the firm
+may face opportunities to transform—through a change in management—that
+would bring gains that are too modest to outweigh the cost of implement-
+ing them, so that they would not be taken up under first-best. However, in
+a second-best world, it may be optimal to take these inefficient opportunities
+when the agency costs associated with the current manager are high. We be-
+lieve that a number of theoretical insights of the paper would carry through in
+these alternative settings, although the empirical implications would be quite
+different.
+
+The existing empirical literature on managerial turnover and compensation
+has been informed mostly by two paradigms from the contracting literature—
+Pitch End Of Page
+Pitch Start of Page
+462 The Journal of Finance®
+
+the moral hazard model in which pay and dismissal are used to incentivize
+the agent, and the learning model in which the principal learns about the
+unknown quality of the agent over time. In our view, transformative change
+can be another powerful driver of managerial turnover and compensation. We
+document that firms with better growth prospects experience higher CEO
+turnover and rely on more front-loaded compensation schemes. These find-
+ings are consistent with the assumption of growth-induced turnover and the
+predictions of our model. Nonetheless, other theories may be consistent with
+these findings. Identifying the specific channel through which firms’ growth
+prospects relate to CEO turnover and compensation deserves further empirical
+work.
+
+Initial submission: September 10, 2012; Accepted: December 5, 2016
+Editors: Bruno Biais, Michael R. Roberts, and Kenneth J. Singleton
+
+REFERENCES
+
+Anderson, Ronald W., M. Cecilia Bustamante, and Stéphane Guibaud, 2012, Agency, firm growth,
+and managerial turnover, CEPR Discussion Paper #9147.
+
+Atkeson, Andrew, and Harold Cole, 2008, A dynamic theory of optimal compensation and executive
+compensation, Working paper, UCLA.
+
+Benes, Vaclav E., Larry A. Shepp, and Hans S. Witsenhausen, 1980, Some solvable stochastic
+control problems, Stochastics 4, 134-160.
+
+Bennedsen, Morten, Francisco Pérez-Gonzalez, and Daniel Wolfenzon, 2012, Estimating the value
+of the boss: Evidence from CEO hospitalization events, Working paper, Stanford.
+
+Bertrand, Marianne, and Antoinette Schoar, 2003, Managing with style: The effect of managers
+on firm policies, Quarterly Journal of Economics 118, 1169-1208.
+
+Biais, Bruno, Thomas Mariotti, Guillaume Plantin, and Jean-Charles Rochet, 2007, Dynamic
+security design: Convergence to continuous time and asset pricing implications, Review of
+Economic Studies 74, 345-390.
+
+Biais, Bruno, Thomas Mariotti, Jean-Charles Rochet, and Stéphane Villeneuve, 2010, Large risks,
+limited liability and dynamic moral hazard, Econometrica 78, 73-118.
+
+Bond, S., and J. Van Reenen, 2007, Microeconometric models of investment and employment, in J.
+Heckman and E. Leamer, eds.: Handbook of Econometrics (North Holland, Amsterdam).
+Caballero, Ricardo J., 1997, Aggregate investment, in J. Taylor and M. Woodford, eds.: Handbook
+
+of Macroeconomics (North Holland, Amsterdam).
+
+Casamatta, Catherine, and Alexander Guembel, 2010, Managerial legacies, entrenchment and
+strategic inertia, Journal of Finance 65, 2403-2436.
+
+Chen, Guoli, and Donald C. Hambrick, 2012, CEO replacement in turnaround situations: Executive
+(mis)fit and implications, Organization Science 23, 225-2438.
+
+Clementi, Gian Luca, and Thomas Cooley, 2010, Executive compensation: Facts, NBER Working
+paper #15426.
+
+Clementi, Gian Luca, and Hugo Hopenhayn, 2006, A theory of financing constraints and firm
+dynamics, Quarterly Journal of Economics 121, 229-265.
+
+Coughlan, Anne T., and Ronald M. Schmidt, 1985, Executive compensation, management turnover,
+and firm performance, Journal of Accounting and Economics 7, 43-66.
+
+DeMarzo, Peter, and Michael J. Fishman, 2007a, Agency and optimal investment dynamics, Review
+of Financial Studies 22, 859-892.
+
+DeMarzo, Peter, and Michael J. Fishman, 2007b, Optimal long-term financial contracting, Review
+of Financial Studies 20, 2079-2128.
+
+DeMarzo, Peter, Michael J. Fishman, Zhiguo He, and Neng Wang, 2012, Dynamic agency and the
+q theory of investment, Journal of Finance 67, 2295-2340.
+Pitch End Of Page
+Pitch Start of Page
+Agency, Firm Growth, and Managerial Turnover 463
+
+DeMarzo, Peter, and Yuliy Sannikov, 2006, Optimal security design and dynamic capital structure
+in a continuous-time agency model, Journal of Finance 61, 2681-2724.
+
+Denis, David J., Diane K. Denis, and Atulya Sarin, 1997, Ownership structure and top executive
+turnover, Journal of Financial Economics 45, 1938-221.
+
+Eckbo, B. Espen, ed., 2001, Handbook of Empirical Corporate Finance (North Holland, Amster-
+dam).
+
+Edmans, Alex, Xavier Gabaix, Tomasz Sadzik, and Yuliy Sannikov, 2012, Dynamic CEO compen-
+sation, Journal of Finance 67, 1603-1647.
+
+Eisfeldt, Andrea L., and Camilia M. Kuhnen, 2013, CEO turnover in a competitive assignment
+framework, Journal of Financial Economics 109, 351-372.
+
+Eisfeldt, Andrea L., and Adriano A. Rampini, 2008, Managerial incentives, capital reallocation,
+and the business cycle, Journal of Financial Economics 87, 177-199.
+
+Gabaix, Xavier, and Augustin Landier, 2008, Why has CEO pay increased so much? Quarterly
+Journal of Economics 123, 49-100.
+
+Garrett, Daniel F., and Alessandro Pavan, 2012, Managerial turnover in a changing world, Journal
+of Political Economy 120, 879-925.
+
+Garrett, Daniel F., and Alessandro Pavan, 2015, Dynamic managerial compensation: A variational
+approach, Journal of Economic Theory 159, 775-818.
+
+Gopalan, Radhakrishnan, Todd Milbourn, Fenghua Song, and Anjan V. Thakor, 2014, Duration of
+executive compensation, Journal of Finance 69, 2777-2817.
+
+Harris, Milton, and Bengt Holstrém, 1982, A theory of wage dynamics, Review of Economic Studies
+49, 315-333.
+
+Hayashi, Fumio, 1982, Tobin’s marginal g and average q: A neoclassical interpretation, Economet-
+rica 50, 2138-224.
+
+He, Zhiguo, 2008, Optimal executive compensation when firm size follows geometric Brownian
+motion, Review of Financial Studies 22, 859-892.
+
+He, Zhiguo, 2012, Dynamic compensation contracts with private savings, Review of Financial
+Studies 25, 1494-1549.
+
+Hoffmann, Florian, and Sebastian Pfeil, 2010, Reward for luck in a dynamic agency model, Review
+of Financial Studies 23, 3329-3345.
+
+Holmstrém, Bengt, and Paul Milgrom, 1987, Aggregation and linearity in the provision of intertem-
+poral incentives, Econometrica 55, 303-328.
+
+Inderst, Roman, and Holger M. Mueller, 2010, CEO replacement under private information, Review
+of Financial Studies 23, 2935-2969.
+
+Jenter, Dirk, and Fadi Kanaan, 2015, CEO turnover and relative performance evaluation, Journal
+of Finance 70, 2155-2184.
+
+Jenter, Dirk, and Katharina Lewellen, 2014, Performance-induced CEO turnover, Working paper,
+London School of Economics.
+
+Kaplan, Steven N., and Bernadette Minton, 2012, How has CEO turnover changed? International
+Review of Finance 12, 57-87.
+
+Kaplan, Steven N., Berk A. Sensoy, and Per Stromberg, 2008, Should investors bet on the jockey
+or the horse? Journal of Finance 64, 75-115.
+
+Karatzas, Ioannis, 1983, A class of singular stochastic control problems, Advances in Applied
+Probabilities 15, 225-254.
+
+Kim, Yungsan, 1996, Long-term firm performance and chief executive turnover, Journal of Law,
+Economics, and Organization 12, 480-496.
+
+Kostiuk, Peter F., 1990, Firm size and executive compensation, Journal of Human Resources 25,
+90-105.
+
+Li, Rui, 2015, Dynamic agency with persistent observable shocks, Working paper, University of
+Massachusetts Boston.
+
+Murphy, Kevin J., 1999, Executive compensation, in O. Ashenfelter and D. Card, eds.: Handbook
+of Labor Economics (North Holland, Amsterdam).
+
+Murphy, Kevin J., 2013, Executive compensation: Where we are, and how we got there, in G.
+Constantinides, M. Harris, and R. Stulz, eds.: Handbook of the Economics of Finance (North
+Holland, Amsterdam).
+Pitch End Of Page
+Pitch Start of Page
+464 The Journal of Finance®
+
+Penrose, Edith, 1959, The Theory of the Growth of the Firm (Oxford, Basil Blackwell).
+
+Philippon, Thomas, and Yuliy Sannikov, 2007, Real options in a dynamic agency model, with
+applications to financial development, IPOs, and business risk, Working paper, NYU.
+
+Piskorski, Tomasz, and Alexei Tchistyi, 2010, Optimal mortgage design, Review of Financial Stud-
+ies 23, 3098-3140.
+
+Quadrini, Vincenzo, 2004, Investment and liquidation in renegotiation-proof contracts with moral
+hazard, Journal of Monetary Economics 51, 713-751.
+
+Roberts, John, 2004, The Modern Firm: Organizational Design for Performance and Growth (Oxford
+University Press, Oxford)
+
+Rogerson, William P., 1985, Repeated moral hazard, Econometrica 53, 69-76.
+
+Sannikov, Yuliy, 2008, A continuous-time version of the principal-agent problem, Review of Eco-
+nomic Studies 75, 957-984.
+
+Spear, Stephen E., and Sanjay Srivastava, 1987, On repeated moral hazard with discounting,
+Review of Economic Studies 54, 599-617.
+
+Spear, Stephen E., and Cheng Wang, 2005, When to fire a CEO: Optimal termination in dynamic
+contracts, Journal of Economic Theory 120, 239-256.
+
+Warner, Jerold B., Ross Watts, and Karen H. Wruck, 1988, Stock prices and top management
+changes, Journal of Financial Economics 20, 461-492.
+
+Weisbach, Michael S., 1988, Outside directors and CEO turnover, Journal of Financial Economics
+20, 431-460.
+
+Woolridge, Jeffrey M., 2002, Econometric Analysis of Cross Section and Panel Data (MIT Press,
+Cambridge, MA).
+
+Supporting Information
+
+Additional Supporting Information may be found in the online version of this
+article at the publisher’s website:
+
+Appendix S1: Internet Appendix.
+Pitch End Of Page
