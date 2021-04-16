@@ -34,25 +34,26 @@ def fill_in(table, article):
 
     # this is where my text goes in
 
-    # get the top papers, this was old code
-    # papers = get_papers.get_papers()
     columns = table.columns[1]
     columns.cells[0].text = "Four elements of framing"
     columns.cells[1].text = "{}".format(article["full_reference"])
-    columns.cells[2].text = ""
-    columns.cells[3].text = "{}".format(article["top_references"])
-    columns.cells[4].text = "{}".format(article["motivation"])
+    columns.cells[2].text = f"{article['answer_research_question']}"
+    references = ""
+    for idx, ref in enumerate(article["top_references"]):
+        references += f"{idx+1}. {ref['auth']}, {ref['year']}, {ref['rest']}.\n"
+    columns.cells[3].text = "{}".format(references)
+    columns.cells[4].text = "{}".format(article["answer_motivation"])
     columns.cells[5].text = "Three building blocks"
-    columns.cells[6].text = ""
-    columns.cells[7].text = "{}".format(article["data_source"])
-    columns.cells[8].text = ""
+    columns.cells[6].text = f"{article['answer_idea']}"
+    columns.cells[7].text = "{}".format("\n".join(article["answer_data"]))
+    columns.cells[8].text = f"{article['answer_tools']}"
     columns.cells[9].text = "Two key questions"
-    columns.cells[10].text = ""
-    columns.cells[11].text = ""
+    columns.cells[10].text = f"{article['answer_whats_new']}"
+    columns.cells[11].text = f"{article['answer_so_what']}"
     columns.cells[12].text = "One bottom line"
-    columns.cells[13].text = "{}".format(article["contribution"])
+    columns.cells[13].text = "{}".format(article["answer_contribution"])
     columns.cells[14].text = ""
-    columns.cells[15].text = "{}".format(article["key_findings"])
+    columns.cells[15].text = "{}".format(article["answer_key_findings"])
 
 
 if __name__ == "__main__":

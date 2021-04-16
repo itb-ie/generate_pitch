@@ -1,26 +1,46 @@
 # this is the first file to be run, mostly the GUI part
-from template import *
-import subprocess
-import os
+import logging
+#FORMAT = "[%(filename)s:%(lineno)s - %(funcName)20s() ] %(message)s"
+#logging.basicConfig(format=FORMAT, handlers=[logging.FileHandler('log.txt', 'w', 'utf-8')])
+
+import os, sys
 import docx
-from docx.enum.text import WD_ALIGN_PARAGRAPH
-from docx.shared import Pt
-import pandas as pd
 import tkinter as tk
 from tkinter.ttk import *
 from tkinter import filedialog
 from ttkthemes import ThemedTk
-from pdf2image import pdfinfo_from_path, convert_from_path
-import pytesseract
+# import pytesseract
 import template
 import jf.analyze_jf
+from shutil import copyfile
+import ntpath
 
+
+
+logger = logging.getLogger("pitch_generator")
+logger.setLevel(logging.INFO)
+
+
+fileh = logging.FileHandler('log.txt', 'w', encoding='utf-8')
+formatter = logging.Formatter('[%(filename)s:%(lineno)s - %(funcName)20s() ] %(message)s')
+fileh.setFormatter(formatter)
+
+log = logging.getLogger()  # root logger
+for hdlr in log.handlers[:]:  # remove all old handlers
+    log.removeHandler(hdlr)
+
+log.addHandler(fileh)
+
+def resource_path(relative_path):
+    if hasattr(sys, '_MEIPASS'):
+        return os.path.join(sys._MEIPASS, relative_path)
+    return os.path.join(os.path.abspath("."), relative_path)
 
 class GUI(object):
     def __init__(self, win):
         self.w = win
         self.w.title("Generate Pitch")
-        # window.geometry("1400x700")
+        window.geometry("370x550")
         self.w.resizable(0, 0)
 
         # with ttk we need to configure styles:
@@ -28,14 +48,17 @@ class GUI(object):
         self.style.configure("TButton", font=("Arial", 12, 'bold'), width=25)
         self.style.configure("TLabel", font=("Arial", 15), anchor=tk.W, width=30, foreground="darkblue")
         self.style.configure("TEntry", font=("Arial", 15), anchor=tk.W)
-        self.style.configure("Status.TLabel", font=("Arial", 10), anchor=tk.W, width=70, foreground="darkblue")
+        self.style.configure("Status.TLabel", font=("Arial", 10), anchor=tk.W, width=50, foreground="darkblue")
 
-        self.title_image = tk.PhotoImage(file="pitch-doctor.gif")
+        self.title_image = tk.PhotoImage(file=resource_path("pitch-doctor2.gif"))
         self.lb = Label(master=window, image=self.title_image)
         self.lb.grid(row=0, pady=(0,20), columnspan=3)
 
         self.bt_article = Button(master=self.w, text="Choose Article", command=self.open_article)
         self.bt_article.grid(row=1, column=1, padx=30)
+
+        self.bt_article = Button(master=self.w, text="Debug: Convert All", command=self.open_all_article)
+        self.bt_article.grid(row=2, column=1, padx=30)
 
         self.bt_exit = Button(master=self.w, text="Exit", command=tk.sys.exit)
         self.bt_exit.grid(row=4, column=1, padx=30, pady=20)
@@ -47,50 +70,54 @@ class GUI(object):
         self.doc = docx.Document()
         self.table = self.doc.add_table(16, 2, style="Light Grid Accent 1")
         self.article = None
+        self.filename = ""
 
     def open_article(self):
         # text is a list of text pages
-        filename = filedialog.askopenfilename(initialdir=os.getcwd(), filetypes=(("Pdf Files", "*.pdf"), ("All files", "*.*")))
+        self.filename = filedialog.askopenfilename(initialdir=os.getcwd(), filetypes=(("Pdf Files", "*.pdf"), ("All files", "*.*")))
         self.lb_status.config(text="Opened and extracted the text from the file")
-
-        #'''
-        # the fmt might be important because with JPG I might be losing some accuracy
-        info = pdfinfo_from_path(filename, userpw=None, poppler_path=None)
-
-        maxpages = info["Pages"]
-        print("maxpages={}".format(maxpages))
-        text = []
-        for page in range(1, maxpages+1, 5):
-            print("Comvertesc intre {} si {}".format(page, min((page + 5 - 1, maxpages))))
-            images = convert_from_path(filename, dpi=400, first_page=page, last_page=min(page + 5 - 1, maxpages))
-
-            # images = pdf2image.convert_from_path(filename, dpi=400, fmt='ppm', grayscale=True)
-            print("dupa ce am convertit am {} pages".format(len(images)))
-
-            # go page by page (image in images)
-            for image in images:
-                # convert one page to text using the tesseract OCR:
-                print("Inside the for, apelez pe image_to_string")
-                text.append(pytesseract.image_to_string(image, config='--psm 4', lang="eng"))
-
-        with open("converted.txt", "w") as fd:
-            for idx, page in enumerate(text, 1):
-                # save it to text
-                fd.write(jf.analyze_jf.start_marker + page)
-                # not sure if I need to split by pages at this time
-                fd.write(jf.analyze_jf.end_marker)
-        #'''
-
-        self.article = jf.analyze_jf.get_article_information("converted.txt")
+        self.article = jf.analyze_jf.get_article_information(self.filename)
         self.generate_doc()
 
+    def open_all_article(self):
+        # text is a list of text pages
+        self.filename = filedialog.askopenfilename(initialdir=os.getcwd(), filetypes=(("Pdf Files", "*.pdf"), ("All files", "*.*")))
+        dir_name = ntpath.dirname(self.filename)
+        pdfs = []
+        for file in os.listdir(dir_name):
+            if ".pdf" in file.lower():
+                pdfs.append(file)
+        print("here are all the files", pdfs)
+        for file in pdfs:
+            self.filename = dir_name + "/" + file
+            self.lb_status.config(text=f"Opened and extracted the text from the file {file}")
+            self.article = jf.analyze_jf.get_article_information(self.filename)
+            self.generate_doc()
+
     def generate_doc(self):
+        dest = self.filename.lower()
+        dest = dest.replace(".pdf", "")
+        dest = ntpath.basename(dest)
         template.set_col_widths(self.table)
         template.fill_in(self.table, self.article)
-        self.doc.save("Pitch.docx")
+        self.doc.save(f"Pitch-{dest}.docx")
+        #rename the log file
+        copyfile("log.txt", f"pitch-{dest}.log")
+
+        # delete the logger
+        log = logging.getLogger()  # root logger
+        for hdlr in log.handlers[:]:  # remove all old handlers
+            log.removeHandler(hdlr)
+
+        fileh = logging.FileHandler('log.txt', 'w', encoding='utf-8')
+        formatter = logging.Formatter('[%(filename)s:%(lineno)s - %(funcName)20s() ] %(message)s')
+        fileh.setFormatter(formatter)
+        log.addHandler(fileh)
 
 
-pytesseract.pytesseract.tesseract_cmd = "C:/Program Files/Tesseract-OCR/tesseract"
+
+
+# pytesseract.pytesseract.tesseract_cmd = "C:/Program Files/Tesseract-OCR/tesseract"
 window = ThemedTk(screenName="Contract Generator", theme="radiance")
 gui = GUI(window)
 # main loop
